@@ -192,7 +192,7 @@ Travel Channel,P2p://ns2.hellotvvod.com:9906/de1b53cbc8594c7aae5410f62bbcc016
 公视(备),P2p://ns2.hellotvvod.com:9906/d0e871d8d1a74394b9fa5bbb59beb615
 东森新闻台(备),P2p://ns2.hellotvvod.com:9906/9c947491eb18402ba078d524c89c4c7e
 镜新闻,P2p://ns2.hellotvvod.com:9906/8a9b3ed3ed5949adaf7a585c3efd55ac
-中国,#genre#
+🇨🇳｜中国,#genre#
 CCTV1,P2p://ns2.hellotvvod.com:9906/d74dfbc1317d4f5c83021e2cccfa0f1a
 CCTV2,P2p://ns2.hellotvvod.com:9906/7cbcfaec1c4b49e7a55a4cbb720c46b1
 CCTV3,P2p://ns2.hellotvvod.com:9906/65311c2325144d928c6a459033500438
@@ -680,7 +680,7 @@ beIN Sports 2,P2p://ns2.hellotvvod.com:9906/9279ca91b2584995a0903c1601ede459
 Hub Sports 1,P2p://ns2.hellotvvod.com:9906/4f4e4cf81ce24b92924aa8945fefe2be
 Hub Sports 2,P2p://ns2.hellotvvod.com:9906/9a55d5e34e6f4cb7bc671c2fef26b3f9
 Hub Sports 3,P2p://ns2.hellotvvod.com:9906/d72dd249a76b463d92781845d1302a7b
-知识,#genre#
+👍｜知识,#genre#
 CCTV9,P2p://ns2.hellotvvod.com:9906/36303aed64704a2ba673d13b175a236b
 国家地理频道,P2p://ns2.hellotvvod.com:9906/85660dd12d974fc49683fed91d3114db
 探索频道,P2p://ns2.hellotvvod.com:9906/2fc7400c794943bca00b41f24b99346b
