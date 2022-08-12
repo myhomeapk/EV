@@ -236,7 +236,7 @@ CCTV15,P2p://ns2.hellotvvod.com:9906/60d775c408eb4586bd04be8fd3b89390
 广东体育,P2p://ns2.hellotvvod.com:9906/d88bdef775004a6587a853683ff3210e
 CCTV16,P2p://ns2.hellotvvod.com:9906/c31ec76c7cda4ea2ba9c1031267cd817
 广东影视,P2p://ns2.hellotvvod.com:9906/4805659de87d4b65a1f34f07502690be
-港澳,#genre#
+🇭🇰｜港澳,#genre#
 港台電視31,P2p://ns2.hellotvvod.com:9906/bffa99798812479ea725065fec8c8f5e
 港台电视32,P2p://ns2.hellotvvod.com:9906/ecd6cd624d2441ba9ed2b4f7a4291311
 香港开电视,P2p://ns2.hellotvvod.com:9906/0f06816415d2451d969e519d05c64307
@@ -430,7 +430,7 @@ Hub Sports 1,P2p://ns2.hellotvvod.com:9906/4f4e4cf81ce24b92924aa8945fefe2be
 Hub Sports 2,P2p://ns2.hellotvvod.com:9906/9a55d5e34e6f4cb7bc671c2fef26b3f9
 Hub Sports 3,P2p://ns2.hellotvvod.com:9906/d72dd249a76b463d92781845d1302a7b
 Horse Racing 88,P2p://ns2.hellotvvod.com:9906/f94c727bc0674a4e9c6dc4270a450d8b
-JAPAN｜日本,#genre#
+🇯🇵｜日本,#genre#
 NHK-G综合,P2p://ns2.hellotvvod.com:9906/d2613bad7a804113bd5f6c75b88204df
 NHK-E教育,P2p://ns2.hellotvvod.com:9906/793f937478484f1eba13eb0ed9309568
 日本テレビ,P2p://ns2.hellotvvod.com:9906/db7666ef109746e9bfa9c91253321eda
@@ -494,7 +494,7 @@ Tooniverse,P2p://ns2.hellotvvod.com:9906/20ea89b151e440388feb0b6f008f5111
 SPOTV,P2p://ns2.hellotvvod.com:9906/93cd74a4ca8e48f58d676e4d0e7cfb0e
 SPOTV 2,P2p://ns2.hellotvvod.com:9906/58a2058831064ceb83625fb2ae1dd23d
 JTBC GOLF,P2p://ns2.hellotvvod.com:9906/47c9c447a72642608b4575e43aa547b1
-印尼,#genre#
+🇮🇩｜印尼,#genre#
 tvN Movies HD,P2p://ns2.hellotvvod.com:9906/96c910af516c4099a7f652edee73dd92
 Indosiar,P2p://ns2.hellotvvod.com:9906/e7aecf0cc29f48d995808580a6dc085a
 SCTV,P2p://ns2.hellotvvod.com:9906/d812a6a43acf45c2be32a6ec2c899887
