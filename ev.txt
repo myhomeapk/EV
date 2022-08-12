@@ -1,4 +1,4 @@
-台湾,#genre#
+TAIWAN｜台湾,#genre#
 CNN,P2p://ns2.hellotvvod.com:9906/c1a6d29a426a4cbabb1c2d0a09c7222f
 民视,P2p://ns2.hellotvvod.com:9906/a7012db2192842388b789d414f6fbd8f
 人间卫视,P2p://ns2.hellotvvod.com:9906/9b616c6e68d3483aa838ee20eb95bbf5
