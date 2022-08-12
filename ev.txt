@@ -603,14 +603,14 @@ ABC Australia,P2p://ns2.hellotvvod.com:9906/92245e3a54874b93880bbe04ce7073ed
 台视财经台,P2p://ns2.hellotvvod.com:9906/835b47f172454f98a5baf8ba3edaa43a
 东森新闻台(备),P2p://ns2.hellotvvod.com:9906/9c947491eb18402ba078d524c89c4c7e
 镜新闻,P2p://ns2.hellotvvod.com:9906/8a9b3ed3ed5949adaf7a585c3efd55ac
-音乐,#genre#
+🎵音乐,#genre#
 MTV,P2p://ns2.hellotvvod.com:9906/72d1c09d5c9f48efae294663eeed97e4
 Music Japan TV,P2p://ns2.hellotvvod.com:9906/539b1015928146249b6d92edacd73f92
 MTV Live,P2p://ns2.hellotvvod.com:9906/2cf0015b934e4ba9a98dddf3821faf85
 Mezzo Live,P2p://ns2.hellotvvod.com:9906/562cf5245c4c48c490798fa4e49565db
 CLASSICA 古典乐,P2p://ns2.hellotvvod.com:9906/c9bb644844f44409a2a4104a4966fd15
 CMusic,P2p://ns2.hellotvvod.com:9906/d63423da62d447f8b143cc7ac30d9bf5
-体育,#genre#
+⚽｜体育,#genre#
 CCTV5,P2p://ns2.hellotvvod.com:9906/6f42121c1a7c40368c5288f369229e8e
 CCTV5+,P2p://ns2.hellotvvod.com:9906/8e6ef3ab17ca4a65baaae04d28cd044b
 魅力足球,P2p://ns2.hellotvvod.com:9906/1fbc541368d148178453b2dbe45f2e1f
