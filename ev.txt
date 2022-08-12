@@ -558,7 +558,7 @@ CBSN,P2p://ns2.hellotvvod.com:9906/cfe5a6d1f8f94035ba448b535f067947
 Fox News,P2p://ns2.hellotvvod.com:9906/daa4401b13ea46c988f7a843cc3e7a34
 Food Network,P2p://ns2.hellotvvod.com:9906/488e984d7b6e4e0c961500f204868fbc
 NBA,P2p://ns2.hellotvvod.com:9906/9c28d78b014c4d0cba31ea0837a2c1c0
-新闻,#genre#
+🌎新闻,#genre#
 CNN,P2p://ns2.hellotvvod.com:9906/c1a6d29a426a4cbabb1c2d0a09c7222f
 无线新闻台,P2p://ns2.hellotvvod.com:9906/477ca8b59d4d4540a817194978e61be3
 无线财经·资讯台,P2p://ns2.hellotvvod.com:9906/dba2f67394c740c5835212b90fcb2229
@@ -603,14 +603,14 @@ ABC Australia,P2p://ns2.hellotvvod.com:9906/92245e3a54874b93880bbe04ce7073ed
 台视财经台,P2p://ns2.hellotvvod.com:9906/835b47f172454f98a5baf8ba3edaa43a
 东森新闻台(备),P2p://ns2.hellotvvod.com:9906/9c947491eb18402ba078d524c89c4c7e
 镜新闻,P2p://ns2.hellotvvod.com:9906/8a9b3ed3ed5949adaf7a585c3efd55ac
-🎵♬｜音乐,#genre#
+🎵音乐,#genre#
 MTV,P2p://ns2.hellotvvod.com:9906/72d1c09d5c9f48efae294663eeed97e4
 Music Japan TV,P2p://ns2.hellotvvod.com:9906/539b1015928146249b6d92edacd73f92
 MTV Live,P2p://ns2.hellotvvod.com:9906/2cf0015b934e4ba9a98dddf3821faf85
 Mezzo Live,P2p://ns2.hellotvvod.com:9906/562cf5245c4c48c490798fa4e49565db
 CLASSICA 古典乐,P2p://ns2.hellotvvod.com:9906/c9bb644844f44409a2a4104a4966fd15
 CMusic,P2p://ns2.hellotvvod.com:9906/d63423da62d447f8b143cc7ac30d9bf5
-⚽｜体育,#genre#
+⚽体育,#genre#
 CCTV5,P2p://ns2.hellotvvod.com:9906/6f42121c1a7c40368c5288f369229e8e
 CCTV5+,P2p://ns2.hellotvvod.com:9906/8e6ef3ab17ca4a65baaae04d28cd044b
 魅力足球,P2p://ns2.hellotvvod.com:9906/1fbc541368d148178453b2dbe45f2e1f
@@ -680,7 +680,7 @@ beIN Sports 2,P2p://ns2.hellotvvod.com:9906/9279ca91b2584995a0903c1601ede459
 Hub Sports 1,P2p://ns2.hellotvvod.com:9906/4f4e4cf81ce24b92924aa8945fefe2be
 Hub Sports 2,P2p://ns2.hellotvvod.com:9906/9a55d5e34e6f4cb7bc671c2fef26b3f9
 Hub Sports 3,P2p://ns2.hellotvvod.com:9906/d72dd249a76b463d92781845d1302a7b
-👍｜知识,#genre#
+🔎知识,#genre#
 CCTV9,P2p://ns2.hellotvvod.com:9906/36303aed64704a2ba673d13b175a236b
 国家地理频道,P2p://ns2.hellotvvod.com:9906/85660dd12d974fc49683fed91d3114db
 探索频道,P2p://ns2.hellotvvod.com:9906/2fc7400c794943bca00b41f24b99346b
@@ -712,7 +712,7 @@ EYE TV旅游台,P2p://ns2.hellotvvod.com:9906/c4c924add37e4b1f8e6cd1f1f3eae1b2
 时尚频道,P2p://ns2.hellotvvod.com:9906/e2bcebaa5ea148efac63feaccbb03858
 TV5MONDE Style 生活时尚,P2p://ns2.hellotvvod.com:9906/a2ebc919e28341f09d770654e8516e16
 Travel Channel,P2p://ns2.hellotvvod.com:9906/de1b53cbc8594c7aae5410f62bbcc016
-儿少,#genre#
+👍👨‍🚀儿少,#genre#
 CCTV14,P2p://ns2.hellotvvod.com:9906/21e5d80374a646b696625926b2458a69
 CN卡通频道,P2p://ns2.hellotvvod.com:9906/24be0567865d424b8a63916c69d7592b
 星空卫视,P2p://ns2.hellotvvod.com:9906/e1b1eca2a69341918e98588e3b1bc624
@@ -734,7 +734,7 @@ Cbeebies,P2p://ns2.hellotvvod.com:9906/7e81e3989e4f49ada3e905635d4427dd
 Dreamworks,P2p://ns2.hellotvvod.com:9906/e1b5e46d774c4875b8396cdde6c2a3c9
 Baby TV,P2p://ns2.hellotvvod.com:9906/1e4fa15ca9b4422f94b8c204ee39a61b
 Hands Up,P2p://ns2.hellotvvod.com:9906/c79571517a594f0692c0e0b9a9eba11f
-电影,#genre#
+🎥电影,#genre#
 CCTV6,P2p://ns2.hellotvvod.com:9906/4bd5c63b6cf64ee8958f27eb33c3f356
 天映频道,P2p://ns2.hellotvvod.com:9906/000921b9b4cb44b9980480e9fb4a91ef
 天映经典,P2p://ns2.hellotvvod.com:9906/bc8d33e67c6340038640c4052df65d03
@@ -774,7 +774,7 @@ SHOWCASE MOVIES,P2p://ns2.hellotvvod.com:9906/48160d7d33344223a5a41745354e9c0e
 影迷数位电影台,P2p://ns2.hellotvvod.com:9906/c35bdeaebcbf4d14b0bffa4547053530
 美亚电影台(粤语),P2p://ns2.hellotvvod.com:9906/a2cf0007ddc44e6abc21090e0d4c07de
 爆谷台,P2p://ns2.hellotvvod.com:9906/3992d25f44ba46dda4de97c8801ffad7
-戏剧,#genre#
+📼戏剧,#genre#
 东森戏剧台,P2p://ns2.hellotvvod.com:9906/2c7751ce53654fc0a51c90dfd1776d91
 八大戏剧台,P2p://ns2.hellotvvod.com:9906/fb214453a3b04dad98be05bef0c104b5
 纬来戏剧台,P2p://ns2.hellotvvod.com:9906/204997fc98cf427d86dcbf53bd5995bf
@@ -786,7 +786,7 @@ EYE TV戏剧台,P2p://ns2.hellotvvod.com:9906/ba6b28fe36f843d087a65abea62e2d99
 爱尔达影剧台,P2p://ns2.hellotvvod.com:9906/d32b8cc9726e46ddba52317217e7f844
 Hub娱家,P2p://ns2.hellotvvod.com:9906/90ae533013ca45d3a8a561bef4187768
 亚洲剧台,P2p://ns2.hellotvvod.com:9906/389f0f1540d443568ee0d25fab180ac2
-SP_6868,#genre#
+🏴‍😈☠️SP_6868,#genre#
 彩虹e台,P2p://ns2.hellotvvod.com:9906/27fee1f489c64dfb8a387d2b40163340
 彩虹电影台,P2p://ns2.hellotvvod.com:9906/44584f27dd034bc4bd3cb79a81ac16c7
 LOOK TV,P2p://ns2.hellotvvod.com:9906/220b79ae6fb7445880c32d5c7aeecaf3
