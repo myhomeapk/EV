@@ -430,7 +430,7 @@ Hub Sports 1,P2p://ns2.hellotvvod.com:9906/4f4e4cf81ce24b92924aa8945fefe2be
 Hub Sports 2,P2p://ns2.hellotvvod.com:9906/9a55d5e34e6f4cb7bc671c2fef26b3f9
 Hub Sports 3,P2p://ns2.hellotvvod.com:9906/d72dd249a76b463d92781845d1302a7b
 Horse Racing 88,P2p://ns2.hellotvvod.com:9906/f94c727bc0674a4e9c6dc4270a450d8b
-日本,#genre#
+JAPAN｜日本,#genre#
 NHK-G综合,P2p://ns2.hellotvvod.com:9906/d2613bad7a804113bd5f6c75b88204df
 NHK-E教育,P2p://ns2.hellotvvod.com:9906/793f937478484f1eba13eb0ed9309568
 日本テレビ,P2p://ns2.hellotvvod.com:9906/db7666ef109746e9bfa9c91253321eda
