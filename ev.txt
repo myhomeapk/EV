@@ -1,4 +1,4 @@
-TAIWAN｜台湾,#genre#
+🇹🇼｜台湾,#genre#
 CNN,P2p://ns2.hellotvvod.com:9906/c1a6d29a426a4cbabb1c2d0a09c7222f
 民视,P2p://ns2.hellotvvod.com:9906/a7012db2192842388b789d414f6fbd8f
 人间卫视,P2p://ns2.hellotvvod.com:9906/9b616c6e68d3483aa838ee20eb95bbf5
@@ -278,7 +278,7 @@ Hands Up,P2p://ns2.hellotvvod.com:9906/c79571517a594f0692c0e0b9a9eba11f
 亚洲剧台,P2p://ns2.hellotvvod.com:9906/389f0f1540d443568ee0d25fab180ac2
 功夫台,P2p://ns2.hellotvvod.com:9906/11779bf35d0d4bde86a0339d17c7c347
 爆谷台,P2p://ns2.hellotvvod.com:9906/3992d25f44ba46dda4de97c8801ffad7
-马来西亚,#genre#
+🇲🇾｜马来西亚,#genre#
 CNN,P2p://ns2.hellotvvod.com:9906/c1a6d29a426a4cbabb1c2d0a09c7222f
 TV1,P2p://ns2.hellotvvod.com:9906/e8295741ba5948a7962ef53449a9ce0a
 TV2,P2p://ns2.hellotvvod.com:9906/35d024f16da54804bca07838e6886f7b
@@ -382,7 +382,7 @@ Golf Channel,P2p://ns2.hellotvvod.com:9906/ea2cefea097946c4ad87c97e5dd5ddad
 Astro欢喜台,P2p://ns2.hellotvvod.com:9906/2de925beecff428f9968fa2dd46b5d0b
 Baby TV,P2p://ns2.hellotvvod.com:9906/1e4fa15ca9b4422f94b8c204ee39a61b
 beIN Sports 2,P2p://ns2.hellotvvod.com:9906/9279ca91b2584995a0903c1601ede459
-新加坡,#genre#
+🇸🇬 ｜新加坡,#genre#
 天映频道,P2p://ns2.hellotvvod.com:9906/000921b9b4cb44b9980480e9fb4a91ef
 中天亚洲台,P2p://ns2.hellotvvod.com:9906/267b58a32d194f59a6ee3814076d86bf
 TVB星河(粤),P2p://ns2.hellotvvod.com:9906/83fa2095e9274420af05e462d597601a
@@ -472,7 +472,7 @@ Music Japan TV,P2p://ns2.hellotvvod.com:9906/539b1015928146249b6d92edacd73f92
 日テレNEWS 24,P2p://ns2.hellotvvod.com:9906/17d3e8d999fc45878b262d0c6532f872
 旅チャンネル,P2p://ns2.hellotvvod.com:9906/412afb88d5df440cb8422bf2c063cf3a
 ファミリー劇場,P2p://ns2.hellotvvod.com:9906/1cb9081c779f49079a83bc589eacb74c
-韩国,#genre#
+🇰🇷｜韩国,#genre#
 Arirang,P2p://ns2.hellotvvod.com:9906/87eeb41ad83443d293ff352d4205600e
 KBS1,P2p://ns2.hellotvvod.com:9906/6a6c42d37e5c4a5ca3e4c4a1377bf4eb
 KBS2,P2p://ns2.hellotvvod.com:9906/9a5ac9bcce114897ae9ad5140feea851
@@ -499,7 +499,7 @@ tvN Movies HD,P2p://ns2.hellotvvod.com:9906/96c910af516c4099a7f652edee73dd92
 Indosiar,P2p://ns2.hellotvvod.com:9906/e7aecf0cc29f48d995808580a6dc085a
 SCTV,P2p://ns2.hellotvvod.com:9906/d812a6a43acf45c2be32a6ec2c899887
 RCTI,P2p://ns2.hellotvvod.com:9906/563ef6ee5c614cc69fc3c8826a007c17
-泰国,#genre#
+🇹🇭｜泰国,#genre#
 Channel 5,P2p://ns2.hellotvvod.com:9906/7e9cd4168a6c45358c3622bfc63cb823
 NBT,P2p://ns2.hellotvvod.com:9906/c49bf83eaeb7467396f30a346ac4b835
 TNN 16,P2p://ns2.hellotvvod.com:9906/589def7d4cdc4057b426190fb8c4d349
@@ -532,13 +532,13 @@ True Sport 3,P2p://ns2.hellotvvod.com:9906/5323b5b0334d48f683da33955adcfb32
 True Sport 4,P2p://ns2.hellotvvod.com:9906/b373107705ea4c25a7fb0fbe3f0315f6
 True Sport 5,P2p://ns2.hellotvvod.com:9906/6427906889b248349206bd2a0dc609f9
 True Sport 7,P2p://ns2.hellotvvod.com:9906/8b6f89d6a79543709c61bf236fd7e7c4
-菲律宾,#genre#
+🇵🇭｜菲律宾,#genre#
 Cartoon Network,P2p://ns2.hellotvvod.com:9906/3692389f89d3468eb4a828dd76e11383
 Nickelodeon,P2p://ns2.hellotvvod.com:9906/13d40c482d0f481f8ae2bef8ea2f81a8
 Nick Jr.,P2p://ns2.hellotvvod.com:9906/1d50ca3249884a18be9df69041fb4aa0
 Boomerang,P2p://ns2.hellotvvod.com:9906/89b8deccb8664fd1966b774d05915a9c
 Golf Channel Philippines,P2p://ns2.hellotvvod.com:9906/83db342d26a747f1880c713925579c4e
-印度,#genre#
+🇮🇳｜印度,#genre#
 SUN TV,P2p://ns2.hellotvvod.com:9906/8d3063cd8383478195d5402ca22f2c9a
 India TV,P2p://ns2.hellotvvod.com:9906/c173e2cc377b4d15b5c35e586da33cd3
 Janam TV,P2p://ns2.hellotvvod.com:9906/183664a8bf3846009155f31442d42664
@@ -549,7 +549,7 @@ Chutti TV,P2p://ns2.hellotvvod.com:9906/20c27f6ea683492cb135746a866f10b4
 Adithya,P2p://ns2.hellotvvod.com:9906/894a4d96ce7c4b0db44665986225523f
 Star Vijay,P2p://ns2.hellotvvod.com:9906/6ed7ecbebf194bd9bc7b019af98f9551
 Zee Tamil,P2p://ns2.hellotvvod.com:9906/20251ed9c81c4957943f010638843ccf
-美国,#genre#
+🇺🇸｜美国,#genre#
 CNN,P2p://ns2.hellotvvod.com:9906/c1a6d29a426a4cbabb1c2d0a09c7222f
 CNBC,P2p://ns2.hellotvvod.com:9906/ea88d182a5494f9f895ddb0f04f84232
 Bloomberg TV,P2p://ns2.hellotvvod.com:9906/cfc7987fd08943eca09449fac7bd4355
