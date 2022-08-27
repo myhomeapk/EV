@@ -229,6 +229,53 @@ CGTN,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225813/inde
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 
+翡翠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/1
+明珠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/2
+无线新闻台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/3
+无线新闻台,http://ye23.win/iptv/tvb.php?id=1
+无线新闻台,http://111.229.84.232/yulin/tvb.php?id=1
+无线新闻台,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
+无线新闻台,http://ye23.win/iptv/tvb.php?id=5
+无线新闻台,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+无线新闻台,http://arm1.canhkg.com:52080/hls/inews.m3u8
+无线新闻台,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
+无线新闻台,http://hls.dszbdq.cn/d/wxtv2.php?id=1
+有线新闻台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
+有线新闻台,http://liuy.usa7.20212021.ga/ns.php?id=62
+now新闻台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/5
+viutv 6,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/7
+无线财经台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/8
+无线财经台,http://111.229.84.232/yulin/tvb.php?id=2
+无线财经台,http://arm1.canhkg.com:52080/hls/finance.m3u8
+无线财经台,http://ye23.win/iptv/tvb.php?id=2
+有线财经台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/9
+J 2,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/10
+有线603,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/11
+有线18台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/12
+港台31,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/13
+港台32,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/14
+
+明珠台,http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
+无线财经台,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
+viuTV,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
+viuTV6,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
+��,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
+有线新闻台,http://liuy.usa7.20212021.ga/ns.php?id=62
+now新闻台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/5
+viutv 6,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/7
+无线财经台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/8
+无线财经台,http://111.229.84.232/yulin/tvb.php?id=2
+无线财经台,http://arm1.canhkg.com:52080/hls/finance.m3u8
+无线财经台,http://ye23.win/iptv/tvb.php?id=2
+有线财经台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/9
+J 2,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/10
+有线603,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/11
+有线18台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/12
+港台31,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/13
+港台32,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/14
+
+明珠台,http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
+
 澳门Macau,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
 澳门Macau,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 澳门Macau,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
