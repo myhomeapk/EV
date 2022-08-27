@@ -40,6 +40,7 @@ TVBS,http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=MCDC5358450053584500&ct=1919
 八大綜合,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
 八大綜合,http://59.125.122.90:18517/http/192.168.1.9:8078/hls/24/80/ch04.m3u8
 八大綜合,http://59.125.122.90:18517/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8
+CCM,http://120.84.96.221:808/hls/85/index.m3u8
 
 纬来育乐,rtmp://59.124.75.150/sat/tv701
 纬来育乐,rtmp://59.124.75.138:1935/sat/tv701
@@ -257,6 +258,7 @@ CGTN,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225813/inde
 凤凰资讯,http://60.251.33.252:18581/.m3u8
 无线新闻,http://23.237.10.66:16110
 无线新闻,http://111.229.84.232/yulin/tvb.php?id=1
+J2,http://120.84.96.221:808/hls/86/index.m3u8
 
 
 澳门Macau,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
@@ -325,6 +327,8 @@ HTV4,https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 炫舞未来,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226699/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 
 👍👨‍🚀儿少,#genre#
+嘉佳卡通,http://120.84.96.221:808/hls/71/index.m3u8
+金鹰卡通,http://120.84.96.221:808/hls/50/index.m3u8
 动漫,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226741/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 动漫,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226743/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 动漫,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226736/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
@@ -341,7 +345,9 @@ HTV4,https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 
 
 🎥电影,#genre#
-CHC高清电影,http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
+东森电影,http://120.84.96.221:808/hls/32/index.m3u8
+龙翔时代,http://120.84.96.221:808/hls/35/index.m3u8
+
 动作电影,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225879/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 都市剧场,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227204/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 黑莓电影,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225891/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
