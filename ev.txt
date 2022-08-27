@@ -100,6 +100,9 @@ MUCH TV,http://218.32.47.179:18529/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
 NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net:443/8thz5iufork8wjip/playlist.m3u8
 
 🇨🇳｜中国,#genre#
+CCTV1,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
+CCTV1,http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
+CCTV1,http://39.135.138.58:18890/PLTV/88888888/224/3221225630/index.m3u8
 CCTV1,rtsp://183.252.176.54/PLTV/88888888/224/3221226730/42006742.smil
 CCTV1,rtsp://183.252.176.54/PLTV/88888888/224/3221226834/48356507.smil
 CCTV1,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225922/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
@@ -303,10 +306,9 @@ J2,http://120.84.96.221:808/hls/86/index.m3u8
 🇺🇸｜美国,#genre#
 
 🌎新闻,#genre#
-CNA International,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
 CNBC Asia,https://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
-France 24,http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live
-ABC News,https://tv2.abcnews.al/live/abcnews/playlist.m3u8
+
 
 🎵音乐,#genre#
 风云音乐,http://42.176.185.28:9901/tsfile/live/1024_1.m3u8
