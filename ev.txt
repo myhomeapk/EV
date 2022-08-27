@@ -64,6 +64,39 @@ MOMO综合,http://59.125.122.90:18576/http/192.168.1.9:8066/hls/210/10010/ch00.m
 MOMO综合,http://59.125.122.90:18576/.m3u8
 MOMO综合,http://59.125.122.90:18576/.m3u8
 
+1.龍華電影台,http://218.32.47.179:18556/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
+2.中天娛樂FHD,http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
+3.AXN,http://218.32.47.179:18558/http/192.168.1.9:8081/hls/71/813/ch43.m3u8
+4.三立台灣FHD,http://218.32.47.179:18521/http/192.168.1.9:8081/hls/65/807/ch20.m3u8
+5.華視新聞資訊台FHD,http://218.32.47.179:8538/http/192.168.1.9:8081/hls/61/803/ch03.m3u8
+6.動物星球,http://218.32.47.179:18512/http/192.168.1.9:8081/hls/70/812/ch37.m3u8
+7.中天綜合FHD,http://218.32.47.179:18526/http/192.168.1.9:8081/hls/67/809/ch25.m3u8
+8.東風衛視,http://218.32.47.179:18528/http/192.168.1.9:8081/hls/68/810/ch31.m3u8
+9.緯來體育FHD,http://218.32.47.179:18563/http/192.168.1.9:8081/hls/67/809/ch28.m3u8
+10.CINEMAX FHD,http://218.32.47.179:18559/http/192.168.1.9:8081/hls/71/813/ch42.m3u8
+11.大愛電視,http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
+12.龍華偶像劇,http://218.32.47.179:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
+13.Baby TV,http://218.32.47.179:18514/http/192.168.1.9:8078/hls/35/80/babytv.m3u8
+14.亞洲旅遊,http://218.32.47.179:18513/http/192.168.1.9:8081/hls/76/818/ch61.m3u8
+15.Bloomberg News,http://218.32.47.179:8551/http/192.168.1.9:8078/hls/43/80/bloomber.m3u8
+16.國家地理FHD,http://218.32.47.179:18509/http/192.168.1.9:8081/hls/61/803/ch01.m3u8
+17.華視FHD,http://218.32.47.179:18503/http/192.168.1.9:8081/hls/72/814/ch48.m3u8
+18.八大綜合FHD,http://218.32.47.179:18520/http/192.168.1.9:8081/hls/66/808/ch21.m3u8
+19.momo綜合台,http://218.32.47.179:8579/http/60.249.81.21:8088/hls/76/818/momo_max.m3u8
+20.緯來育樂FHD,http://218.32.47.179:18562/http/192.168.1.9:8081/hls/68/810/ch30.m3u8
+21.衛視電影FHD,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
+22.公視,http://218.32.47.179:18505/http/192.168.1.9:8081/hls/73/815/ch50.m3u8
+23.好消息頻道,http://218.32.47.179:8508/http/192.168.1.9:8081/hls/74/816/ch53.m3u8
+24.龍華日韓劇,http://218.32.47.179:8535/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
+25.東森綜合FHD,http://218.32.47.179:18524/http/192.168.1.9:8081/hls/63/805/ch12.m3u8
+26.NHK世界FHD,http://218.32.47.179:8552/http/192.168.1.9:8081/hls/62/804/ch06.m3u8
+27.緯來戲劇,http://218.32.47.179:18533/http/192.168.1.9:8081/hls/69/811/ch33.m3u8
+28.緯來綜合FHD,http://218.32.47.179:18518/http/192.168.1.9:8081/hls/68/810/ch32.m3u8
+29.八大戲劇FHD,http://218.32.47.179:18531/http/192.168.1.9:8081/hls/66/808/ch23.m3u8
+30.MUCH TV,http://218.32.47.179:18529/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
+31.龍華戲劇台,http://218.32.47.179:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
+32.人間衛視,http://218.32.47.179:8506/http/192.168.1.9:8081/hls/69/811/ch36.m3u8
+
 
 🇨🇳｜中国,#genre#
 CCTV1,rtsp://183.252.176.54/PLTV/88888888/224/3221226730/42006742.smil
@@ -218,63 +251,9 @@ CGTN,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225813/inde
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 凤凰资讯,http://60.251.33.252:18581/.m3u8
-
-
-凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
-明珠台,http://59.32.98.78:9901/tsfile/live/1014_1.m3u8
-翡翠台,http://23.237.10.66:16106
-翡翠台,http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
 无线新闻,http://23.237.10.66:16110
-无线新闻台,http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=m2206a7a6925a&ct=18336&tsum=47d564f6425ee7ceb9ff1ed026f89669
-无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
-无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+无线新闻,http://111.229.84.232/yulin/tvb.php?id=1
 
-翡翠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/1
-明珠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/2
-无线新闻台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/3
-无线新闻台,http://ye23.win/iptv/tvb.php?id=1
-无线新闻台,http://111.229.84.232/yulin/tvb.php?id=1
-无线新闻台,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
-无线新闻台,http://ye23.win/iptv/tvb.php?id=5
-无线新闻台,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
-无线新闻台,http://arm1.canhkg.com:52080/hls/inews.m3u8
-无线新闻台,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
-无线新闻台,http://hls.dszbdq.cn/d/wxtv2.php?id=1
-有线新闻台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
-有线新闻台,http://liuy.usa7.20212021.ga/ns.php?id=62
-now新闻台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/5
-viutv 6,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/7
-无线财经台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/8
-无线财经台,http://111.229.84.232/yulin/tvb.php?id=2
-无线财经台,http://arm1.canhkg.com:52080/hls/finance.m3u8
-无线财经台,http://ye23.win/iptv/tvb.php?id=2
-有线财经台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/9
-J 2,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/10
-有线603,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/11
-有线18台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/12
-港台31,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/13
-港台32,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/14
-
-明珠台,http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
-无线财经台,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
-viuTV,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
-viuTV6,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
-��,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
-有线新闻台,http://liuy.usa7.20212021.ga/ns.php?id=62
-now新闻台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/5
-viutv 6,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/7
-无线财经台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/8
-无线财经台,http://111.229.84.232/yulin/tvb.php?id=2
-无线财经台,http://arm1.canhkg.com:52080/hls/finance.m3u8
-无线财经台,http://ye23.win/iptv/tvb.php?id=2
-有线财经台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/9
-J 2,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/10
-有线603,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/11
-有线18台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/12
-港台31,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/13
-港台32,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/14
-
-明珠台,http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
 
 澳门Macau,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
 澳门Macau,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
