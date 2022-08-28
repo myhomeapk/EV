@@ -55,6 +55,8 @@ MOMO亲子台,P2p://ns2.hellotvvod.com:9906/47857819b1ca4487b782925e9b241826
 MOMO亲子台,mitv://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
 东森幼幼台,P2p://ns2.hellotvvod.com:9906/c2b6515c32914110bfe2a9ac962855ff
 东森幼幼台,mitv://fccs.word-tv.com:9906/62584f92000033490fa0ef49c819efa3
+纬来综合台,P2p://ns2.hellotvvod.com:9906/ed6e65e04b874768aa4b0325efc2e7fc
+八大第一台,P2p://ns2.hellotvvod.com:9906/6fb3644604d143beae1fa530791d5d87
 
 三立inews新聞,https://git.io/Jgkxj
 三立inews新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews
