@@ -44,8 +44,10 @@
 公視,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
 公視,mitv://fccs.word-tv.com:9906/6257e9950008c4a20e128d3209b54839
 
+ANIMAX,mitv://ns2.hellotvvod.com:9906/7fea5926cf4049e1b84a73834d0e88e0
 ANIMAX,https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
-ANIMAX 2,mitv://ns2.hellotvvod.com:9906/7fea5926cf4049e1b84a73834d0e88e0
+
+原民台 ,mitv://fccs.word-tv.com:9906/6257e9ca0002ec200e135abbe97ac8ab
 
 三立inews新聞,https://git.io/Jgkxj
 三立inews新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews
@@ -103,7 +105,7 @@ CCM,http://120.84.96.221:808/hls/85/index.m3u8
 
 好消息2,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv17&nid=8
 
-原民台 ,mitv://fccs.word-tv.com:9906/6257e9ca0002ec200e135abbe97ac8ab
+
 客家電視台 ,mitv://fccs.word-tv.com:9906/6257e9d70000ce760e138cf889fb92c2
 國家地理國際頻道,mitv://fccs.word-tv.com:9906/62541d810002b7c00981a33911a2eb57
 TLC旅遊 ,mitv://fccs.word-tv.com:9906/62584cd60007230e0f9642af98aa2879
