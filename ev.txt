@@ -15,7 +15,7 @@
 东森财经新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
 
 东森新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
-东森新聞,mitv://fccs.word-tv.com:9906/62540c77000699df093f1528c8c4d48a
+东森新闻,mitv://fccs.word-tv.com:9906/62540c77000699df093f1528c8c4d48a
 东森新闻,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
 东森新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
 
