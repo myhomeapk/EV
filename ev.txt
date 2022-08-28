@@ -43,11 +43,15 @@ ANIMAX,https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b500
 國家地理國際頻道,mitv://fccs.word-tv.com:9906/62541d810002b7c00981a33911a2eb57
 探索频道,P2p://ns2.hellotvvod.com:9906/887e2d57a7de4d238eac9c0b5cdfddb7
 TLC旅游,P2p://ns2.hellotvvod.com:9906/be4be1a902d549c6b93af0cbba5826b9
-TLC旅遊,mitv://fccs.word-tv.com:9906/62584cd60007230e0f9642af98aa2879
-動物星球,mitv://fccs.word-tv.com:9906/62541d9c0009282c09820e57f2a59d11
-CN卡通 ,mitv://fccs.word-tv.com:9906/62584e2d00015cde0f9b7d0de69c85e4
-MOMO親子台 ,mitv://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
-東森幼幼台,mitv://fccs.word-tv.com:9906/62584f92000033490fa0ef49c819efa3
+TLC旅游,mitv://fccs.word-tv.com:9906/62584cd60007230e0f9642af98aa2879
+动物星球,mitv://fccs.word-tv.com:9906/62541d9c0009282c09820e57f2a59d11
+动物星球,P2p://ns2.hellotvvod.com:9906/178c72a35f3547c3a4171ba78f1c8bf8
+CN卡通,P2p://ns2.hellotvvod.com:9906/53b1291e95a74375a095acd16f4abdac
+CN卡通,mitv://fccs.word-tv.com:9906/62584e2d00015cde0f9b7d0de69c85e4
+MOMO亲子台,P2p://ns2.hellotvvod.com:9906/47857819b1ca4487b782925e9b241826
+MOMO亲子台,mitv://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
+东森幼幼台,P2p://ns2.hellotvvod.com:9906/c2b6515c32914110bfe2a9ac962855ff
+东森幼幼台,mitv://fccs.word-tv.com:9906/62584f92000033490fa0ef49c819efa3
 
 三立inews新聞,https://git.io/Jgkxj
 三立inews新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews
