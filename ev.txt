@@ -35,6 +35,17 @@
 
 霹靂台灣,mitv://fccs.word-tv.com:9906/625835a900047b550f3bba39e271ea6f
 
+华视,rtmp://59.124.75.138:1935/sat/tv111
+华视,rtmp://59.124.75.138/sat/tv111
+华视,http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
+华视,rtmp://59.124.75.150/sat/tv111
+华视,mitv://fccs.word-tv.com:9906/6257e98b000307180e1264aad3095adb
+
+公視,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
+公視,mitv://fccs.word-tv.com:9906/6257e9950008c4a20e128d3209b54839
+
+ANIMAX,https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
+
 三立inews新聞,https://git.io/Jgkxj
 三立inews新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews
 
@@ -56,18 +67,11 @@
 民视影剧,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
 民视旅游,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
 
-华视,rtmp://59.124.75.138:1935/sat/tv111
-华视,rtmp://59.124.75.138/sat/tv111
-华视,http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
-华视,rtmp://59.124.75.150/sat/tv111
-华视,mitv://fccs.word-tv.com:9906/6257e98b000307180e1264aad3095adb
-
 华视新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
 华视新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hsxw
 
 华视資訊HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
-公視,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
-公視,mitv://fccs.word-tv.com:9906/6257e9950008c4a20e128d3209b54839
+
 
 公视戏剧,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
 
