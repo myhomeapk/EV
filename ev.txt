@@ -20,7 +20,6 @@ CNN,P2p://ns2.hellotvvod.com:9906/fc613681ff784ae59a30ba7c9ed3efb0
 台视,http://123.51.229.65:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
 
 大爱,http://50.7.220.74:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
-大爱,P2p://ns2.hellotvvod.com:9906/c56587dd9acc4e21bd53ce62da243a56
 大爱,http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
 大爱,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
 
@@ -38,10 +37,10 @@ CNN,P2p://ns2.hellotvvod.com:9906/fc613681ff784ae59a30ba7c9ed3efb0
 华视,rtmp://59.124.75.150/sat/tv111
 华视,mitv://fccs.word-tv.com:9906/6257e98b000307180e1264aad3095adb
 
-公視,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
+公视,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
 公视,P2p://ns2.hellotvvod.com:9906/d3cf6d6a347341e0906106855e6f2b6a
-公視,http://218.32.47.179:18505/http/192.168.1.9:8081/hls/73/815/ch50.m3u8
-公視,mitv://fccs.word-tv.com:9906/6257e9950008c4a20e128d3209b54839
+公视,http://218.32.47.179:18505/http/192.168.1.9:8081/hls/73/815/ch50.m3u8
+公视,mitv://fccs.word-tv.com:9906/6257e9950008c4a20e128d3209b54839
 
 ANIMAX,mitv://ns2.hellotvvod.com:9906/7fea5926cf4049e1b84a73834d0e88e0
 ANIMAX,https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
