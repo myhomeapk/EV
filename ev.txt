@@ -39,6 +39,8 @@ CNN,P2p://ns2.hellotvvod.com:9906/fc613681ff784ae59a30ba7c9ed3efb0
 华视,mitv://fccs.word-tv.com:9906/6257e98b000307180e1264aad3095adb
 
 公視,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
+公视,P2p://ns2.hellotvvod.com:9906/d3cf6d6a347341e0906106855e6f2b6a
+公視,http://218.32.47.179:18505/http/192.168.1.9:8081/hls/73/815/ch50.m3u8
 公視,mitv://fccs.word-tv.com:9906/6257e9950008c4a20e128d3209b54839
 
 ANIMAX,mitv://ns2.hellotvvod.com:9906/7fea5926cf4049e1b84a73834d0e88e0
@@ -47,15 +49,15 @@ ANIMAX,https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b500
 原住民电视,P2p://ns2.hellotvvod.com:9906/5c461d90b5364322bb637b1d5a01ae21
 原住民电视,mitv://fccs.word-tv.com:9906/6257e9ca0002ec200e135abbe97ac8ab
 客家电视,P2p://ns2.hellotvvod.com:9906/d3a0c1c54534420b84a11ead76b98643
-客家电视,mitv://fccs.word-tv.com:9906/6257e9d70000ce760e138cf889fb92c2
 客家电视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
+客家电视,mitv://fccs.word-tv.com:9906/6257e9d70000ce760e138cf889fb92c2
 國家地理國際頻道,mitv://fccs.word-tv.com:9906/62541d810002b7c00981a33911a2eb57
 探索频道,P2p://ns2.hellotvvod.com:9906/887e2d57a7de4d238eac9c0b5cdfddb7
 TLC旅游,P2p://ns2.hellotvvod.com:9906/be4be1a902d549c6b93af0cbba5826b9
 TLC旅游,mitv://fccs.word-tv.com:9906/62584cd60007230e0f9642af98aa2879
-动物星球,mitv://fccs.word-tv.com:9906/62541d9c0009282c09820e57f2a59d11
-动物星球,P2p://ns2.hellotvvod.com:9906/178c72a35f3547c3a4171ba78f1c8bf8
 动物星球,http://218.32.47.179:18512/http/192.168.1.9:8081/hls/70/812/ch37.m3u8
+动物星球,P2p://ns2.hellotvvod.com:9906/178c72a35f3547c3a4171ba78f1c8bf8
+动物星球,mitv://fccs.word-tv.com:9906/62541d9c0009282c09820e57f2a59d11
 CN卡通,P2p://ns2.hellotvvod.com:9906/53b1291e95a74375a095acd16f4abdac
 CN卡通,mitv://fccs.word-tv.com:9906/62584e2d00015cde0f9b7d0de69c85e4
 MOMO亲子台,P2p://ns2.hellotvvod.com:9906/47857819b1ca4487b782925e9b241826
@@ -243,7 +245,7 @@ Bloomberg News,http://218.32.47.179:8551/http/192.168.1.9:8078/hls/43/80/bloombe
 momo綜合台,http://218.32.47.179:8579/http/60.249.81.21:8088/hls/76/818/momo_max.m3u8
 緯來育樂FHD,http://218.32.47.179:18562/http/192.168.1.9:8081/hls/68/810/ch30.m3u8
 衛視電影FHD,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
-公視,http://218.32.47.179:18505/http/192.168.1.9:8081/hls/73/815/ch50.m3u8
+
 好消息頻道,http://218.32.47.179:8508/http/192.168.1.9:8081/hls/74/816/ch53.m3u8
 龍華日韓劇,http://218.32.47.179:8535/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
 東森綜合FHD,http://218.32.47.179:18524/http/192.168.1.9:8081/hls/63/805/ch12.m3u8
