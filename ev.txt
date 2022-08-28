@@ -73,13 +73,28 @@ MOMO亲子台,mitv://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
 三立台湾,http://218.32.47.179:18521/http/192.168.1.9:8081/hls/65/807/ch20.m3u8
 
 三立都会,P2p://ns2.hellotvvod.com:9906/75d92f9df62e4c268f4d28bed2aa9d2e
-卫视电影台,P2p://ns2.hellotvvod.com:9906/8d22d953e4184dbfb3753b093f401769
+卫视电影,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
+卫视电影,P2p://ns2.hellotvvod.com:9906/8d22d953e4184dbfb3753b093f401769
 
 东森综合,P2p://ns2.hellotvvod.com:9906/a9abe20e2b854129b007851902abed58
 东森超视,rtmp://59.124.75.138:1935/sat/tv331
 
+中天综合,P2p://ns2.hellotvvod.com:9906/fe0a54eee624418f8300555899261df5
+中天綜合,http://218.32.47.179:18526/http/192.168.1.9:8081/hls/67/809/ch25.m3u8
 三立inews新聞,https://git.io/Jgkxj
 三立inews新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews
+三立inews新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
+
+中天娱乐台,P2p://ns2.hellotvvod.com:9906/8d36b7a80cb14f65956db83faf108572
+东森戏剧台,P2p://ns2.hellotvvod.com:9906/b9b2a3108cd748a48c69fde74cdac00e
+八大戏剧台,P2p://ns2.hellotvvod.com:9906/ee1c766f5309492382044f658b576899
+TVBS欢乐,P2p://ns2.hellotvvod.com:9906/e0e8c82a679c49c3a124f3a73b2965ab
+TVBS欢乐,rtmp://59.124.75.150/sat/tv421
+TVBS欢乐,rtmp://59.124.75.138:1935/sat/tv421
+TVBS欢乐,rtmp://59.124.75.138:1935/sat/tv421
+TVBS欢乐,rtmp://59.124.75.138/sat/tv421
+TVBS欢乐,http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C2318787923187879&ct=19193&tsum=394d2b9af3df7846e2cdc60d69dd4219
+纬来戏剧台,P2p://ns2.hellotvvod.com:9906/b810e88c6c5645339e5284435cbbf088
 
 中天新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
 中天新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
@@ -124,11 +139,7 @@ TVBS新闻,rtmp://59.124.75.138/sat/tv551
 TVBS新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
 
 
-TVBS欢乐,rtmp://59.124.75.150/sat/tv421
-TVBS欢乐,rtmp://59.124.75.138:1935/sat/tv421
-TVBS欢乐,rtmp://59.124.75.138:1935/sat/tv421
-TVBS欢乐,rtmp://59.124.75.138/sat/tv421
-TVBS欢乐,http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C2318787923187879&ct=19193&tsum=394d2b9af3df7846e2cdc60d69dd4219
+
 
 TVBS HD,http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=MCDC5358450053584500&ct=19193&tsum=e69eb1ebdae5b69772df214072ef9f19
 
@@ -225,7 +236,7 @@ AXN,http://218.32.47.179:18558/http/192.168.1.9:8081/hls/71/813/ch43.m3u8
 三立新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
 華視新聞資訊台FHD,http://218.32.47.179:8538/http/192.168.1.9:8081/hls/61/803/ch03.m3u8
 
-中天綜合FHD,http://218.32.47.179:18526/http/192.168.1.9:8081/hls/67/809/ch25.m3u8
+
 東風衛視,http://218.32.47.179:18528/http/192.168.1.9:8081/hls/68/810/ch31.m3u8
 緯來體育FHD,http://218.32.47.179:18563/http/192.168.1.9:8081/hls/67/809/ch28.m3u8
 CINEMAX FHD,http://218.32.47.179:18559/http/192.168.1.9:8081/hls/71/813/ch42.m3u8
@@ -243,7 +254,6 @@ Bloomberg News,http://218.32.47.179:8551/http/192.168.1.9:8078/hls/43/80/bloombe
 八大綜合FHD,http://218.32.47.179:18520/http/192.168.1.9:8081/hls/66/808/ch21.m3u8
 momo綜合台,http://218.32.47.179:8579/http/60.249.81.21:8088/hls/76/818/momo_max.m3u8
 緯來育樂FHD,http://218.32.47.179:18562/http/192.168.1.9:8081/hls/68/810/ch30.m3u8
-衛視電影FHD,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
 
 好消息頻道,http://218.32.47.179:8508/http/192.168.1.9:8081/hls/74/816/ch53.m3u8
 龍華日韓劇,http://218.32.47.179:8535/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
@@ -264,7 +274,7 @@ LiveABC互动英语,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gt
 新唐人亚太,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
 SBN全球财经,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
 德国之声,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
-三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
+
 MOMO亲子,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
 
 
