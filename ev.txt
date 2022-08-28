@@ -1,6 +1,8 @@
 🇹🇼｜台湾,#genre#
+愛爾達影劇,http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
+愛爾達影劇,mitv://fccs.word-tv.com:9906/62595fe00007a82a13c8a1e18c1171c7
 愛爾達綜合,mitv://fccs.word-tv.com:9906/62595f88000e134a13c74bc62a907482
-愛爾達影劇台,mitv://fccs.word-tv.com:9906/62595fe00007a82a13c8a1e18c1171c7
+
 中视经典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
 中视经典,P2p://ns2.hellotvvod.com:9906/6424cd1787da4af09add30805b7b4c9c
 中视菁采,P2p://ns2.hellotvvod.com:9906/d6752e25d9f44020a971d0645942fb21
@@ -19,6 +21,8 @@ CNN,P2p://ns2.hellotvvod.com:9906/fc613681ff784ae59a30ba7c9ed3efb0
 
 大爱,http://50.7.220.74:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
 大爱,P2p://ns2.hellotvvod.com:9906/c56587dd9acc4e21bd53ce62da243a56
+大爱,http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
+大爱,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
 
 中视,rtmp://59.124.75.150/sat/tv091
 中视,rtmp://59.124.75.138:1935/sat/tv091
@@ -39,16 +43,19 @@ CNN,P2p://ns2.hellotvvod.com:9906/fc613681ff784ae59a30ba7c9ed3efb0
 
 ANIMAX,mitv://ns2.hellotvvod.com:9906/7fea5926cf4049e1b84a73834d0e88e0
 ANIMAX,https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
+金光木偶戏,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
 原住民电视,P2p://ns2.hellotvvod.com:9906/5c461d90b5364322bb637b1d5a01ae21
 原住民电视,mitv://fccs.word-tv.com:9906/6257e9ca0002ec200e135abbe97ac8ab
-客家电视台,P2p://ns2.hellotvvod.com:9906/d3a0c1c54534420b84a11ead76b98643
-客家电视台,mitv://fccs.word-tv.com:9906/6257e9d70000ce760e138cf889fb92c2
+客家电视,P2p://ns2.hellotvvod.com:9906/d3a0c1c54534420b84a11ead76b98643
+客家电视,mitv://fccs.word-tv.com:9906/6257e9d70000ce760e138cf889fb92c2
+客家电视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
 國家地理國際頻道,mitv://fccs.word-tv.com:9906/62541d810002b7c00981a33911a2eb57
 探索频道,P2p://ns2.hellotvvod.com:9906/887e2d57a7de4d238eac9c0b5cdfddb7
 TLC旅游,P2p://ns2.hellotvvod.com:9906/be4be1a902d549c6b93af0cbba5826b9
 TLC旅游,mitv://fccs.word-tv.com:9906/62584cd60007230e0f9642af98aa2879
 动物星球,mitv://fccs.word-tv.com:9906/62541d9c0009282c09820e57f2a59d11
 动物星球,P2p://ns2.hellotvvod.com:9906/178c72a35f3547c3a4171ba78f1c8bf8
+动物星球,http://218.32.47.179:18512/http/192.168.1.9:8081/hls/70/812/ch37.m3u8
 CN卡通,P2p://ns2.hellotvvod.com:9906/53b1291e95a74375a095acd16f4abdac
 CN卡通,mitv://fccs.word-tv.com:9906/62584e2d00015cde0f9b7d0de69c85e4
 MOMO亲子台,P2p://ns2.hellotvvod.com:9906/47857819b1ca4487b782925e9b241826
@@ -56,7 +63,19 @@ MOMO亲子台,mitv://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
 东森幼幼台,P2p://ns2.hellotvvod.com:9906/c2b6515c32914110bfe2a9ac962855ff
 东森幼幼台,mitv://fccs.word-tv.com:9906/62584f92000033490fa0ef49c819efa3
 纬来综合台,P2p://ns2.hellotvvod.com:9906/ed6e65e04b874768aa4b0325efc2e7fc
-八大第一台,P2p://ns2.hellotvvod.com:9906/6fb3644604d143beae1fa530791d5d87
+八大第一,P2p://ns2.hellotvvod.com:9906/6fb3644604d143beae1fa530791d5d87
+八大第一,mitv://fccs.word-tv.com:9906/6258517d000953940fa86f978caa56ae
+八大综合,P2p://ns2.hellotvvod.com:9906/1a4ba7fe00e447aa807a4af55bf360b7
+八大综合,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
+
+三立台湾,P2p://ns2.hellotvvod.com:9906/8dd16c84358c462fa4ba3f24f29f7b41
+三立台湾,http://218.32.47.179:18521/http/192.168.1.9:8081/hls/65/807/ch20.m3u8
+
+三立都会,P2p://ns2.hellotvvod.com:9906/75d92f9df62e4c268f4d28bed2aa9d2e
+卫视电影台,P2p://ns2.hellotvvod.com:9906/8d22d953e4184dbfb3753b093f401769
+
+东森综合,P2p://ns2.hellotvvod.com:9906/a9abe20e2b854129b007851902abed58
+东森超视,rtmp://59.124.75.138:1935/sat/tv331
 
 三立inews新聞,https://git.io/Jgkxj
 三立inews新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews
@@ -112,11 +131,10 @@ TVBS欢乐,http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C23187879
 
 TVBS HD,http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=MCDC5358450053584500&ct=19193&tsum=e69eb1ebdae5b69772df214072ef9f19
 
-东森超视,rtmp://59.124.75.138:1935/sat/tv331
+
 
 东森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
 
-八大綜合,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
 
 CCM,http://120.84.96.221:808/hls/85/index.m3u8
 
@@ -134,7 +152,7 @@ CCM,http://120.84.96.221:808/hls/85/index.m3u8
 Boomerang,mitv://fccs.word-tv.com:9906/62584d670009313f0f98799e2354015b
 
 緯來綜合 ,mitv://fccs.word-tv.com:9906/62584fd10006d72b0fa1e71495ef5024
-八大第一 ,mitv://fccs.word-tv.com:9906/6258517d000953940fa86f978caa56ae
+
 東風衛視,mitv://fccs.word-tv.com:9906/6258585d0007329c0fc34a0b3c4be606
 年代MUCH,mitv://fccs.word-tv.com:9906/625858aa000f2ee50fc478de23b3e0dd
 中天娛樂,mitv://fccs.word-tv.com:9906/62585ecd000adfc10fdc707c21a26424
@@ -195,22 +213,22 @@ MOMO综合,http://59.125.122.90:18576/http/192.168.1.9:8066/hls/210/10010/ch00.m
 MOMO综合,http://59.125.122.90:18576/.m3u8
 MOMO综合,http://59.125.122.90:18576/.m3u8
 ELTV生活英语,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
-客家电视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
+
 
 三立综合,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
 
 龍華電影台,http://218.32.47.179:18556/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
 中天娛樂FHD,http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
 AXN,http://218.32.47.179:18558/http/192.168.1.9:8081/hls/71/813/ch43.m3u8
-三立台灣,http://218.32.47.179:18521/http/192.168.1.9:8081/hls/65/807/ch20.m3u8
+
 三立新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
 華視新聞資訊台FHD,http://218.32.47.179:8538/http/192.168.1.9:8081/hls/61/803/ch03.m3u8
-動物星球,http://218.32.47.179:18512/http/192.168.1.9:8081/hls/70/812/ch37.m3u8
+
 中天綜合FHD,http://218.32.47.179:18526/http/192.168.1.9:8081/hls/67/809/ch25.m3u8
 東風衛視,http://218.32.47.179:18528/http/192.168.1.9:8081/hls/68/810/ch31.m3u8
 緯來體育FHD,http://218.32.47.179:18563/http/192.168.1.9:8081/hls/67/809/ch28.m3u8
 CINEMAX FHD,http://218.32.47.179:18559/http/192.168.1.9:8081/hls/71/813/ch42.m3u8
-大愛電視,http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
+
 龍華偶像劇,http://218.32.47.179:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
 Baby TV,http://218.32.47.179:18514/http/192.168.1.9:8078/hls/35/80/babytv.m3u8
 亞洲旅遊,http://218.32.47.179:18513/http/192.168.1.9:8081/hls/76/818/ch61.m3u8
@@ -239,7 +257,7 @@ MUCH TV,http://218.32.47.179:18529/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
 NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net:443/8thz5iufork8wjip/playlist.m3u8
 DMAX探索動力,mitv://fccs.word-tv.com:9906/6258ec18000964b412045d13a4eb316e
 LiveABC互动英语,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
-大爱电视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
+
 人间卫视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210
 
 新唐人亚太,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
@@ -248,7 +266,7 @@ SBN全球财经,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-li
 三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
 MOMO亲子,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
 
-金光木偶戏,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
+
 爱尔达生活旅游,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live120&nid=237
 华语戏剧,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
 华语综艺,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
@@ -262,7 +280,7 @@ HBO溫馨家庭,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&
 動物星球,http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
 CN卡通,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=md272f875bb6916787346&ct=17874&tsum=0c38bae20c6db7e76ad1418654c8ccd4
 東森幼幼,http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
-愛爾達影劇,http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
+
 愛爾達體育1,http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 ELEVEN SPORTS 1,http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
 
