@@ -48,7 +48,9 @@ ANIMAX,https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b500
 客家电视台,P2p://ns2.hellotvvod.com:9906/d3a0c1c54534420b84a11ead76b98643
 客家电视台,mitv://fccs.word-tv.com:9906/6257e9d70000ce760e138cf889fb92c2
 國家地理國際頻道,mitv://fccs.word-tv.com:9906/62541d810002b7c00981a33911a2eb57
-TLC旅遊 ,mitv://fccs.word-tv.com:9906/62584cd60007230e0f9642af98aa2879
+探索频道,P2p://ns2.hellotvvod.com:9906/887e2d57a7de4d238eac9c0b5cdfddb7
+TLC旅游,P2p://ns2.hellotvvod.com:9906/be4be1a902d549c6b93af0cbba5826b9
+TLC旅遊,mitv://fccs.word-tv.com:9906/62584cd60007230e0f9642af98aa2879
 動物星球,mitv://fccs.word-tv.com:9906/62541d9c0009282c09820e57f2a59d11
 CN卡通 ,mitv://fccs.word-tv.com:9906/62584e2d00015cde0f9b7d0de69c85e4
 MOMO親子台 ,mitv://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
