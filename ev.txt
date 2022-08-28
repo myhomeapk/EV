@@ -1,17 +1,10 @@
 🇹🇼｜台湾,#genre#
 愛爾達綜合,mitv://fccs.word-tv.com:9906/62595f88000e134a13c74bc62a907482
 愛爾達影劇台,mitv://fccs.word-tv.com:9906/62595fe00007a82a13c8a1e18c1171c7
+中视经典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
+中视经典,P2p://ns2.hellotvvod.com:9906/6424cd1787da4af09add30805b7b4c9c
+中视菁采,P2p://ns2.hellotvvod.com:9906/d6752e25d9f44020a971d0645942fb21
 
-东森财经新闻,https://git.io/Jgkpc
-东森财经新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
-东森财经新闻,rtmp://59.124.75.150/sat/tv571
-东森财经新闻,rtmp://59.124.75.138/sat/tv571
-东森财经新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
-
-东森新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
-东森新闻,mitv://fccs.word-tv.com:9906/62540c77000699df093f1528c8c4d48a
-东森新闻,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
-东森新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
 CNN,P2p://ns2.hellotvvod.com:9906/fc613681ff784ae59a30ba7c9ed3efb0
 民视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
 民视,rtmp://59.124.75.150/sat/tv051
@@ -66,7 +59,16 @@ MOMO親子台 ,mitv://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
 中视新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
 中视新闻,http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
 
-中視經典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
+东森财经新闻,https://git.io/Jgkpc
+东森财经新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
+东森财经新闻,rtmp://59.124.75.150/sat/tv571
+东森财经新闻,rtmp://59.124.75.138/sat/tv571
+东森财经新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
+
+东森新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
+东森新闻,mitv://fccs.word-tv.com:9906/62540c77000699df093f1528c8c4d48a
+东森新闻,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
+东森新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
 
 台视新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
 
