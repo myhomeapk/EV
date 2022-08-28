@@ -94,7 +94,10 @@ TVBS欢乐,rtmp://59.124.75.138:1935/sat/tv421
 TVBS欢乐,rtmp://59.124.75.138:1935/sat/tv421
 TVBS欢乐,rtmp://59.124.75.138/sat/tv421
 TVBS欢乐,http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C2318787923187879&ct=19193&tsum=394d2b9af3df7846e2cdc60d69dd4219
-纬来戏剧台,P2p://ns2.hellotvvod.com:9906/b810e88c6c5645339e5284435cbbf088
+纬来戏剧,P2p://ns2.hellotvvod.com:9906/b810e88c6c5645339e5284435cbbf088
+纬来戏剧,mitv://fccs.word-tv.com:9906/62585f76000e7ba90fdf0591eb84257b
+Bloomberg,P2p://ns2.hellotvvod.com:9906/7159f32158a948bd88826275eef9314b
+Bloomberg,http://218.32.47.179:8551/http/192.168.1.9:8078/hls/43/80/bloomber.m3u8
 
 中天新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
 中天新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
@@ -170,7 +173,7 @@ Boomerang,mitv://fccs.word-tv.com:9906/62584d670009313f0f98799e2354015b
 中天娛樂,mitv://fccs.word-tv.com:9906/62585ecd000adfc10fdc707c21a26424
 八大戲劇,mitv://fccs.word-tv.com:9906/6258594f0004c9c40fc6fabdb0e81edf
 TVBS歡樂台,mitv://fccs.word-tv.com:9906/62585f330007fbe70fddfe2f12feb8b6
-緯來戲劇 ,mitv://fccs.word-tv.com:9906/62585f76000e7ba90fdf0591eb84257b
+
 高點綜合 ,mitv://fccs.word-tv.com:9906/62585fb8000970600fe0061669e3aba4
 JET綜合,mitv://fccs.word-tv.com:9906/625860030000abdc0fe128cf548f1def
 JET綜合,http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec
@@ -248,7 +251,7 @@ Baby TV,http://218.32.47.179:18514/http/192.168.1.9:8078/hls/35/80/babytv.m3u8
 EYE TV旅遊台,mitv://fccs.word-tv.com:9906/62595e910009221e13c385aa08f4d222
 
 Discovery Asia,mitv://fccs.word-tv.com:9906/6258ebd80002c54f12036161f9ac3eb0
-Bloomberg News,http://218.32.47.179:8551/http/192.168.1.9:8078/hls/43/80/bloomber.m3u8
+
 國家地理FHD,http://218.32.47.179:18509/http/192.168.1.9:8081/hls/61/803/ch01.m3u8
 華視FHD,http://218.32.47.179:18503/http/192.168.1.9:8081/hls/72/814/ch48.m3u8
 八大綜合FHD,http://218.32.47.179:18520/http/192.168.1.9:8081/hls/66/808/ch21.m3u8
