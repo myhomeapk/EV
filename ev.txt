@@ -10,6 +10,10 @@
 
 东森财经新闻,https://git.io/Jgkpc
 东森财经新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
+东森财经新闻,rtmp://59.124.75.150/sat/tv571
+东森财经新闻,rtmp://59.124.75.138/sat/tv571
+东森财经新闻,http://60.251.33.252:18515/.m3u8
+东森财经新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
 东森新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
 
 中天新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
@@ -63,9 +67,7 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421
 TVBS欢乐,http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C2318787923187879&ct=19193&tsum=394d2b9af3df7846e2cdc60d69dd4219
 TVBS,http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=MCDC5358450053584500&ct=19193&tsum=e69eb1ebdae5b69772df214072ef9f19
 东森新闻,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
-东森财经新闻,rtmp://59.124.75.150/sat/tv571
-东森财经新闻,rtmp://59.124.75.138/sat/tv571
-东森财经新闻,http://60.251.33.252:18515/.m3u8
+
 东森超视,rtmp://59.124.75.138:1935/sat/tv331
 东森超视,rtmp://59.124.75.150/sat/tv521
 东森超视,rtmp://59.124.75.138/sat/tv521
@@ -205,7 +207,7 @@ DMAX探索動力,mitv://fccs.word-tv.com:9906/6258ec18000964b412045d13a4eb316e
 LiveABC互动英语,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
 大爱电视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
 人间卫视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210
-东森财经新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
+
 新唐人亚太,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
 SBN全球财经,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
 德国之声,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
