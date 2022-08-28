@@ -12,8 +12,11 @@
 东森财经新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
 东森财经新闻,rtmp://59.124.75.150/sat/tv571
 东森财经新闻,rtmp://59.124.75.138/sat/tv571
-东森财经新闻,http://60.251.33.252:18515/.m3u8
 东森财经新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
+
+东森新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
+东森新聞,mitv://fccs.word-tv.com:9906/62540c77000699df093f1528c8c4d48a
+东森新闻,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
 东森新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
 
 中天新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
@@ -66,7 +69,7 @@ TVBS欢乐,rtmp://59.124.75.138:1935/sat/tv421
 TVBS欢乐,rtmp://59.124.75.138/sat/tv421
 TVBS欢乐,http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C2318787923187879&ct=19193&tsum=394d2b9af3df7846e2cdc60d69dd4219
 TVBS,http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=MCDC5358450053584500&ct=19193&tsum=e69eb1ebdae5b69772df214072ef9f19
-东森新闻,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
+
 
 东森超视,rtmp://59.124.75.138:1935/sat/tv331
 东森超视,rtmp://59.124.75.150/sat/tv521
@@ -107,7 +110,7 @@ TVBS歡樂台,mitv://fccs.word-tv.com:9906/62585f330007fbe70fddfe2f12feb8b6
 高點綜合 ,mitv://fccs.word-tv.com:9906/62585fb8000970600fe0061669e3aba4
 JET綜合,mitv://fccs.word-tv.com:9906/625860030000abdc0fe128cf548f1def
 JET綜合,http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec
-東森新聞,mitv://fccs.word-tv.com:9906/62540c77000699df093f1528c8c4d48a
+
 東森財經,mitv://fccs.word-tv.com:9906/6254128d000e830c0956dd1ea31d7f59
 三立財經,mitv://fccs.word-tv.com:9906/62614b9c0008ec3518c675877b79b6ea
 東森電影,mitv://fccs.word-tv.com:9906/62541ccb0008d232097eddd9e4082c99
@@ -213,7 +216,7 @@ SBN全球财经,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-li
 德国之声,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
 三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
 MOMO亲子,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
-东森新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
+
 金光木偶戏,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
 爱尔达生活旅游,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live120&nid=237
 华语戏剧,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
