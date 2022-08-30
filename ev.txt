@@ -267,6 +267,13 @@ EVE,P2p://ns2.hellotvvod.com:9906/c32b6fa511cb459398328b5e82ac46e3
 人间卫视,http://218.32.47.179:8506/http/192.168.1.9:8081/hls/69/811/ch36.m3u8
 采昌影剧台,P2p://ns2.hellotvvod.com:9906/3417b99db54f40d09a101b8237856256
 Boomerang,mitv://fccs.word-tv.com:9906/62584d670009313f0f98799e2354015b
+Now爆谷,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzewIopbcXzSps0zmpJli7rBM
+WARNER TV,P2p://ns2.hellotvvod.com:9906/80c190fefe6241f1aace0a7b0a731ff3
+Star Movies HD,P2p://ns2.hellotvvod.com:9906/bb688b3cf95143d180e412e7c3f466a7
+
+东森幼幼,P2p://ns2.hellotvvod.com:9906/c2b6515c32914110bfe2a9ac962855ff
+东森幼幼,http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
+东森新闻,P2p://ns2.hellotvvod.com:9906/365659c74e1049d1a907c5118405d2aa
 
 中视新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
 中视新闻,http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
@@ -374,7 +381,7 @@ MOMO亲子,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107
 HBO溫馨家庭,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
 
 CN卡通,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=md272f875bb6916787346&ct=17874&tsum=0c38bae20c6db7e76ad1418654c8ccd4
-東森幼幼,http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
+
 
 愛爾達體育1,http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 ELEVEN SPORTS 1,http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
