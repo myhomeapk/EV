@@ -91,6 +91,8 @@ MOMO亲子台,mitv://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
 三立inews新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
 三立inews新聞,P2p://ns2.hellotvvod.com:9906/8044cd6adaa14a969ee691d58c8eabb9
 
+HGTV居家乐活频道,P2p://ns2.hellotvvod.com:9906/97998ba196964eab9686d9d5b82ed634
+
 中天娱乐,P2p://ns2.hellotvvod.com:9906/8d36b7a80cb14f65956db83faf108572
 中天娱乐,http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
 东森戏剧台,P2p://ns2.hellotvvod.com:9906/b9b2a3108cd748a48c69fde74cdac00e
