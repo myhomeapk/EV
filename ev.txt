@@ -185,7 +185,7 @@ EYE TV旅游,mitv://fccs.word-tv.com:9906/62595e910009221e13c385aa08f4d222
 
 HBO,P2p://ns2.hellotvvod.com:9906/807504211493478280d6865f83552e64
 HBO,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
-HBO HD,mitv://fccs.word-tv.com:9906/6268100d000c1b5d19322ef22ed23efc
+HBO,mitv://fccs.word-tv.com:9906/6268100d000c1b5d19322ef22ed23efc
 
 东森洋片,P2p://ns2.hellotvvod.com:9906/e20a0cbb07184f19a1bc0456a1ec590d
 东森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
