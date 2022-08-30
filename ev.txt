@@ -76,8 +76,8 @@ MOMO亲子,mitv://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
 三立台湾,http://218.32.47.179:18521/http/192.168.1.9:8081/hls/65/807/ch20.m3u8
 
 三立都会,P2p://ns2.hellotvvod.com:9906/75d92f9df62e4c268f4d28bed2aa9d2e
-卫视电影,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
-卫视电影,P2p://ns2.hellotvvod.com:9906/8d22d953e4184dbfb3753b093f401769
+
+星卫电影,P2p://ns2.hellotvvod.com:9906/bbcd47b994844586b0f7b72faf990b55
 
 东森综合,P2p://ns2.hellotvvod.com:9906/a9abe20e2b854129b007851902abed58
 东森超视,rtmp://59.124.75.138:1935/sat/tv331
