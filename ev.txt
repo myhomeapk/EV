@@ -274,17 +274,14 @@ WARNER TV,P2p://ns2.hellotvvod.com:9906/80c190fefe6241f1aace0a7b0a731ff3
 Star Movies HD,P2p://ns2.hellotvvod.com:9906/bb688b3cf95143d180e412e7c3f466a7
 
 尼克儿童频道,P2p://ns2.hellotvvod.com:9906/690725fb0e6b4e90a48552833334072c
-
-
 CinemaWorld,P2p://ns2.hellotvvod.com:9906/01a6be572b6f44248f6c83ad24eb33cc
 达文西频道,P2p://ns2.hellotvvod.com:9906/2d612a0555594012873d6d29f437df07
 
 靖天日本台,P2p://ns2.hellotvvod.com:9906/3e48fa8e54bd4b3c89b5499ec86ba0e1
 
-亚洲旅游,http://218.32.47.179:18513/http/192.168.1.9:8081/hls/76/818/ch61.m3u8
-亚洲旅游,mitv://fccs.word-tv.com:9906/62595eed0008772713c4ecde7515ec18
-亚洲旅游,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
 亚洲旅游,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
+亚洲旅游,http://218.32.47.179:18513/http/192.168.1.9:8081/hls/76/818/ch61.m3u8
+亚洲旅游,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
 
 Love Nature,P2p://ns2.hellotvvod.com:9906/47d058f989264180ad813000e6191966
 HGTV,P2p://ns2.hellotvvod.com:9906/97998ba196964eab9686d9d5b82ed634
@@ -405,6 +402,9 @@ HBO溫馨家庭,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&
 
 
 愛爾達體育1,http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+爱尔达体育1台(备),P2p://ns2.hellotvvod.com:9906/69ed397ecfcb451eb9863d0d6db9ff9f
+爱尔达体育2台(备),P2p://ns2.hellotvvod.com:9906/7ca7e29a2cf9416dab836618c65c0634
+爱尔达体育3台(备),P2p://ns2.hellotvvod.com:9906/89efb8b1822d4708b6c1d1e8f5b9e1a3
 ELEVEN SPORTS 1,http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
 
 🇨🇳｜中国,#genre#
