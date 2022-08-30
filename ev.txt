@@ -198,6 +198,7 @@ AXN,http://218.32.47.179:18558/http/192.168.1.9:8081/hls/71/813/ch43.m3u8
 
 全大,mitv://fccs.word-tv.com:9906/62614c730008668f18c9bd3d40261639
 信大,mitv://fccs.word-tv.com:9906/62614ca00005778f18ca6c44cdea2031
+
 纬来育乐,P2p://ns2.hellotvvod.com:9906/6f4c7d47aa9d457792fb0f51c48fd966
 纬来育乐,rtmp://59.124.75.150/sat/tv701
 纬来育乐,rtmp://59.124.75.138:1935/sat/tv701
@@ -254,8 +255,6 @@ Boomerang,mitv://fccs.word-tv.com:9906/62584d670009313f0f98799e2354015b
 JET綜合,mitv://fccs.word-tv.com:9906/625860030000abdc0fe128cf548f1def
 JET綜合,http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec
 三立財經,mitv://fccs.word-tv.com:9906/62614b9c0008ec3518c675877b79b6ea
-
-
 
 MOMO綜合台,mitv://fccs.word-tv.com:9906/62580818000c773d0e89bddcd1b0c221
 國興衛視,mitv://fccs.word-tv.com:9906/6258dc9e0003580511c7e6f78e3b1759
