@@ -220,7 +220,7 @@ ELEVEN体育1台,P2p://ns2.hellotvvod.com:9906/56f78b012ab5497cbcf96efa56d599ab
 
 国兴卫视,P2p://ns2.hellotvvod.com:9906/0ba561f1683a4f6186f44529cadf31f7
 Z频道,P2p://ns2.hellotvvod.com:9906/3a3e760703fe4c6d9dd3d4e3cd0ae87b
-
+海豚综合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
 華視新聞資訊,http://218.32.47.179:8538/http/192.168.1.9:8081/hls/61/803/ch03.m3u8
 
 東風衛視,http://218.32.47.179:18528/http/192.168.1.9:8081/hls/68/810/ch31.m3u8
@@ -272,7 +272,7 @@ MTV,mitv://fccs.word-tv.com:9906/6258e40a000dc72411e4e7829de2c8b5
 信吉,mitv://fccs.word-tv.com:9906/6258e362000ea49c11e2577b5ee3ce53
 TVBS精采台,mitv://fccs.word-tv.com:9906/6259b507000647d0151541dfdfa4429f
 
-海豚综合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
+
 民视第一,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
 民视台湾,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
 
