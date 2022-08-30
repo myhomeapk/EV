@@ -229,6 +229,7 @@ ALJAZEERA,P2p://ns2.hellotvvod.com:9906/b212e4c6f9e24b78be1a1a24df4eeae9
 ALJAZEERA,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85
 FOX,P2p://ns2.hellotvvod.com:9906/7f349a12f16d4296944370bf4bd9b2f0
 KBS World,P2p://ns2.hellotvvod.com:9906/0db8739a75634c4e826143e7bb9b7a7d
+AMC最爱电影,P2p://ns2.hellotvvod.com:9906/3a81ac3bdfab4342b58d9ecfbb69ac21
 八大娱乐,P2p://ns2.hellotvvod.com:9906/cadf611647f94a6595305baa947f6264
 MTV,mitv://fccs.word-tv.com:9906/6258e40a000dc72411e4e7829de2c8b5
 MTV,P2p://ns2.hellotvvod.com:9906/b5ed8ba44332423684b029138c744636
