@@ -157,6 +157,8 @@ TVBS,http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=MCDC5358450053584500&ct=1919
 东森财经新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
 东森财经新闻,mitv://fccs.word-tv.com:9906/6254128d000e830c0956dd1ea31d7f59
 
+EYE TV旅游台,P2p://ns2.hellotvvod.com:9906/892a16579495463e835576d4aba45cab
+
 非凡新闻台,P2p://ns2.hellotvvod.com:9906/f673cb32c63148eda241ca48287abc1a
 
 天映經典,http://120.84.96.221:808/hls/85/index.m3u8
