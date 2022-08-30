@@ -181,7 +181,6 @@ EYE TV旅游,mitv://fccs.word-tv.com:9906/62595e910009221e13c385aa08f4d222
 纬来电影,P2p://ns2.hellotvvod.com:9906/666e92af6da048e387f28b8e8a1c41f9
 龙祥电影,P2p://ns2.hellotvvod.com:9906/31e1369076a547a18020ea74cb9d6423
 
-
 HBO,P2p://ns2.hellotvvod.com:9906/807504211493478280d6865f83552e64
 HBO,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 HBO HD,mitv://fccs.word-tv.com:9906/6268100d000c1b5d19322ef22ed23efc
@@ -243,7 +242,7 @@ ALJAZEERA,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&ni
 亞洲旅遊,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
 Boomerang,mitv://fccs.word-tv.com:9906/62584d670009313f0f98799e2354015b
 東風衛視,mitv://fccs.word-tv.com:9906/6258585d0007329c0fc34a0b3c4be606
-年代MUCH,mitv://fccs.word-tv.com:9906/625858aa000f2ee50fc478de23b3e0dd
+
 中天娛樂,mitv://fccs.word-tv.com:9906/62585ecd000adfc10fdc707c21a26424
 八大戲劇,mitv://fccs.word-tv.com:9906/6258594f0004c9c40fc6fabdb0e81edf
 高點綜合 ,mitv://fccs.word-tv.com:9906/62585fb8000970600fe0061669e3aba4
