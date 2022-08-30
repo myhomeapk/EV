@@ -163,7 +163,7 @@ TVBS,http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=MCDC5358450053584500&ct=1919
 非凡新闻台,P2p://ns2.hellotvvod.com:9906/f673cb32c63148eda241ca48287abc1a
 
 EYE TV旅游台,P2p://ns2.hellotvvod.com:9906/892a16579495463e835576d4aba45cab
-EYE TV旅遊台,mitv://fccs.word-tv.com:9906/62595e910009221e13c385aa08f4d222
+EYE TV旅游台,mitv://fccs.word-tv.com:9906/62595e910009221e13c385aa08f4d222
 
 天映經典,http://120.84.96.221:808/hls/85/index.m3u8
 天映經典,http://50.7.220.74:8278/Celestial2/playlist.m3u8?tid=m6ef86c74cc921039065&ct=17916&tsum=d3a0eedfcfc050a71e7c99ea52c0da04
