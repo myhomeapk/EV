@@ -249,6 +249,9 @@ i-Fun动漫台,P2p://ns2.hellotvvod.com:9906/12430e05b0e240b69fb1c35f795b64fb
 龙华电影,http://59.125.122.90:18574/http/192.168.1.9:8078/hls/24/80/ch04.m3u8
 龙华电影,http://218.32.47.179:18556/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
 
+OUTDOOR,P2p://ns2.hellotvvod.com:9906/11070b7b618947e0807eba459065a5bb
+智林体育台,P2p://ns2.hellotvvod.com:9906/1245f2d45ae34a6bb9b900b1e3082e01
+
 ESPN,Http://51.79.82.208:16417
 ESPN,http://69.164.224.53:80/ESPN/mpegts
 
