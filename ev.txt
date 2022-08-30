@@ -86,6 +86,7 @@ MOMO亲子,mitv://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
 
 中天综合,P2p://ns2.hellotvvod.com:9906/fe0a54eee624418f8300555899261df5
 中天綜合,http://218.32.47.179:18526/http/192.168.1.9:8081/hls/67/809/ch25.m3u8
+
 三立inews新聞,https://git.io/Jgkxj
 三立inews新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews
 三立inews新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
@@ -305,7 +306,7 @@ HBO原创,mitv://fccs.word-tv.com:9906/6259b8f1000b9a0015248d4cabbe753c
 
 信吉,mitv://fccs.word-tv.com:9906/6258e362000ea49c11e2577b5ee3ce53
 TVBS精采台,mitv://fccs.word-tv.com:9906/6259b507000647d0151541dfdfa4429f
-中天综合,P2p://ns2.hellotvvod.com:9906/fe0a54eee624418f8300555899261df5
+
 
 
 民视第一,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
