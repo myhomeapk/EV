@@ -188,13 +188,10 @@ EYE TV旅游,mitv://fccs.word-tv.com:9906/62595e910009221e13c385aa08f4d222
 龙祥电影,P2p://ns2.hellotvvod.com:9906/31e1369076a547a18020ea74cb9d6423
 
 HBO,P2p://ns2.hellotvvod.com:9906/807504211493478280d6865f83552e64
-HBO,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 HBO,mitv://fccs.word-tv.com:9906/6268100d000c1b5d19322ef22ed23efc
-HBO,mitv://ns2.hellotvvod.com:9906/17bdacb63fb6499b9fe1f5a4b0c927b2
 
 东森洋片,P2p://ns2.hellotvvod.com:9906/e20a0cbb07184f19a1bc0456a1ec590d
 东森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
-东森洋片,mitv://fccs.word-tv.com:9906/62541d6200021780098129f8ea5d0f93
 
 AXN,P2p://ns2.hellotvvod.com:9906/846585b8fc4e43f1a11294f10a6d6e4e
 AXN,http://218.32.47.179:18558/http/192.168.1.9:8081/hls/71/813/ch43.m3u8
@@ -243,8 +240,10 @@ FOX,P2p://ns2.hellotvvod.com:9906/7f349a12f16d4296944370bf4bd9b2f0
 KBS World,P2p://ns2.hellotvvod.com:9906/0db8739a75634c4e826143e7bb9b7a7d
 AMC最爱电影,P2p://ns2.hellotvvod.com:9906/3a81ac3bdfab4342b58d9ecfbb69ac21
 八大娱乐,P2p://ns2.hellotvvod.com:9906/cadf611647f94a6595305baa947f6264
-MTV,mitv://fccs.word-tv.com:9906/6258e40a000dc72411e4e7829de2c8b5
-MTV,P2p://ns2.hellotvvod.com:9906/b5ed8ba44332423684b029138c744636
+
+MTV_Live,mitv://fccs.word-tv.com:9906/6258e40a000dc72411e4e7829de2c8b5
+MTV_Live,P2p://ns2.hellotvvod.com:9906/cdb5d79fed82406fae476fa897f94a8c
+MTV_Live,P2p://ns2.hellotvvod.com:9906/b5ed8ba44332423684b029138c744636
 三立財經,mitv://fccs.word-tv.com:9906/62614b9c0008ec3518c675877b79b6ea
 
 龙华戏剧,P2p://ns2.hellotvvod.com:9906/e2cbbafba9994def88a7a79f8639e07f
@@ -275,6 +274,7 @@ ESPN,http://69.164.224.53:80/ESPN/mpegts
 
 佛卫慈悲台,P2p://ns2.hellotvvod.com:9906/8db0c52a0e47461d92e91add0f64b8df
 EVE,P2p://ns2.hellotvvod.com:9906/c32b6fa511cb459398328b5e82ac46e3
+
 人间卫视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210
 人间卫视,http://218.32.47.179:8506/http/192.168.1.9:8081/hls/69/811/ch36.m3u8
 采昌影剧台,P2p://ns2.hellotvvod.com:9906/3417b99db54f40d09a101b8237856256
@@ -299,7 +299,6 @@ HGTV,P2p://ns2.hellotvvod.com:9906/97998ba196964eab9686d9d5b82ed634
 
 BBC Lifestyle,P2p://ns2.hellotvvod.com:9906/7dadbc43e0c84d078f6690943fca939f
 
-
 亚洲美食频道,P2p://ns2.hellotvvod.com:9906/686ff298f4fe493fb994ff5f1dd28606
 OUTDOOR,P2p://ns2.hellotvvod.com:9906/11070b7b618947e0807eba459065a5bb
 CN 卡通,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=md272f875bb6916787346&ct=17874&tsum=0c38bae20c6db7e76ad1418654c8ccd4
@@ -319,7 +318,7 @@ Cbeebies,P2p://ns2.hellotvvod.com:9906/2d2fb160a3de4f05948706b7324e2e3f
 BBC Earth,P2p://ns2.hellotvvod.com:9906/102677975c0345de95c79b1af3db7908
 
 中天亞洲,mitv://fccs.word-tv.com:9906/626610e20008d9cf11656e24ac45db0e
-Discovery,P2p://ns2.hellotvvod.com:9906/a4a9e9e04eda47a987b823bdafd59741
+Discovery科学,P2p://ns2.hellotvvod.com:9906/a4a9e9e04eda47a987b823bdafd59741
 AXN,mitv://ns2.hellotvvod.com:9906/a6930fcb83344e5bbc709dc0d5dd7f4d
 
 爱尔达体育1,P2p://ns2.hellotvvod.com:9906/69ed397ecfcb451eb9863d0d6db9ff9f
@@ -395,9 +394,11 @@ JET綜合,http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct
 
 MOMO綜合台,mitv://fccs.word-tv.com:9906/62580818000c773d0e89bddcd1b0c221
 STAR Word,mitv://fccs.word-tv.com:9906/6258dcea0002765e11c90f9d2d7fac5d
-MTV Live,P2p://ns2.hellotvvod.com:9906/cdb5d79fed82406fae476fa897f94a8c
+
 Mezzo Live,P2p://ns2.hellotvvod.com:9906/5e7a1ec593824974804d18c536c7026a
-狼谷娛樂,mitv://fccs.word-tv.com:9906/6258f82b00089b8f12338718bf84237d
+CLASSICA 古典乐,P2p://ns2.hellotvvod.com:9906/aeac7c084671404dbc6e043a0381f93a
+CMusic,P2p://ns2.hellotvvod.com:9906/c0715384eae843d18b73076f320bcb51
+
 時尚頻道,http://50.7.220.74:8278/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&ct=18335&tsum=732ba26aa334bf6c1fad8812deda83d1
 時尚瘋高清頻道,mitv://fccs.word-tv.com:9906/6258e626000f104a11ed2537d42ef8a8
 信吉,mitv://fccs.word-tv.com:9906/6258e362000ea49c11e2577b5ee3ce53
@@ -419,31 +420,17 @@ ELTV生活英语,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-l
 華視新聞資訊台FHD,http://218.32.47.179:8538/http/192.168.1.9:8081/hls/61/803/ch03.m3u8
 
 CINEMAX FHD,http://218.32.47.179:18559/http/192.168.1.9:8081/hls/71/813/ch42.m3u8
-
-
 Baby TV,http://218.32.47.179:18514/http/192.168.1.9:8078/hls/35/80/babytv.m3u8
-
-
-
 
 八大綜合FHD,http://218.32.47.179:18520/http/192.168.1.9:8081/hls/66/808/ch21.m3u8
 
-
-
-
 NHK世界FHD,http://218.32.47.179:8552/http/192.168.1.9:8081/hls/62/804/ch06.m3u8
-
+NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net:443/8thz5iufork8wjip/playlist.m3u8
 緯來綜合FHD,http://218.32.47.179:18518/http/192.168.1.9:8081/hls/68/810/ch32.m3u8
 八大戲劇FHD,http://218.32.47.179:18531/http/192.168.1.9:8081/hls/66/808/ch23.m3u8
 MUCH TV,http://218.32.47.179:18529/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
 
-
-NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net:443/8thz5iufork8wjip/playlist.m3u8
-
 LiveABC互动英语,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
-
-
-
 德国之声,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
 
 爱尔达生活旅游,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live120&nid=237
@@ -453,7 +440,12 @@ LiveABC互动英语,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gt
 滚动力,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live012&nid=249
 
 中天美食旅游,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
-
+LUXE TV,P2p://ns2.hellotvvod.com:9906/130d41788bfc4f78b6444675f4b6c541
+Lifetime,P2p://ns2.hellotvvod.com:9906/7b24dc597c3c40c3b59f253826a083c5
+KLT-靖天国际台,P2p://ns2.hellotvvod.com:9906/6dc496054577491f8abbfef561587ea5
+Love Nature,P2p://ns2.hellotvvod.com:9906/47d058f989264180ad813000e6191966
+CatchPlay电影台,P2p://ns2.hellotvvod.com:9906/14458e1447fe4cba8caf28d8cbb2a93e
+CinemaWorld,P2p://ns2.hellotvvod.com:9906/01a6be572b6f44248f6c83ad24eb33cc
 
 靖天电影台,mitv://ns2.hellotvvod.com:9906/944ef19dba2b449db6ff46e2f2e4969c
 靖天卡通台,mitv://ns2.hellotvvod.com:9906/cf4353462f1e4298bd84b59eb665a634
@@ -860,6 +852,7 @@ DreamWorks,mitv://fccs.word-tv.com:9906/6259b527000085d61515bd669d7ec89a
 金鹰卡通,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226959/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 卡酷少儿,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225871/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 卡酷少儿,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226963/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+狼谷娛樂,mitv://fccs.word-tv.com:9906/6258f82b00089b8f12338718bf84237d
 
 
 🎥电影,#genre#
