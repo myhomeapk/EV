@@ -289,8 +289,6 @@ Thrill,mitv://ns2.hellotvvod.com:9906/93d85cb13ede4f24ab3a4c4269557cde
 Now爆谷,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzewIopbcXzSps0zmpJli7rBM
 
 Star Movies HD,P2p://ns2.hellotvvod.com:9906/bb688b3cf95143d180e412e7c3f466a7
-
-
 CinemaWorld,P2p://ns2.hellotvvod.com:9906/01a6be572b6f44248f6c83ad24eb33cc
 达文西频道,P2p://ns2.hellotvvod.com:9906/2d612a0555594012873d6d29f437df07
 
