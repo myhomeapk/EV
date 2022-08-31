@@ -319,6 +319,7 @@ Cbeebies,P2p://ns2.hellotvvod.com:9906/2d2fb160a3de4f05948706b7324e2e3f
 BBC Earth,P2p://ns2.hellotvvod.com:9906/102677975c0345de95c79b1af3db7908
 
 中天亞洲,mitv://fccs.word-tv.com:9906/626610e20008d9cf11656e24ac45db0e
+Discovery,P2p://ns2.hellotvvod.com:9906/a4a9e9e04eda47a987b823bdafd59741
 AXN,mitv://ns2.hellotvvod.com:9906/a6930fcb83344e5bbc709dc0d5dd7f4d
 
 爱尔达体育1,P2p://ns2.hellotvvod.com:9906/69ed397ecfcb451eb9863d0d6db9ff9f
@@ -366,7 +367,7 @@ HISTORY,P2p://ns2.hellotvvod.com:9906/909c658bec464260ac57be2614791d6e
 HBO原创,mitv://fccs.word-tv.com:9906/6259b8f1000b9a0015248d4cabbe753c
 HBO HITS,mitv://fccs.word-tv.com:9906/6258e224000020c111dd7994321ef7ec
 HBO Family,P2p://ns2.hellotvvod.com:9906/75f0e9bffa9a40d088e8a1894b3ae616
-tvN,mitv://ns2.hellotvvod.com:9906/28da45834d1e4b079e0de08ade422478
+tvN,P2p://ns2.hellotvvod.com:9906/7c5f4e08f3e343f2ba0997d251c18f30
 
 星卫电影,P2p://ns2.hellotvvod.com:9906/bbcd47b994844586b0f7b72faf990b55
 星卫电影,mitv://ns2.hellotvvod.com:9906/ea0326dbedc94962a54ee6c7c688ad8b
@@ -393,24 +394,14 @@ JET綜合,http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct
 
 
 MOMO綜合台,mitv://fccs.word-tv.com:9906/62580818000c773d0e89bddcd1b0c221
-
-
 STAR Word,mitv://fccs.word-tv.com:9906/6258dcea0002765e11c90f9d2d7fac5d
-
-
-
+MTV Live,P2p://ns2.hellotvvod.com:9906/cdb5d79fed82406fae476fa897f94a8c
+Mezzo Live,P2p://ns2.hellotvvod.com:9906/5e7a1ec593824974804d18c536c7026a
 狼谷娛樂,mitv://fccs.word-tv.com:9906/6258f82b00089b8f12338718bf84237d
-
 時尚頻道,http://50.7.220.74:8278/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&ct=18335&tsum=732ba26aa334bf6c1fad8812deda83d1
 時尚瘋高清頻道,mitv://fccs.word-tv.com:9906/6258e626000f104a11ed2537d42ef8a8
-
-
 信吉,mitv://fccs.word-tv.com:9906/6258e362000ea49c11e2577b5ee3ce53
 好消息頻道,http://218.32.47.179:8508/http/192.168.1.9:8081/hls/74/816/ch53.m3u8
-
-
-
-
 
 JET综合,http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec
 三立戏剧,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
