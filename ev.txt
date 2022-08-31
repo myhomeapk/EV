@@ -320,11 +320,11 @@ BBC Earth,P2p://ns2.hellotvvod.com:9906/102677975c0345de95c79b1af3db7908
 
 中天亞洲,mitv://fccs.word-tv.com:9906/626610e20008d9cf11656e24ac45db0e
 AXN,mitv://ns2.hellotvvod.com:9906/a6930fcb83344e5bbc709dc0d5dd7f4d
-愛爾達體育1,http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
-爱尔达体育1台(备),P2p://ns2.hellotvvod.com:9906/69ed397ecfcb451eb9863d0d6db9ff9f
-爱尔达体育2台(备),P2p://ns2.hellotvvod.com:9906/7ca7e29a2cf9416dab836618c65c0634
-愛爾達體育2台,mitv://fccs.word-tv.com:9906/62596cee000e512213fba2460c39ef10
-爱尔达体育3台(备),P2p://ns2.hellotvvod.com:9906/89efb8b1822d4708b6c1d1e8f5b9e1a3
+
+爱尔达体育1,P2p://ns2.hellotvvod.com:9906/69ed397ecfcb451eb9863d0d6db9ff9f
+爱尔达体育2,P2p://ns2.hellotvvod.com:9906/7ca7e29a2cf9416dab836618c65c0634
+爱尔达体育2,mitv://fccs.word-tv.com:9906/62596cee000e512213fba2460c39ef10
+爱尔达体育3,P2p://ns2.hellotvvod.com:9906/89efb8b1822d4708b6c1d1e8f5b9e1a3
 台视新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
 
 民视综艺,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
@@ -360,19 +360,14 @@ DMAX,P2p://ns2.hellotvvod.com:9906/9b2c80d3632b4c4cb6b56e88376a83b2
 博斯运动,P2p://ns2.hellotvvod.com:9906/ee130ba577b7455586651e52aa7e4568
 
 HISTORY 2,P2p://ns2.hellotvvod.com:9906/5300fbcc0f0e4e67ab3f4b0318c0baae
-历史频道,P2p://ns2.hellotvvod.com:9906/909c658bec464260ac57be2614791d6e
+HISTORY,P2p://ns2.hellotvvod.com:9906/909c658bec464260ac57be2614791d6e
 罪案侦缉,P2p://ns2.hellotvvod.com:9906/271753ebc1704bf992d5cc18e41c77bc
-罪案偵輯,http://50.7.220.74:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
+罪案侦缉,http://50.7.220.74:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
 HBO原创,mitv://fccs.word-tv.com:9906/6259b8f1000b9a0015248d4cabbe753c
-HBOSignature,mitv://ns2.hellotvvod.com:9906/48188ae0038b43e780fe56b4219e4334
-HBO HITS,mitv://ns2.hellotvvod.com:9906/d7d62ec11f474255995219571ff0f5d5
 HBO HITS,mitv://fccs.word-tv.com:9906/6258e224000020c111dd7994321ef7ec
-
-HBO Family,mitv://ns2.hellotvvod.com:9906/a4ec3870507a4518871636e158e21dd9
 HBO Family,P2p://ns2.hellotvvod.com:9906/75f0e9bffa9a40d088e8a1894b3ae616
-HBO溫馨家庭,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
 tvN,mitv://ns2.hellotvvod.com:9906/28da45834d1e4b079e0de08ade422478
-tvN Movies HD,mitv://ns2.hellotvvod.com:9906/56b5a1723b984a6ba663ec20da640973
+
 星卫电影,P2p://ns2.hellotvvod.com:9906/bbcd47b994844586b0f7b72faf990b55
 星卫电影,mitv://ns2.hellotvvod.com:9906/ea0326dbedc94962a54ee6c7c688ad8b
 
