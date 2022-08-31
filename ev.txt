@@ -865,6 +865,24 @@ SPORTS GRANDSTAND,http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/110696.m3
 SPORTS MOTORSPORT,http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/111010.m3u8
 SPORTS RUGBY,http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/110706.m3u8
 SPORTS TENNIS,http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/111011.m3u8
+爱尔达体育1,http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+爱尔达体育1,rtmp://59.124.75.138/sat/md011
+爱尔达体育1,rtmp://59.124.75.150/sat/md011
+爱尔达体育2,rtmp://59.124.75.138/sat/md021
+爱尔达体育2,rtmp://59.124.75.150/sat/md021
+爱尔达体育3,rtmp://59.124.75.138/sat/md041
+爱尔达体育3,rtmp://59.124.75.150/sat/md041
+博斯网球,rtmp://59.124.75.138/sat/md031
+博斯网球,rtmp://59.124.75.150/sat/md031
+纬来体育HD,http://123.51.229.65:18509/.m3u8
+纬来体育HD,http://60.251.39.247:8503/http/192.168.77.24:8081/hls/67/809/ch28.m3u8
+ELEVEN1,rtmp://59.124.75.138:1935/sat/tv731
+ELEVEN2,rtmp://59.124.75.138:1935/sat/tv741
+World Poker,https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+ESPN,http://69.164.224.53:80/ESPN/mpegts
+NBC Golf,http://89.187.175.143:80/3013/mpegts
+Dubai Sports,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+Dubai Sports 1,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 
 博斯運動II,http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
 WWE,http://50.7.220.74:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
@@ -914,6 +932,77 @@ DreamWorks,mitv://fccs.word-tv.com:9906/6259b527000085d61515bd669d7ec89a
 
 
 🎥电影,#genre#
+ActionMax,http://89.187.175.143:80/3012/mpegts
+AE,http://89.187.175.143:80/3063/mpegts
+AMC East US,http://89.187.175.143:80/3002/mpegts
+AMC,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/1083/index.m3u8
+AXN,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6162/index.m3u8
+BCU Action,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/11027/index.m3u8
+Bein Movies Action,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6877/index.m3u8
+Bein Movies Action2,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6876/index.m3u8
+Bein Movies HD2,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6134/index.m3u8
+Bravo,http://89.187.175.143:80/3019/mpegts
+Cineman Action,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/11006/index.m3u8
+Cinemax Action u,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6156/index.m3u8
+CINEMAX,http://89.187.175.143:80/3001/mpegts
+CMT,http://89.187.175.143:80/3018/mpegts
+Crime+Investigation,http://89.187.175.143:80/3088/mpegts
+Disney XD,http://89.187.175.143:80/3016/mpegts
+E!East,http://89.187.175.143:80/3082/mpegts
+Epix,http://89.187.175.143:80/3020/mpegts
+Filmbox Extra,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6996/index.m3u8
+Filmbox Stars,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/7045/index.m3u8
+Freeform,http://89.187.175.143:80/3021/mpegts
+FX Movie Channel,http://89.187.175.143:80/3076/mpegts
+FX,http://89.187.175.143:80/3006/mpegts
+HBO Family,http://89.187.175.143:80/3029/mpegts
+HBO Signature,http://89.187.175.143:80/3014/mpegts
+HBO Zone East ,http://89.187.175.143:80/3090/mpegts
+HBO+,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/19048/index.m3u8
+IFC,http://89.187.175.143:80/3091/mpegts
+ION TV,http://89.187.175.143:80/3027/mpegts
+ION TV,http://89.187.175.143:80/3027/mpegts
+MoreMax,http://89.187.175.143:80/3093/mpegts
+Movistar Accion,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/7065/index.m3u8
+N-TV,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/7259/index.m3u8
+Paramount Network,http://89.187.175.143:80/3015/mpegts
+Polsat Film,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6086/index.m3u8
+Pop,http://89.187.175.143:80/3097/mpegts
+Rai News 24,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/19094/index.m3u8
+Sky Cinema Action,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/19098/index.m3u8
+Sky Primafila,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/19118/index.m3u8
+Starz Comedy,http://89.187.175.143:80/3041/mpegts
+Starz Kids & Family,http://89.187.175.143:80/3043/mpegts
+Starz,http://89.187.175.143:80/3035/mpegts
+ThrillerMax,http://89.187.175.143:80/3032/mpegts
+TNT FILM,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6110/index.m3u8
+TNT,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/1102/index.m3u8
+TNT,http://89.187.175.143:80/3030/mpegts
+TV 1000 Action,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6386/index.m3u8
+Ultra Cinema,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/4000/index.m3u8
+V Film Action,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12081/index.m3u8
+V Film Hits,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12072/index.m3u8
+V Film Premier,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12082/index.m3u8
+VIP Megahit,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/201/index.m3u8
+VIP Premiere,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/202/index.m3u8
+YES MOVIES Action,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12270/index.m3u8
+YES TV Action,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12280/index.m3u8
+东森电影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
+东森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
+美亚电影,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MDDD9575732595757325&ct=19211&tsum=55dac286bd545b7950cf8dd18fedfe7a
+美亚电影,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFDF2848449728484497&ct=19211&tsum=f65f39620c24fee2e633c4727cc48727
+美亚电影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+龙华电影,http://59.125.122.90:18574/http/192.168.1.9:8078/hls/24/80/ch04.m3u8
+龙华偶像,http://59.125.122.90:18573/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8
+龙华经典,http://50.7.220.74:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
+天映频道,http://198.16.64.10:8278/Celestial/playlist.m3u8?tid=m02000000000012711358&ct=17975&tsum=2183a8e8c64ee064df57205a4729efe8
+Now爆谷,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzewIopbcXzSps0zmpJli7rBM
+好莱坞电影,http://198.16.64.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
+Boo,http://23.237.10.66:16420
+RPC电影,http://23.237.10.66:16082
+卫视电影,http://23.237.10.66:16010
+卫视电影,http://59.125.122.90:18529/http/192.168.1.9:8078/hls/24/80/ch04.m3u8
+AXN,http://59.125.122.90:18548/http/192.168.1.9:8081/hls/68/810/ch01.m3u8
 龍華戲劇,http://50.7.220.74:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
 美亞電影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
 龍華影劇,http://50.7.220.74:8278/lunghuamovie_twn/playlist.m3u8?tid=mdb73470557ff10965185&ct=17874&tsum=d0a4494eb289910a11f4d305a804136a
