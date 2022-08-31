@@ -453,34 +453,11 @@ Love Nature,P2p://ns2.hellotvvod.com:9906/47d058f989264180ad813000e6191966
 CatchPlay电影台,P2p://ns2.hellotvvod.com:9906/14458e1447fe4cba8caf28d8cbb2a93e
 CinemaWorld,P2p://ns2.hellotvvod.com:9906/01a6be572b6f44248f6c83ad24eb33cc
 
-GOODTV健康HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch13-2.m3u8
+
 GOODTV好医生HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch9-2.m3u8
-GOODTV读书会HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch10-2.m3u8
 GOODTV刘三讲古HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch24-2.m3u8
 GOODTV旅行HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
 GOODTV经典音乐河HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
-
-
-
-靖天电影台,mitv://ns2.hellotvvod.com:9906/944ef19dba2b449db6ff46e2f2e4969c
-靖天卡通台,mitv://ns2.hellotvvod.com:9906/cf4353462f1e4298bd84b59eb665a634
-靖天日本台,mitv://ns2.hellotvvod.com:9906/d322e2bc60ea4d2f89703b858345a132
-靖天戏剧台,mitv://ns2.hellotvvod.com:9906/b933603711964592bee259f39e657721
-靖天映画,mitv://ns2.hellotvvod.com:9906/e62ac111bdc8468da234427712d09039
-靖天育乐台,mitv://ns2.hellotvvod.com:9906/b3b353e559b24fd783f6d883c1a05b03
-靖天资讯台,mitv://ns2.hellotvvod.com:9906/868c92eb0a054fdb820f50e087639821
-靖天综合台,mitv://ns2.hellotvvod.com:9906/6fcc2d818c3f495fae82f2411d85a2d6
-靖洋卡通台,mitv://ns2.hellotvvod.com:9906/6ef75f0fa4964819acfb94a1de8c7c91
-Sky News,mitv://ns2.hellotvvod.com:9906/86b388c5dde84d1ba9c6d94c18238e81
-CNN,mitv://ns2.hellotvvod.com:9906/70bb587728714742ab29d8d5bc7a5f73
-CNBCHongKong,mitv://ns2.hellotvvod.com:9906/2cd33fecc1fa4311ae090718afdd89e1
-Chutti TV,mitv://ns2.hellotvvod.com:9906/2ee75cfb6b4f4114b00824ddc957a8d9
-CGTN,mitv://ns2.hellotvvod.com:9906/51f46c8734c54c8c98a76e587536959c
-Cartoon Network,mitv://ns2.hellotvvod.com:9906/4566ba8876e24ea58977503b34610246
-Boomerang,mitv://ns2.hellotvvod.com:9906/59e0e85687944cf082bee1f81a5e78fa
-BOO,mitv://ns2.hellotvvod.com:9906/9a87945ece624ce78ce271f94b7bff5a
-
-
 
 
 
