@@ -79,6 +79,7 @@ MOMO亲子,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107
 三立台湾,http://218.32.47.179:18521/http/192.168.1.9:8081/hls/65/807/ch20.m3u8
 
 三立都会,P2p://ns2.hellotvvod.com:9906/75d92f9df62e4c268f4d28bed2aa9d2e
+國興衛視,mitv://fccs.word-tv.com:9906/6258dc9e0003580511c7e6f78e3b1759
 东森综合,P2p://ns2.hellotvvod.com:9906/a9abe20e2b854129b007851902abed58
 东森综合,mitv://ns2.hellotvvod.com:9906/5a09ebab7ef941a9a533becbdca6a480
 东森综合,http://218.32.47.179:18524/http/192.168.1.9:8081/hls/63/805/ch12.m3u8
@@ -395,7 +396,7 @@ JET綜合,http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct
 
 
 MOMO綜合台,mitv://fccs.word-tv.com:9906/62580818000c773d0e89bddcd1b0c221
-國興衛視,mitv://fccs.word-tv.com:9906/6258dc9e0003580511c7e6f78e3b1759
+
 
 STAR Word,mitv://fccs.word-tv.com:9906/6258dcea0002765e11c90f9d2d7fac5d
 
