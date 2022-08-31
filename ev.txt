@@ -1,4 +1,5 @@
 🇹🇼｜台湾,#genre#
+
 爱尔达影剧,mitv://ns2.hellotvvod.com:9906/526533cab66348e6b32d6a324964f984
 爱尔达影剧,http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
 爱尔达影剧,mitv://fccs.word-tv.com:9906/62595fe00007a82a13c8a1e18c1171c7
@@ -370,7 +371,8 @@ HISTORY,P2p://ns2.hellotvvod.com:9906/909c658bec464260ac57be2614791d6e
 HBO原创,mitv://fccs.word-tv.com:9906/6259b8f1000b9a0015248d4cabbe753c
 HBO HITS,mitv://fccs.word-tv.com:9906/6258e224000020c111dd7994321ef7ec
 HBO Family,P2p://ns2.hellotvvod.com:9906/75f0e9bffa9a40d088e8a1894b3ae616
-tvN,P2p://ns2.hellotvvod.com:9906/7c5f4e08f3e343f2ba0997d251c18f30
+TVN,mitv://fccs.word-tv.com:9906/6260e5b8000664c11738724174984fec
+TVN,P2p://ns2.hellotvvod.com:9906/7c5f4e08f3e343f2ba0997d251c18f30
 
 星卫电影,P2p://ns2.hellotvvod.com:9906/bbcd47b994844586b0f7b72faf990b55
 星卫电影,mitv://ns2.hellotvvod.com:9906/ea0326dbedc94962a54ee6c7c688ad8b
