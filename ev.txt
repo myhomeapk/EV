@@ -313,7 +313,9 @@ EVE,P2p://ns2.hellotvvod.com:9906/c32b6fa511cb459398328b5e82ac46e3
 采昌影剧台,P2p://ns2.hellotvvod.com:9906/3417b99db54f40d09a101b8237856256
 Boomerang,mitv://fccs.word-tv.com:9906/62584d670009313f0f98799e2354015b
 Thrill,mitv://ns2.hellotvvod.com:9906/93d85cb13ede4f24ab3a4c4269557cde
-Now爆谷,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzewIopbcXzSps0zmpJli7rBM
+爆谷台,mitv://ns2.hellotvvod.com:9906/a538c9511e6d4c20b4241ee3b3b7bfac
+爆谷台,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzewIopbcXzSps0zmpJli7rBM
+
 
 Star Movies HD,P2p://ns2.hellotvvod.com:9906/bb688b3cf95143d180e412e7c3f466a7
 CinemaWorld,P2p://ns2.hellotvvod.com:9906/01a6be572b6f44248f6c83ad24eb33cc
@@ -353,26 +355,11 @@ Discovery科学,P2p://ns2.hellotvvod.com:9906/a4a9e9e04eda47a987b823bdafd59741
 AXN,mitv://ns2.hellotvvod.com:9906/a6930fcb83344e5bbc709dc0d5dd7f4d
 
 爱尔达体育1,P2p://ns2.hellotvvod.com:9906/69ed397ecfcb451eb9863d0d6db9ff9f
-爱尔达体育1,rtmp://59.124.75.138/sat/md011
-爱尔达体育1,rtmp://59.124.75.150/sat/md011
-爱尔达体育1,rtmp://59.124.75.138/sat/md021
-爱尔达体育1,rtmp://59.124.75.150/sat/md021
-爱尔达体育1,rtmp://59.124.75.138/sat/md011
-爱尔达体育1,rtmp://59.124.75.157/sat/md011
-爱尔达体育1,mitv://ns2.hellotvvod.com:9906/3b7c76b8240642e5873d0e481d88e198
-爱尔达体育1,mitv://ns2.hellotvvod.com:9906/2766d491cb8644f58f26c6460beda4b6
+爱尔达体育1,rtmp://59.124.75.138/sat/md051
 爱尔达体育2,P2p://ns2.hellotvvod.com:9906/7ca7e29a2cf9416dab836618c65c0634
 爱尔达体育2,mitv://fccs.word-tv.com:9906/62596cee000e512213fba2460c39ef10
-爱尔达体育2,mitv://ns2.hellotvvod.com:9906/77d24273fbb440abb451badc04ebad75
-爱尔达体育2,mitv://ns2.hellotvvod.com:9906/2e39e102eb73492fb111e1bbcfa4c358
-爱尔达体育2,rtmp://59.124.75.138/sat/md051
-爱尔达体育2,rtmp://59.124.75.157/sat/md051
 爱尔达体育3,P2p://ns2.hellotvvod.com:9906/89efb8b1822d4708b6c1d1e8f5b9e1a3
-爱尔达体育3,mitv://ns2.hellotvvod.com:9906/e9584a4b77c14aa4b1dea0c4246d714a
-爱尔达体育3,mitv://ns2.hellotvvod.com:9906/f8f560ae14c74a63a2c0edab9e7d996c
-爱尔达体育3,rtmp://59.124.75.138/sat/md021
-爱尔达体育3,rtmp://59.124.75.157/sat/md021
-爱尔达体育3,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
+
 
 民视综艺,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
 民视影剧,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
@@ -439,10 +426,7 @@ DMAX探索動力,mitv://fccs.word-tv.com:9906/6258ec18000964b412045d13a4eb316e
 博斯魅力,rtmp://59.124.75.138/sat/md051
 博斯魅力,mitv://ns2.hellotvvod.com:9906/e213cdd17773437a89a68f35b1d8c148
 博斯无限,P2p://ns2.hellotvvod.com:9906/63a4f6b20a99421eac4ae67489c169b3
-博斯无限,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn10&nid=51
-博斯无限,mitv://ns2.hellotvvod.com:9906/7a4667a2d450440fb8bb77e42ef3b162
 博斯无限二,P2p://ns2.hellotvvod.com:9906/ed0b79681eec449194e53757c39300e1
-博斯无限二,mitv://ns2.hellotvvod.com:9906/4ea7823dd7f34b38b29f22e7c000f329
 博斯运动,P2p://ns2.hellotvvod.com:9906/ee130ba577b7455586651e52aa7e4568
 東風衛視,mitv://fccs.word-tv.com:9906/6258585d0007329c0fc34a0b3c4be606
 
