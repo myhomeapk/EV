@@ -1,17 +1,16 @@
 央视频道,#genre#
+CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225918/index.m3u8
+CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8
 CCTV1,http://111.20.33.70/PLTV/88888893/224/3221226231/index.m3u8
 CCTV1,http://111.20.33.70/PLTV/88888893/224/3221226010/index.m3u8
 CCTV1,http://111.20.33.70/PLTV/88888893/224/3221226239/index.m3u8
 CCTV1,http://111.20.33.70/PLTV/88888893/224/3221226408/index.m3u8
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/index.m3u8?fmt=ts2hls
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
-CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225918/index.m3u8
-CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8
 
 CCTV2,http://111.20.33.70/PLTV/88888893/224/3221226224/index.m3u8
 CCTV2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u8
 CCTV2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225500/index.m3u8?fmt=ts2hls
-
 
 CCTV3,http://111.20.33.70/PLTV/88888893/224/3221226397/index.m3u8
 CCTV3,http://111.20.33.70/PLTV/88888893/224/3221226398/index.m3u8
@@ -90,7 +89,6 @@ CCTV14,http://60.10.167.88:808/hls/14/index.m3u8
 CCTV14,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225639/index.m3u8
 CCTV14,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225494/index.m3u8?fmt=ts2hls
 
-
 CCTV15,http://112.19.214.90:8883/tsfile/live/0015_1.m3u8
 CCTV15,http://218.204.51.252:9901/tsfile/live/1020_1.m3u8
 CCTV15,http://60.10.167.88:808/hls/15/index.m3u8
@@ -108,8 +106,8 @@ CETV4,http://111.20.33.70/PLTV/88888893/224/3221226225/index.m3u8
 CETV3,http://111.20.33.70/PLTV/88888893/224/3221226226/index.m3u8
 CGTN纪录,http://39.135.138.58:18890/PLTV/88888888/224/3221225645/index.m3u8
 
-
 卫视频道,#genre#
+浙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225744/index.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
 浙江卫视,http://js-live-screenshot.gitv.tv/gitv_live/G_ZHEJIANG-MD/G_ZHEJIANG-MD.m3u8
