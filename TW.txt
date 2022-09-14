@@ -171,16 +171,17 @@ DW,P2p://ns2.hellotvvod.com:9906/18868a175de34d8fa525b81e87bdb849
 三立新闻,P2p://ns2.hellotvvod.com:9906/fceb797446e94ac18dd4791a5d12b440
 三立新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
 
-TVBS新闻,P2p://ns2.hellotvvod.com:9906/a46fb523d9c04254953ea68f0223b513
+
 TVBS新闻,http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363605ee081cb965cc0385c3f855a7e3
-TVBS新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
 TVBS新闻,rtmp://59.124.75.150/sat/tv551
 TVBS新闻,rtmp://59.124.75.138:1935/sat/tv551
 TVBS新闻,rtmp://59.124.75.138/sat/tv551
 TVBS新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
+TVBS新闻,P2p://ns2.hellotvvod.com:9906/a46fb523d9c04254953ea68f0223b513
+TVBS新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
 
-TVBS,P2p://ns2.hellotvvod.com:9906/dfa682f7f08c4b388bf5329a6d352e9e
 TVBS,http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=MCDC5358450053584500&ct=19193&tsum=e69eb1ebdae5b69772df214072ef9f19
+TVBS,P2p://ns2.hellotvvod.com:9906/dfa682f7f08c4b388bf5329a6d352e9e
 
 东森财经新闻,P2p://ns2.hellotvvod.com:9906/08140d28f7634f31b26776b01ff2013a
 东森财经新闻,https://git.io/Jgkpc
@@ -193,8 +194,8 @@ TVBS,http://50.7.220.74:8278/tvbs/playlist.m3u8?tid=MCDC5358450053584500&ct=1919
 非凡新闻,P2p://ns2.hellotvvod.com:9906/f673cb32c63148eda241ca48287abc1a
 非凡新闻,http://59.125.101.187:8706/http/192.168.77.24:8081/hls/75/817/ch57.m3u8?
 
-天映經典,http://120.84.96.221:808/hls/85/index.m3u8
 天映經典,http://50.7.220.74:8278/Celestial2/playlist.m3u8?tid=m6ef86c74cc921039065&ct=17916&tsum=d3a0eedfcfc050a71e7c99ea52c0da04
+天映經典,http://120.84.96.221:808/hls/85/index.m3u8
 
 EYE TV旅游,P2p://ns2.hellotvvod.com:9906/892a16579495463e835576d4aba45cab
 EYE TV旅游,mitv://fccs.word-tv.com:9906/62595e910009221e13c385aa08f4d222
@@ -224,6 +225,9 @@ HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?b
 东森洋片,http://113.64.147.7:808/hls/59/index.m3u8
 东森洋片,http://120.84.96.69:808/hls/33/index.m3u8
 
+AXN,http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8852
+AXN,http://78.83.191.18:8000/play/a04d
+AXN,http://asterix-iptv.club:25461/esoarene/Ct225SCUDn/1369
 AXN,http://218.32.47.179:18558/.m3u8
 AXN,P2p://ns2.hellotvvod.com:9906/846585b8fc4e43f1a11294f10a6d6e4e
 AXN,http://218.32.47.179:18558/http/192.168.1.9:8081/hls/71/813/ch43.m3u8
