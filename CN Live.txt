@@ -126,7 +126,7 @@ CGTN纪录,http://39.135.138.58:18890/PLTV/88888888/224/3221225645/index.m3u8
 浙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
 浙江卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225703/index.m3u8
 浙江卫视,http://js-live-screenshot.gitv.tv/gitv_live/G_ZHEJIANG-HD-265-5M/G_ZHEJIANG-HD-265-5M.m3u8
-浙江卫视超清,http://js-live-screenshot.gitv.tv/gitv_live/G_ZHEJIANG-HD-265-8M/G_ZHEJIANG-HD-265-8M.m3u8
+
 浙江卫视高清12M,http://js-live-screenshot.gitv.tv/gitv_live/G_ZHEJIANG-MD/G_ZHEJIANG-MD.m3u8
 
 
@@ -135,7 +135,7 @@ CGTN纪录,http://39.135.138.58:18890/PLTV/88888888/224/3221225645/index.m3u8
 湖南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls
 湖南卫视,http://39.134.65.208/PLTV/88888888/224/3221225506/index.m3u8
 湖南卫视,http://js-live-screenshot.gitv.tv/gitv_live/G_HUNAN-HD-265-5M/G_HUNAN-HD-265-5M.m3u8
-湖南卫视超清,http://js-live-screenshot.gitv.tv/gitv_live/G_HUNAN-HD-265-8M/G_HUNAN-HD-265-8M.m3u8
+
 
 
 东方卫视,https://iplive-try.wasu.tv/11085.m3u8?group=600112&servicetype=0&livemode=1&servicegrade=2&servicesp=dangbei&userid=dangbei_user_c4:e1:a1:c2:0e:91&tvid=03019Q9908AB284C41F8E&stbid=0fdf605ceb89598a4b4f3bbea5a9b315&authNum=1643180792465-2-57698c02a78f5d84ff525a30394f3198 
