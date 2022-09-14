@@ -225,14 +225,13 @@ HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?b
 东森洋片,http://113.64.147.7:808/hls/59/index.m3u8
 东森洋片,http://120.84.96.69:808/hls/33/index.m3u8
 
-AXN,http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/8852
-AXN,http://78.83.191.18:8000/play/a04d
-AXN,http://asterix-iptv.club:25461/esoarene/Ct225SCUDn/1369
+AXN,http://59.125.101.187:8759/http/192.168.77.24:8081/hls/71/813/ch43.m3u8?
 AXN,http://218.32.47.179:18558/.m3u8
 AXN,P2p://ns2.hellotvvod.com:9906/846585b8fc4e43f1a11294f10a6d6e4e
 AXN,http://218.32.47.179:18558/http/192.168.1.9:8081/hls/71/813/ch43.m3u8
 AXN,http://59.125.122.90:18548/http/192.168.1.9:8081/hls/68/810/ch01.m3u8
 AXN,http://61.219.170.95:18548/.m3u8
+
 
 好莱坞电影,P2p://ns2.hellotvvod.com:9906/db5f81637e2a4420a2a59dfc7bacc634
 好莱坞电影,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
