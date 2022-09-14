@@ -225,6 +225,7 @@ HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?b
 东森洋片,http://113.64.147.7:808/hls/59/index.m3u8
 东森洋片,http://120.84.96.69:808/hls/33/index.m3u8
 
+AXN,mitv://ns2.hellotvvod.com:9906/a6930fcb83344e5bbc709dc0d5dd7f4d
 AXN,http://59.125.101.187:8759/http/192.168.77.24:8081/hls/71/813/ch43.m3u8?
 AXN,http://218.32.47.179:18558/.m3u8
 AXN,P2p://ns2.hellotvvod.com:9906/846585b8fc4e43f1a11294f10a6d6e4e
