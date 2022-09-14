@@ -135,10 +135,17 @@ CGTN纪录,http://39.135.138.58:18890/PLTV/88888888/224/3221225645/index.m3u8
 湖南卫视,http://39.134.65.208/PLTV/88888888/224/3221225506/index.m3u8
 湖南卫视,http://js-live-screenshot.gitv.tv/gitv_live/G_HUNAN-HD-265-5M/G_HUNAN-HD-265-5M.m3u8
 
+北京卫视,http://111.20.33.93/TVOD/88888893/224/3221226222/index.m3u8
+北京卫视,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel24/index.m3u8
+北京卫视,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel24/2300.m3u8
+北京卫视,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000272103.m3u8
+
+
 北京卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225673/index.m3u8
 北京卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225674/index.m3u8
 北京卫视,http://140.207.241.3:8080/live/program/live/bjwshd/4000000/mnf.m3u8
 北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8
+
 深圳卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225741/index.m3u8
 深圳卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225700/index.m3u8
 深圳卫视,http://39.134.66.110/PLTV/88888888/224/3221225668/index.m3u8
