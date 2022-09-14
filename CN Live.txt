@@ -1,4 +1,5 @@
 央视频道,#genre#
+CCTV1,https://live.olelive.com:4443/live/CCTV1HD/hls.m3u8
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225918/index.m3u8
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8
 CCTV1,http://111.20.33.70/PLTV/88888893/224/3221226231/index.m3u8
@@ -21,10 +22,12 @@ CCTV4,http://111.20.33.70/PLTV/88888893/224/3221226191/index.m3u8
 CCTV4,http://111.20.33.70/PLTV/88888893/224/3221226223/index.m3u8
 CCTV4,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8
 
+CCTV5,https://live.olelive.com:4443/live/CCTV5HD/hls.m3u8
 CCTV5,http://111.20.33.70/PLTV/88888893/224/3221226395/index.m3u8
 CCTV5,http://111.20.33.70/PLTV/88888893/224/3221226396/index.m3u8
 CCTV5,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8
 
+CCTV5+,https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
 CCTV5+,http://111.20.33.70/PLTV/88888893/224/3221226221/index.m3u8
 CCTV5+,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225649/index.m3u8
 
@@ -72,6 +75,7 @@ CCTV12,http://112.19.214.90:8883/tsfile/live/0012_1.m3u8
 CCTV12,http://60.10.167.88:808/hls/12/index.m3u8
 CCTV12,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225495/index.m3u8?fmt=ts2hls
 
+CCTV13,https://live.olelive.com:4443/live/CCTV13HD/hls.m3u8
 CCTV13,http://111.20.33.70/PLTV/88888893/224/3221226233/index.m3u8
 CCTV13,http://111.59.189.40:8445/tsfile/live/1011_1.m3u8
 CCTV13,http://222.240.82.92:9901/tsfile/live/0013_1.m3u8
