@@ -199,11 +199,12 @@ EYE TV旅游,mitv://ns2.hellotvvod.com:9906/3067daf296104a2099d47f4385d10d49
 卫视电影,P2p://ns2.hellotvvod.com:9906/8d22d953e4184dbfb3753b093f401769
 卫视电影,http://218.32.47.179:18553/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
 
-东森电影,P2p://ns2.hellotvvod.com:9906/134260b0c79e47599e7be383a16273a2
+东森电影,http://120.84.96.53:808/hls/32/index.m3u8
 东森电影,mitv://fccs.word-tv.com:9906/62541ccb0008d232097eddd9e4082c99
+东森电影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?
+东森电影,P2p://ns2.hellotvvod.com:9906/134260b0c79e47599e7be383a16273a2
 东森电影,http://113.64.147.7:808/hls/58/index.m3u8
 东森电影,http://120.84.96.69:808/hls/32/index.m3u8
-东森电影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?
 
 纬来电影,P2p://ns2.hellotvvod.com:9906/666e92af6da048e387f28b8e8a1c41f9
 纬来电影,http://59.125.101.187:8710/http/192.168.77.24:8081/hls/69/811/ch35.m3u8?
@@ -219,6 +220,7 @@ HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?b
 东森洋片,http://113.64.147.7:808/hls/59/index.m3u8
 东森洋片,http://120.84.96.69:808/hls/33/index.m3u8
 
+AXN,http://218.32.47.179:18558/.m3u8
 AXN,P2p://ns2.hellotvvod.com:9906/846585b8fc4e43f1a11294f10a6d6e4e
 AXN,http://218.32.47.179:18558/http/192.168.1.9:8081/hls/71/813/ch43.m3u8
 AXN,http://59.125.122.90:18548/http/192.168.1.9:8081/hls/68/810/ch01.m3u8
@@ -233,21 +235,22 @@ imodeTV,https://juyunlive.juyun.tv/live/24950198.m3u8
 全大,mitv://fccs.word-tv.com:9906/62614c730008668f18c9bd3d40261639
 信大,mitv://fccs.word-tv.com:9906/62614ca00005778f18ca6c44cdea2031
 
-纬来育乐,P2p://ns2.hellotvvod.com:9906/6f4c7d47aa9d457792fb0f51c48fd966
+纬来育樂,http://218.32.47.179:18562/.m3u8
 纬来育乐,rtmp://59.124.75.150/sat/tv701
 纬来育乐,rtmp://59.124.75.138:1935/sat/tv701
 纬来育乐,http://60.251.33.252:18541/.m3u8
 纬来育乐,http://123.51.229.65:18541/.m3u8
 纬来育乐,rtmp://59.124.75.138/sat/tv701
 纬来育乐,http://218.32.47.179:18562/http/192.168.1.9:8081/hls/68/810/ch30.m3u8
+纬来育乐,P2p://ns2.hellotvvod.com:9906/6f4c7d47aa9d457792fb0f51c48fd966
 
-
-纬来体育,P2p://ns2.hellotvvod.com:9906/075079fbad33416e963d959bcf29b28e
-纬来体育,http://218.32.47.179:18563/http/192.168.1.9:8081/hls/67/809/ch28.m3u8
+纬来体育,http://218.32.47.179:18563/.m3u8
 纬来体育,rtmp://59.124.75.138/sat/tv721
 纬来体育,rtmp://59.124.75.150/sat/tv721
 纬来体育,rtmp://59.124.75.138:1935/sat/tv721
 纬来体育,http://60.251.33.252:18509/.m3u8
+纬来体育,P2p://ns2.hellotvvod.com:9906/075079fbad33416e963d959bcf29b28e
+纬来体育,http://218.32.47.179:18563/http/192.168.1.9:8081/hls/67/809/ch28.m3u8
 
 
 新唐人亚太,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
