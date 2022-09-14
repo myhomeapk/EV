@@ -225,6 +225,7 @@ HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?b
 东森洋片,http://113.64.147.7:808/hls/59/index.m3u8
 东森洋片,http://120.84.96.69:808/hls/33/index.m3u8
 
+
 AXN,mitv://ns2.hellotvvod.com:9906/a6930fcb83344e5bbc709dc0d5dd7f4d
 AXN,http://59.125.101.187:8759/http/192.168.77.24:8081/hls/71/813/ch43.m3u8?
 AXN,http://218.32.47.179:18558/.m3u8
@@ -362,6 +363,13 @@ Cbeebies,P2p://ns2.hellotvvod.com:9906/2d2fb160a3de4f05948706b7324e2e3f
 大爱2,P2p://ns2.hellotvvod.com:9906/33799718b3df426d8cc3e363314e708a
 好消息2,P2p://ns2.hellotvvod.com:9906/de0e2f35a9b44d6fa78db27aa9ff29c4
 好消息2,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv17&nid=8
+
+BBC Earth,http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/19910
+BBC Earth,http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73656
+BBC Earth,https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.earth.pl.m3u8
+BBC Earth,https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bbc.earth.rs.m3u8
+BBC Earth,http://mains.services:2086/A.Jones01/1904550/99171
+BBC Earth,http://supersonictv.live:25461/live/vegas2000/vegas2000/86329.m3u8
 BBC Earth,P2p://ns2.hellotvvod.com:9906/102677975c0345de95c79b1af3db7908
 
 中天亞洲,mitv://fccs.word-tv.com:9906/626610e20008d9cf11656e24ac45db0e
