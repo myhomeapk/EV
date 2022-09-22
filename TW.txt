@@ -71,10 +71,13 @@ ANIMAX,https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b500
 原住民电视,P2p://ns1.hellotvvod.com:9906/8c2bbdb7980e41799bb54fde5dda1a52
 原住民电视,P2p://ns2.hellotvvod.com:9906/5c461d90b5364322bb637b1d5a01ae21
 原住民电视,mitv://fccs.word-tv.com:9906/6257e9ca0002ec200e135abbe97ac8ab
-客家电视,P2p://ns2.hellotvvod.com:9906/d3a0c1c54534420b84a11ead76b98643
+
 客家电视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
+客家电视,P2p://ns2.hellotvvod.com:9906/d3a0c1c54534420b84a11ead76b98643
 客家电视,mitv://fccs.word-tv.com:9906/6257e9d70000ce760e138cf889fb92c2
 國家地理國際頻道,mitv://fccs.word-tv.com:9906/62541d810002b7c00981a33911a2eb57
+
+探索频道,P2p://ns1.hellotvvod.com:9906/77d7615bfb1b4387afa4764c9ba1d243
 探索频道,P2p://ns2.hellotvvod.com:9906/887e2d57a7de4d238eac9c0b5cdfddb7
 
 TLC旅游,P2p://ns1.hellotvvod.com:9906/ee18f6daaf8a4ad8a0e6b996d0cd339a
