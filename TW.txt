@@ -164,13 +164,17 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421
 TVBS欢乐,http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C2318787923187879&ct=19193&tsum=394d2b9af3df7846e2cdc60d69dd4219
 TVBS欢乐,mitv://fccs.word-tv.com:9906/62585f330007fbe70fddfe2f12feb8b6
 
+纬来戏剧,P2p://ns1.hellotvvod.com:9906/8981f0b5f0ba4961b045da328dcf1bb3
 纬来戏剧,P2p://ns2.hellotvvod.com:9906/b810e88c6c5645339e5284435cbbf088
 纬来戏剧,mitv://fccs.word-tv.com:9906/62585f76000e7ba90fdf0591eb84257b
 纬来戏剧,http://218.32.47.179:18533/http/192.168.1.9:8081/hls/69/811/ch33.m3u8
+
+Bloomberg,P2p://ns1.hellotvvod.com:9906/551733cee91344138c994f9576ac5022
 Bloomberg,P2p://ns2.hellotvvod.com:9906/7159f32158a948bd88826275eef9314b
 Bloomberg,http://218.32.47.179:8551/http/192.168.1.9:8078/hls/43/80/bloomber.m3u8
 
 DW,P2p://ns2.hellotvvod.com:9906/18868a175de34d8fa525b81e87bdb849
+靖天映画,P2p://ns1.hellotvvod.com:9906/a34a42ed14174770b0c9e38248b74fe7
 靖天映画,P2p://ns2.hellotvvod.com:9906/c7a6d3a11d8b4796af147ff81d17fab7
 
 三立戏剧,P2p://ns2.hellotvvod.com:9906/113d38a80d2249c3b06efcec46281c18
