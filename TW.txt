@@ -132,6 +132,8 @@ MOMO亲子,mitv://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
 
 非凡商业,P2p://ns2.hellotvvod.com:9906/1c03339edfb04248ad2e1643d153e30c
 非凡商业,mitv://fccs.word-tv.com:9906/626911890006d792031b822fdf86a38a
+
+中天综合,P2p://ns1.hellotvvod.com:9906/39507c83c4c848118b2bc5e56b40f91b
 中天综合,P2p://ns2.hellotvvod.com:9906/fe0a54eee624418f8300555899261df5
 中天綜合,http://218.32.47.179:18526/http/192.168.1.9:8081/hls/67/809/ch25.m3u8
 中天綜合,mitv://fccs.word-tv.com:9906/62585815000447950fc2300ce37be3da
