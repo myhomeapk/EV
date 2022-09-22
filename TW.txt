@@ -91,6 +91,7 @@ TLC旅游,mitv://fccs.word-tv.com:9906/62584cd60007230e0f9642af98aa2879
 动物星球,P2p://ns2.hellotvvod.com:9906/178c72a35f3547c3a4171ba78f1c8bf8
 动物星球,mitv://fccs.word-tv.com:9906/62541d9c0009282c09820e57f2a59d11
 动物星球,http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
+ROCK Extreme,P2p://ns1.hellotvvod.com:9906/3c3ed9c2c2034900851d9012a05a1398
 ROCK Extreme,P2p://ns2.hellotvvod.com:9906/712698dff3b449b2bf6c0b357597e61d
 
 CN卡通,P2p://ns1.hellotvvod.com:9906/d5a63b929ab64d5bae625a725ec09a42
