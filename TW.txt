@@ -113,6 +113,7 @@ MOMO亲子,mitv://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
 
 三立台湾,P2p://ns1.hellotvvod.com:9906/eee1ccef6c7640eb8425a79922f01130
 三立台湾,P2p://ns2.hellotvvod.com:9906/8dd16c84358c462fa4ba3f24f29f7b41
+三立台湾,P2p://ns1.hellotvvod.com:9906/13f7086bad674a4d9d91f6b14471b719
 三立台湾,http://218.32.47.179:18521/http/192.168.1.9:8081/hls/65/807/ch20.m3u8
 三立台湾,http://59.125.101.187:8501/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
 三立台湾,http://59.125.101.187:8731/http/192.168.77.24:8081/hls/65/807/ch20.m3u8?
