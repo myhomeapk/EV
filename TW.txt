@@ -395,8 +395,7 @@ CinemaWorld,P2p://ns1.hellotvvod.com:9906/46074777cbb340718ff12c32a0f63a00
 CinemaWorld,P2p://ns2.hellotvvod.com:9906/01a6be572b6f44248f6c83ad24eb33cc
 达文西频道,P2p://ns2.hellotvvod.com:9906/2d612a0555594012873d6d29f437df07
 
-靖天日本台,P2p://ns2.hellotvvod.com:9906/3e48fa8e54bd4b3c89b5499ec86ba0e1
-
+靖天日本台,P2p://ns1.hellotvvod.com:9906/aafd14ca753041a9a1dacd3114a1c3b0
 亚洲旅游,P2p://ns1.hellotvvod.com:9906/71717d13dcc743789fdbef6af23d5dbb
 亚洲旅游,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
 亚洲旅游,http://218.32.47.179:18513/.m3u8
@@ -413,13 +412,13 @@ BBC Lifestyle,P2p://ns2.hellotvvod.com:9906/7dadbc43e0c84d078f6690943fca939f
 
 亚洲美食频道,P2p://ns1.hellotvvod.com:9906/c9930babe39040ab9711dd2be99ff7f2
 亚洲美食频道,P2p://ns2.hellotvvod.com:9906/686ff298f4fe493fb994ff5f1dd28606
-OUTDOOR,P2p://ns2.hellotvvod.com:9906/11070b7b618947e0807eba459065a5bb
+OUTDOOR,P2p://ns1.hellotvvod.com:9906/9a6f44585efe44838ea189e41fb58ef6
 CN 卡通,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=md272f875bb6916787346&ct=17874&tsum=0c38bae20c6db7e76ad1418654c8ccd4
 
-靖天电影台,P2p://ns2.hellotvvod.com:9906/dd15aa7963f7413ba1b62832678d4f6b
+靖天电影台,P2p://ns1.hellotvvod.com:9906/67ebfadc889a4e6d921a3dac4c60a13e
 Cbeebies,P2p://ns1.hellotvvod.com:9906/6e58dc42730f4f9f8636c44bea5fd0ee
 Cbeebies,P2p://ns2.hellotvvod.com:9906/2d2fb160a3de4f05948706b7324e2e3f
-靖天综合台,P2p://ns2.hellotvvod.com:9906/f6265649e7cc4ae08496ee0d0d7aff47
+靖天综合台,P2p://ns1.hellotvvod.com:9906/68c5a9a71ff449b9b67851c8cec9569b
 公视3,P2p://ns2.hellotvvod.com:9906/e341e83fd7a94aa58e554d22b41cb9fb
 国会频道1,mitv://ns2.hellotvvod.com:9906/c8998587a06f4b8682c4751a1dd7e73f
 国会频道2,mitv://ns2.hellotvvod.com:9906/e4ca60a649de42a3a3d104c3be8cfeee
@@ -428,6 +427,7 @@ Cbeebies,P2p://ns2.hellotvvod.com:9906/2d2fb160a3de4f05948706b7324e2e3f
 
 华纳电影,P2p://ns1.hellotvvod.com:9906/4a07915cd04545bc822639cc203446a6
 华纳电影,P2p://ns2.hellotvvod.com:9906/80c190fefe6241f1aace0a7b0a731ff3
+大爱2,P2p://ns1.hellotvvod.com:9906/486faaf41b7e4885a09844539f61d777
 大爱2,P2p://ns2.hellotvvod.com:9906/33799718b3df426d8cc3e363314e708a
 好消息2,P2p://ns2.hellotvvod.com:9906/de0e2f35a9b44d6fa78db27aa9ff29c4
 好消息2,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv17&nid=8
@@ -441,7 +441,7 @@ AXN,P2p://ns1.hellotvvod.com:9906/3d43beba53b54131ad10b2f8a02d3f47
 AXN,mitv://ns2.hellotvvod.com:9906/a6930fcb83344e5bbc709dc0d5dd7f4d
 
 
-爱尔达体育1,rtmp://59.124.75.138/sat/md051
+
 爱尔达体育1,P2p://ns1.hellotvvod.com:9906/9962b1efe1c74e71abeabdd5e6fdbb94
 爱尔达体育1,P2p://ns1.hellotvvod.com:9906/cbc86e6c986a4b4194c2514f9b5a8aeb
 爱尔达体育1,P2p://ns2.hellotvvod.com:9906/69ed397ecfcb451eb9863d0d6db9ff9f
@@ -483,7 +483,7 @@ AXN,mitv://ns2.hellotvvod.com:9906/a6930fcb83344e5bbc709dc0d5dd7f4d
 台视财经,P2p://ns2.hellotvvod.com:9906/6e809a59861d4a648adbe1161aa09320
 尼克儿童频道,P2p://ns2.hellotvvod.com:9906/690725fb0e6b4e90a48552833334072c
 
-ELEVEN体育二,mitv://ns2.hellotvvod.com:9906/fb1fa05398b54c2f84b13edd044d412e
+ELEVEN体育二,P2p://ns1.hellotvvod.com:9906/9adaaf14e25e44f0b35741e3df606f24
 亚洲美食频道,P2p://ns2.hellotvvod.com:9906/686ff298f4fe493fb994ff5f1dd28606
 TVBS精采,P2p://ns2.hellotvvod.com:9906/4cd00f68055f471b860a0edc3d3a8390
 TVBS精采,mitv://fccs.word-tv.com:9906/6259b507000647d0151541dfdfa4429f
@@ -520,16 +520,16 @@ TVN,P2p://ns2.hellotvvod.com:9906/7c5f4e08f3e343f2ba0997d251c18f30
 國家地理FHD,http://218.32.47.179:18509/http/192.168.1.9:8081/hls/61/803/ch01.m3u8
 DMAX探索動力,mitv://fccs.word-tv.com:9906/6258ec18000964b412045d13a4eb316e
 博斯高球,P2p://ns2.hellotvvod.com:9906/5e3b0d88a87c4c94bf68600579bb1cd7
-博斯高球二台,P2p://ns2.hellotvvod.com:9906/b0de75dbd96b4ad0b7cbd2667fd9e1b7
-博斯网球,P2p://ns2.hellotvvod.com:9906/78668530367e4149bc4c5d7698fade2a
+博斯高球二台,P2p://ns1.hellotvvod.com:9906/4f305af816b24109ba5a0d86bf3e712f
+博斯网球,P2p://ns1.hellotvvod.com:9906/722a5b86aa9d4b1cbc6e349bf38f952d
 博斯网球,rtmp://59.124.75.138/sat/md051
 博斯网球,mitv://ns2.hellotvvod.com:9906/ba186c408fa5474eb0aad54aebac23cd
-博斯魅力,P2p://ns2.hellotvvod.com:9906/ff4b056721b54a8785577eda31fcbb4b
+博斯魅力,P2p://ns1.hellotvvod.com:9906/5c0000c6ebd44d5cb5cc1346f7a4ea58
 博斯魅力,rtmp://59.124.75.138/sat/md051
 博斯魅力,mitv://ns2.hellotvvod.com:9906/e213cdd17773437a89a68f35b1d8c148
-博斯无限,P2p://ns2.hellotvvod.com:9906/63a4f6b20a99421eac4ae67489c169b3
-博斯无限二,P2p://ns2.hellotvvod.com:9906/ed0b79681eec449194e53757c39300e1
-博斯运动,P2p://ns2.hellotvvod.com:9906/ee130ba577b7455586651e52aa7e4568
+博斯无限,P2p://ns1.hellotvvod.com:9906/0a729f4ebe304ac5880bcdc3fd735409
+博斯无限二,P2p://ns1.hellotvvod.com:9906/5a71c4b7a7e44a77a60173a2159d9e86
+博斯运动,P2p://ns1.hellotvvod.com:9906/a9a6b20dc3304856a69219e12c07e74a
 東風衛視,mitv://fccs.word-tv.com:9906/6258585d0007329c0fc34a0b3c4be606
 
 中天娛樂,mitv://fccs.word-tv.com:9906/62585ecd000adfc10fdc707c21a26424
