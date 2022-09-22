@@ -37,7 +37,6 @@ CNN,P2p://ns2.hellotvvod.com:9906/fc613681ff784ae59a30ba7c9ed3efb0
 大爱,http://50.7.220.74:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
 大爱,http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
 
-
 中视,rtmp://59.124.75.150/sat/tv091
 中视,rtmp://59.124.75.138:1935/sat/tv091
 中视,rtmp://59.124.75.138/sat/tv091
@@ -66,6 +65,8 @@ ANIMAX,P2p://ns1.hellotvvod.com:9906/be96110bfb61424089f4799d0fd88e86
 ANIMAX,mitv://ns2.hellotvvod.com:9906/7fea5926cf4049e1b84a73834d0e88e0
 ANIMAX,https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
 金光木偶戏,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
+
+原住民电视,P2p://ns1.hellotvvod.com:9906/8c2bbdb7980e41799bb54fde5dda1a52
 原住民电视,P2p://ns2.hellotvvod.com:9906/5c461d90b5364322bb637b1d5a01ae21
 原住民电视,mitv://fccs.word-tv.com:9906/6257e9ca0002ec200e135abbe97ac8ab
 客家电视,P2p://ns2.hellotvvod.com:9906/d3a0c1c54534420b84a11ead76b98643
