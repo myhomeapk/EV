@@ -264,8 +264,9 @@ EYE TV旅游,mitv://ns2.hellotvvod.com:9906/3067daf296104a2099d47f4385d10d49
 龙祥电影,P2p://ns1.hellotvvod.com:9906/85ea4346fcd441d99a3f06bbe0491f62
 龙祥电影,P2p://ns2.hellotvvod.com:9906/31e1369076a547a18020ea74cb9d6423
 
-HBO,P2p://ns1.hellotvvod.com:9906/2e5d348bf59c45c3b285d5f6af7a6b41
+
 HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
+HBO,P2p://ns1.hellotvvod.com:9906/2e5d348bf59c45c3b285d5f6af7a6b41
 HBO,P2p://ns2.hellotvvod.com:9906/807504211493478280d6865f83552e64
 HBO,mitv://fccs.word-tv.com:9906/6268100d000c1b5d19322ef22ed23efc
 
@@ -336,12 +337,12 @@ FOX,P2p://ns1.hellotvvod.com:9906/6f5553f842d04b68954b8026f8b13854
 FOX,P2p://ns2.hellotvvod.com:9906/7f349a12f16d4296944370bf4bd9b2f0
 KBS World,P2p://ns2.hellotvvod.com:9906/0db8739a75634c4e826143e7bb9b7a7d
 KBS World,mitv://ns2.hellotvvod.com:9906/2e826e680aac405ea82972fc78773778
-AMC最爱电影,P2p://ns2.hellotvvod.com:9906/3a81ac3bdfab4342b58d9ecfbb69ac21
-八大娱乐,P2p://ns2.hellotvvod.com:9906/cadf611647f94a6595305baa947f6264
+AMC最爱电影,P2p://ns1.hellotvvod.com:9906/e09586d5be6844b1844aad833297dd40
+八大娱乐,P2p://ns1.hellotvvod.com:9906/ebc41118c53845e8a2dae499581582d6
 
-MTV_Live,mitv://fccs.word-tv.com:9906/6258e40a000dc72411e4e7829de2c8b5
+MTV_Live,P2p://ns1.hellotvvod.com:9906/79e9d8fcc029433eb88c76ec79ea6b79
 MTV_Live,P2p://ns2.hellotvvod.com:9906/cdb5d79fed82406fae476fa897f94a8c
-MTV_Live,P2p://ns2.hellotvvod.com:9906/b5ed8ba44332423684b029138c744636
+MTV_Live,P2p://ns1.hellotvvod.com:9906/4a0e496288184ca49d069f89a67e9826
 三立財經,mitv://fccs.word-tv.com:9906/62614b9c0008ec3518c675877b79b6ea
 
 龙华戏剧,P2p://ns2.hellotvvod.com:9906/e2cbbafba9994def88a7a79f8639e07f
@@ -392,7 +393,7 @@ Thrill,mitv://ns2.hellotvvod.com:9906/93d85cb13ede4f24ab3a4c4269557cde
 Star Movies,P2p://ns1.hellotvvod.com:9906/193db37396de436fac5c57fcb5314978
 Star Movies,P2p://ns2.hellotvvod.com:9906/bb688b3cf95143d180e412e7c3f466a7
 CinemaWorld,P2p://ns1.hellotvvod.com:9906/46074777cbb340718ff12c32a0f63a00
-CinemaWorld,P2p://ns2.hellotvvod.com:9906/01a6be572b6f44248f6c83ad24eb33cc
+
 达文西频道,P2p://ns2.hellotvvod.com:9906/2d612a0555594012873d6d29f437df07
 
 靖天日本台,P2p://ns1.hellotvvod.com:9906/aafd14ca753041a9a1dacd3114a1c3b0
@@ -420,8 +421,8 @@ Cbeebies,P2p://ns1.hellotvvod.com:9906/6e58dc42730f4f9f8636c44bea5fd0ee
 Cbeebies,P2p://ns2.hellotvvod.com:9906/2d2fb160a3de4f05948706b7324e2e3f
 靖天综合台,P2p://ns1.hellotvvod.com:9906/68c5a9a71ff449b9b67851c8cec9569b
 公视3,P2p://ns2.hellotvvod.com:9906/e341e83fd7a94aa58e554d22b41cb9fb
-国会频道1,mitv://ns2.hellotvvod.com:9906/c8998587a06f4b8682c4751a1dd7e73f
-国会频道2,mitv://ns2.hellotvvod.com:9906/e4ca60a649de42a3a3d104c3be8cfeee
+国会频道1,P2p://ns1.hellotvvod.com:9906/8c00b3f2bbe9406ea0f85a4698998b54
+国会频道2,P2p://ns1.hellotvvod.com:9906/86ceec2d17384b5bbe76398630ebda70
 美亚电影,P2p://ns1.hellotvvod.com:9906/5bcc6ad3465c48d2b9ca0fee348095fc
 美亚电影,P2p://ns2.hellotvvod.com:9906/769f9d046e694b69897fe122f840ccc2
 
@@ -481,7 +482,7 @@ AXN,mitv://ns2.hellotvvod.com:9906/a6930fcb83344e5bbc709dc0d5dd7f4d
 中视新闻,http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
 靖天卡通,P2p://ns2.hellotvvod.com:9906/a48e3d5ec84f409a8f59da6932118f2a
 台视财经,P2p://ns2.hellotvvod.com:9906/6e809a59861d4a648adbe1161aa09320
-尼克儿童频道,P2p://ns2.hellotvvod.com:9906/690725fb0e6b4e90a48552833334072c
+尼克儿童频道,P2p://ns1.hellotvvod.com:9906/e1e9179db15f4e3fadab1522ef1d379e
 
 ELEVEN体育二,P2p://ns1.hellotvvod.com:9906/9adaaf14e25e44f0b35741e3df606f24
 亚洲美食频道,P2p://ns2.hellotvvod.com:9906/686ff298f4fe493fb994ff5f1dd28606
@@ -502,10 +503,10 @@ HISTORY,P2p://ns2.hellotvvod.com:9906/909c658bec464260ac57be2614791d6e
 罪案侦缉,P2p://ns1.hellotvvod.com:9906/16f9d5b08cb64cdc9afd6da5848f3269
 罪案侦缉,P2p://ns2.hellotvvod.com:9906/271753ebc1704bf992d5cc18e41c77bc
 罪案侦缉,http://50.7.220.74:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
-HBO原创,mitv://fccs.word-tv.com:9906/6259b8f1000b9a0015248d4cabbe753c
-HBO HITS,mitv://fccs.word-tv.com:9906/6258e224000020c111dd7994321ef7ec
+HBO原创,P2p://ns1.hellotvvod.com:9906/97d7a522b3b045d0adcf2a717a6f0ff4
+HBO HITS,P2p://ns1.hellotvvod.com:9906/7d3ea99ee7d848d596a3ea052a566cd0
 
-HBO Family,P2p://ns2.hellotvvod.com:9906/75f0e9bffa9a40d088e8a1894b3ae616
+HBO Family,P2p://ns1.hellotvvod.com:9906/8710b68f6694412c96d1c4f459ebf48a
 HBO Family,mitv://fccs.word-tv.com:9906/6258e2990005537411df43f0702258cf
 TVN,P2p://ns1.hellotvvod.com:9906/9e80ca9b9e0d4661bca9520c394a2802
 TVN,mitv://fccs.word-tv.com:9906/6260e5b8000664c11738724174984fec
@@ -599,7 +600,7 @@ KLT-靖天国际台,P2p://ns1.hellotvvod.com:9906/926da0c0eca94439af50e1c9d7252b
 KLT-靖天国际台,P2p://ns2.hellotvvod.com:9906/6dc496054577491f8abbfef561587ea5
 Love Nature,P2p://ns2.hellotvvod.com:9906/47d058f989264180ad813000e6191966
 CatchPlay电影台,P2p://ns2.hellotvvod.com:9906/14458e1447fe4cba8caf28d8cbb2a93e
-CinemaWorld,P2p://ns2.hellotvvod.com:9906/01a6be572b6f44248f6c83ad24eb33cc
+
 
 
 GOODTV好医生HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch9-2.m3u8
