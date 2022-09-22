@@ -419,10 +419,19 @@ Discovery科学,P2p://ns2.hellotvvod.com:9906/a4a9e9e04eda47a987b823bdafd59741
 AXN,P2p://ns1.hellotvvod.com:9906/3d43beba53b54131ad10b2f8a02d3f47
 AXN,mitv://ns2.hellotvvod.com:9906/a6930fcb83344e5bbc709dc0d5dd7f4d
 
-爱尔达体育1,P2p://ns2.hellotvvod.com:9906/69ed397ecfcb451eb9863d0d6db9ff9f
+
 爱尔达体育1,rtmp://59.124.75.138/sat/md051
-爱尔达体育2,P2p://ns2.hellotvvod.com:9906/7ca7e29a2cf9416dab836618c65c0634
+爱尔达体育1,P2p://ns1.hellotvvod.com:9906/9962b1efe1c74e71abeabdd5e6fdbb94
+爱尔达体育1P2p://ns1.hellotvvod.com:9906/cbc86e6c986a4b4194c2514f9b5a8aeb
+爱尔达体育1,P2p://ns2.hellotvvod.com:9906/69ed397ecfcb451eb9863d0d6db9ff9f
+
+爱尔达体育2,P2p://ns1.hellotvvod.com:9906/00460e84f5ab4b8cbd639b859074cad6
+爱尔达体育2,P2p://ns1.hellotvvod.com:9906/8066b1254d6f4ad697f4cb6e770ae917
 爱尔达体育2,mitv://fccs.word-tv.com:9906/62596cee000e512213fba2460c39ef10
+爱尔达体育2,P2p://ns2.hellotvvod.com:9906/7ca7e29a2cf9416dab836618c65c0634
+
+爱尔达体育3,P2p://ns1.hellotvvod.com:9906/a850bfae95b24189b2df54fff49594a3
+爱尔达体育3,P2p://ns1.hellotvvod.com:9906/2ee5f37c2ade47c793e3ad06f5b2ada3
 爱尔达体育3,P2p://ns2.hellotvvod.com:9906/89efb8b1822d4708b6c1d1e8f5b9e1a3
 
 
