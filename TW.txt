@@ -137,8 +137,8 @@ MOMO亲子,mitv://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
 中天综合,http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?
 中天综合,P2p://ns1.hellotvvod.com:9906/39507c83c4c848118b2bc5e56b40f91b
 中天综合,P2p://ns2.hellotvvod.com:9906/fe0a54eee624418f8300555899261df5
-中天綜合,http://218.32.47.179:18526/http/192.168.1.9:8081/hls/67/809/ch25.m3u8
-中天綜合,mitv://fccs.word-tv.com:9906/62585815000447950fc2300ce37be3da
+中天综合,http://218.32.47.179:18526/http/192.168.1.9:8081/hls/67/809/ch25.m3u8
+中天综合,mitv://fccs.word-tv.com:9906/62585815000447950fc2300ce37be3da
 
 三立inews新聞,https://git.io/Jgkxj
 三立inews新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews
@@ -151,7 +151,11 @@ HGTV居家乐活频道,P2p://ns2.hellotvvod.com:9906/97998ba196964eab9686d9d5b82
 中天娱乐,http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
 东森戏剧,P2p://ns2.hellotvvod.com:9906/b9b2a3108cd748a48c69fde74cdac00e
 东森戏剧,mitv://fccs.word-tv.com:9906/625420c30002ef15098e5d177b7f38b1
-八大戏剧台,P2p://ns2.hellotvvod.com:9906/ee1c766f5309492382044f658b576899
+
+八大戏剧,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=ME3E7432781774327817&ct=19193&tsum=504532547ffc646858157dd724bca18d
+八大戏剧,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
+八大戏剧,http://50.7.220.74:8278/badadrama/playlist.m3u8?
+八大戏剧,P2p://ns2.hellotvvod.com:9906/ee1c766f5309492382044f658b576899
 TVBS欢乐,P2p://ns2.hellotvvod.com:9906/e0e8c82a679c49c3a124f3a73b2965ab
 TVBS欢乐,rtmp://59.124.75.150/sat/tv421
 TVBS欢乐,rtmp://59.124.75.138:1935/sat/tv421
