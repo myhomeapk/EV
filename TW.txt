@@ -488,14 +488,18 @@ ELEVEN体育二,mitv://ns2.hellotvvod.com:9906/fb1fa05398b54c2f84b13edd044d412e
 TVBS精采,P2p://ns2.hellotvvod.com:9906/4cd00f68055f471b860a0edc3d3a8390
 TVBS精采,mitv://fccs.word-tv.com:9906/6259b507000647d0151541dfdfa4429f
 博斯运动一台,mitv://ns2.hellotvvod.com:9906/47c9e046ce954e389b4e9c302072111c
+
+Discovery Asia,P2p://ns1.hellotvvod.com:9906/0db3e039c95a4b20ab854ad011158202
 Discovery Asia,P2p://ns2.hellotvvod.com:9906/868e99e9de3649dfa17544c9fc37eb31
 Discovery Asia,mitv://fccs.word-tv.com:9906/6258ebd80002c54f12036161f9ac3eb0
 DMAX,P2p://ns1.hellotvvod.com:9906/f83cd21b6aa24f03be5364d3fe94082f
 DMAX,P2p://ns2.hellotvvod.com:9906/9b2c80d3632b4c4cb6b56e88376a83b2
 博斯运动,P2p://ns2.hellotvvod.com:9906/ee130ba577b7455586651e52aa7e4568
 
+HISTORY 2,P2p://ns1.hellotvvod.com:9906/04b361440a4344648869f3613e2b1ba6
 HISTORY 2,P2p://ns2.hellotvvod.com:9906/5300fbcc0f0e4e67ab3f4b0318c0baae
 HISTORY,P2p://ns2.hellotvvod.com:9906/909c658bec464260ac57be2614791d6e
+罪案侦缉,P2p://ns1.hellotvvod.com:9906/16f9d5b08cb64cdc9afd6da5848f3269
 罪案侦缉,P2p://ns2.hellotvvod.com:9906/271753ebc1704bf992d5cc18e41c77bc
 罪案侦缉,http://50.7.220.74:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
 HBO原创,mitv://fccs.word-tv.com:9906/6259b8f1000b9a0015248d4cabbe753c
@@ -566,6 +570,7 @@ CINEMAX,http://218.32.47.179:18559/.m3u8
 CINEMAX,http://218.32.47.179:18559/http/192.168.1.9:8081/hls/71/813/ch42.m3u8
 Baby TV,http://218.32.47.179:18514/.m3u8
 Baby TV,http://218.32.47.179:18514/http/192.168.1.9:8078/hls/35/80/babytv.m3u8
+美食星球,P2p://ns1.hellotvvod.com:9906/75e815a38180467ba76b1555f0da72c4
 美食星球,https://ytb.52sf.ga/jmsytb.m3u8?c=38
 八大综合,http://218.32.47.179:18520/.m3u8
 
@@ -585,8 +590,11 @@ LiveABC互动英语,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gt
 滚动力,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live012&nid=249
 
 中天美食旅游,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
+LUXE TV,P2p://ns1.hellotvvod.com:9906/a2e0e3369be141cbb4a8aa47d5557535
 LUXE TV,P2p://ns2.hellotvvod.com:9906/130d41788bfc4f78b6444675f4b6c541
+Lifetime,P2p://ns1.hellotvvod.com:9906/667e0e802f1f4924ba0e25742ad5d1bc
 Lifetime,P2p://ns2.hellotvvod.com:9906/7b24dc597c3c40c3b59f253826a083c5
+KLT-靖天国际台,P2p://ns1.hellotvvod.com:9906/926da0c0eca94439af50e1c9d7252b91
 KLT-靖天国际台,P2p://ns2.hellotvvod.com:9906/6dc496054577491f8abbfef561587ea5
 Love Nature,P2p://ns2.hellotvvod.com:9906/47d058f989264180ad813000e6191966
 CatchPlay电影台,P2p://ns2.hellotvvod.com:9906/14458e1447fe4cba8caf28d8cbb2a93e
