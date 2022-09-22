@@ -16,6 +16,7 @@
 中视菁采,P2p://ns2.hellotvvod.com:9906/d6752e25d9f44020a971d0645942fb21
 
 CNN,http://78.83.191.18:8000/play/a07c
+CNN,P2p://ns1.hellotvvod.com:9906/a7171d39ac4f440b9dfb0168f32fd955
 CNN,http://red.ipfox.org:8080/osama2022/osama2023/48790
 CNN,http://red.ipfox.org:8080/osama2022/osama2023/49062
 CNN,P2p://ns2.hellotvvod.com:9906/fc613681ff784ae59a30ba7c9ed3efb0
@@ -89,19 +90,27 @@ ROCK Extreme,P2p://ns2.hellotvvod.com:9906/712698dff3b449b2bf6c0b357597e61d
 CN卡通,P2p://ns1.hellotvvod.com:9906/d5a63b929ab64d5bae625a725ec09a42
 CN卡通,P2p://ns2.hellotvvod.com:9906/53b1291e95a74375a095acd16f4abdac
 CN卡通,mitv://fccs.word-tv.com:9906/62584e2d00015cde0f9b7d0de69c85e4
+MOMO亲子,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
+MOMO亲子,P2p://ns1.hellotvvod.com:9906/f99539ee05024a3cb1e0531484d81e7e
 MOMO亲子,P2p://ns2.hellotvvod.com:9906/47857819b1ca4487b782925e9b241826
 MOMO亲子,mitv://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
-MOMO亲子,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
+
+东森幼幼,P2p://ns1.hellotvvod.com:9906/9839fadf1b99440eb80684c212a4fce4
 东森幼幼,P2p://ns2.hellotvvod.com:9906/c2b6515c32914110bfe2a9ac962855ff
 东森幼幼,mitv://fccs.word-tv.com:9906/62584f92000033490fa0ef49c819efa3
 东森幼幼,http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
-
+纬来综合,P2p://ns1.hellotvvod.com:9906/f77305fbbfbb497794f380b50501134b
 纬来综合,P2p://ns2.hellotvvod.com:9906/ed6e65e04b874768aa4b0325efc2e7fc
+
+八大第一,P2p://ns1.hellotvvod.com:9906/062cfd1d662c4c568ac777badc14c9b3
 八大第一,P2p://ns2.hellotvvod.com:9906/6fb3644604d143beae1fa530791d5d87
 八大第一,mitv://fccs.word-tv.com:9906/6258517d000953940fa86f978caa56ae
-八大综合,P2p://ns2.hellotvvod.com:9906/1a4ba7fe00e447aa807a4af55bf360b7
-八大综合,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
 
+八大综合,P2p://ns1.hellotvvod.com:9906/0a94d77edc744413945ee76857f4f5c5
+八大综合,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
+八大综合,P2p://ns2.hellotvvod.com:9906/1a4ba7fe00e447aa807a4af55bf360b7
+
+三立台湾,P2p://ns1.hellotvvod.com:9906/eee1ccef6c7640eb8425a79922f01130
 三立台湾,P2p://ns2.hellotvvod.com:9906/8dd16c84358c462fa4ba3f24f29f7b41
 三立台湾,http://218.32.47.179:18521/http/192.168.1.9:8081/hls/65/807/ch20.m3u8
 三立台湾,http://59.125.101.187:8501/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
