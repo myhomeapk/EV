@@ -33,9 +33,10 @@ CNN,P2p://ns2.hellotvvod.com:9906/fc613681ff784ae59a30ba7c9ed3efb0
 台视,http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
 台视,http://123.51.229.65:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
 
+大爱,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
 大爱,http://50.7.220.74:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
 大爱,http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
-大爱,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
+
 
 中视,rtmp://59.124.75.150/sat/tv091
 中视,rtmp://59.124.75.138:1935/sat/tv091
@@ -43,6 +44,7 @@ CNN,P2p://ns2.hellotvvod.com:9906/fc613681ff784ae59a30ba7c9ed3efb0
 中视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
 中视,http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
 
+霹雳台湾,P2p://ns1.hellotvvod.com:9906/ee07d44e6cdb4eb092248431e5582968
 霹雳台湾,P2p://ns2.hellotvvod.com:9906/aeb2463b30e1424ebbe6dc3a74d85e01
 霹雳台湾,mitv://fccs.word-tv.com:9906/625835a900047b550f3bba39e271ea6f
 霹雳台湾,mitv://ns2.hellotvvod.com:9906/12afaa86712949ea8ae055494dcf65fd
