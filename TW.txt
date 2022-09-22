@@ -238,6 +238,7 @@ TVBS,P2p://ns2.hellotvvod.com:9906/dfa682f7f08c4b388bf5329a6d352e9e
 非凡新闻,P2p://ns2.hellotvvod.com:9906/f673cb32c63148eda241ca48287abc1a
 非凡新闻,http://59.125.101.187:8706/http/192.168.77.24:8081/hls/75/817/ch57.m3u8?
 
+天映經典,P2p://ns1.hellotvvod.com:9906/470cd03d80584abaa000dc201604ca27
 天映經典,http://50.7.220.74:8278/Celestial2/playlist.m3u8?tid=m6ef86c74cc921039065&ct=17916&tsum=d3a0eedfcfc050a71e7c99ea52c0da04
 天映經典,http://120.84.96.221:808/hls/85/index.m3u8
 
@@ -430,8 +431,8 @@ AXN,mitv://ns2.hellotvvod.com:9906/a6930fcb83344e5bbc709dc0d5dd7f4d
 爱尔达体育2,mitv://fccs.word-tv.com:9906/62596cee000e512213fba2460c39ef10
 爱尔达体育2,P2p://ns2.hellotvvod.com:9906/7ca7e29a2cf9416dab836618c65c0634
 
-爱尔达体育3,P2p://ns1.hellotvvod.com:9906/a850bfae95b24189b2df54fff49594a3
 爱尔达体育3,P2p://ns1.hellotvvod.com:9906/2ee5f37c2ade47c793e3ad06f5b2ada3
+爱尔达体育3,P2p://ns1.hellotvvod.com:9906/a850bfae95b24189b2df54fff49594a3
 爱尔达体育3,P2p://ns2.hellotvvod.com:9906/89efb8b1822d4708b6c1d1e8f5b9e1a3
 
 
