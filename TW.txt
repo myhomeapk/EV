@@ -422,7 +422,7 @@ AXN,mitv://ns2.hellotvvod.com:9906/a6930fcb83344e5bbc709dc0d5dd7f4d
 
 爱尔达体育1,rtmp://59.124.75.138/sat/md051
 爱尔达体育1,P2p://ns1.hellotvvod.com:9906/9962b1efe1c74e71abeabdd5e6fdbb94
-爱尔达体育1P2p://ns1.hellotvvod.com:9906/cbc86e6c986a4b4194c2514f9b5a8aeb
+爱尔达体育1,P2p://ns1.hellotvvod.com:9906/cbc86e6c986a4b4194c2514f9b5a8aeb
 爱尔达体育1,P2p://ns2.hellotvvod.com:9906/69ed397ecfcb451eb9863d0d6db9ff9f
 
 爱尔达体育2,P2p://ns1.hellotvvod.com:9906/00460e84f5ab4b8cbd639b859074cad6
