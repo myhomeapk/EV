@@ -97,7 +97,7 @@ MOMO亲子,http://210.201.54.102/live2/tcch04/playlist.m3u8
 MOMO亲子,P2p://ns2.hellotvvod.com:9906/47857819b1ca4487b782925e9b241826
 MOMO亲子,mitv://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
 
-东森幼幼,P2p://ns1.hellotvvod.com:9906/9839fadf1b99440eb80684c212a4fce4
+东森幼幼,http://210.201.54.102/live2/ettv_yoyo.sdp/playlist.m3u8
 东森幼幼,P2p://ns2.hellotvvod.com:9906/c2b6515c32914110bfe2a9ac962855ff
 东森幼幼,mitv://fccs.word-tv.com:9906/62584f92000033490fa0ef49c819efa3
 东森幼幼,http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
@@ -229,7 +229,7 @@ TVBS,P2p://ns2.hellotvvod.com:9906/dfa682f7f08c4b388bf5329a6d352e9e
 东森财经新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
 东森财经新闻,mitv://fccs.word-tv.com:9906/6254128d000e830c0956dd1ea31d7f59
 
-非凡新闻,P2p://ns2.hellotvvod.com:9906/f673cb32c63148eda241ca48287abc1a
+非凡新闻,http://210.201.54.102/live2/ustvn_sp.sdp/playlist.m3u8
 非凡新闻,http://59.125.101.187:8706/http/192.168.77.24:8081/hls/75/817/ch57.m3u8?
 
 天映經典,P2p://ns1.hellotvvod.com:9906/470cd03d80584abaa000dc201604ca27
