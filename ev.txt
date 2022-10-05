@@ -10,14 +10,16 @@
 中视经典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
 中视经典,P2p://ns2.hellotvvod.com:9906/6424cd1787da4af09add30805b7b4c9c
 中视菁采,P2p://ns2.hellotvvod.com:9906/d6752e25d9f44020a971d0645942fb21
-
+CNN,http://210.201.54.102/live2/cnnnews_sp.sdp/playlist.m3u8
 CNN,P2p://ns2.hellotvvod.com:9906/fc613681ff784ae59a30ba7c9ed3efb0
-民视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
+
+民视,http://210.201.54.102/live2/ftvw_sp.sdp/playlist.m3u8
 民视,rtmp://59.124.75.150/sat/tv051
 民视,P2p://ns2.hellotvvod.com:9906/5121c7a5b7844be693683f5210c45cf4
 民视,http://220.134.196.147:9504/hls/73/815/ch49.m3u8
 民视,http://59.125.101.187:8714/http/192.168.77.24:8081/hls/73/815/ch49.m3u8?
 
+猪哥亮歌厅秀,http://210.201.54.102/live2/pig_sp.sdp/playlist.m3u8
 猪哥亮歌厅秀,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
 
 台视,rtmp://59.124.75.150/sat/tv071
