@@ -343,8 +343,8 @@ MTV_Live,P2p://ns1.hellotvvod.com:9906/4a0e496288184ca49d069f89a67e9826
 龙华戏剧,http://60.251.33.252:18513/.m3u8
 龙华戏剧,http://59.125.122.90:18507/http/192.168.1.9:8081/hls/76/818/ch08.m3u8
 龙华戏剧,http://59.125.122.90:18507/.m3u8
-i-Fun动漫台,P2p://ns1.hellotvvod.com:9906/47962ba885fb4dde8358cda87716a1f7
-i-Fun动漫台,P2p://ns2.hellotvvod.com:9906/12430e05b0e240b69fb1c35f795b64fb
+i-Fun动漫台,http://210.201.54.102/live2/ifunhd/playlist.m3u8
+i-Fun动漫台,http://210.201.54.102/live2/tcch03/playlist.m3u8
 龙华偶像剧,http://59.125.122.90:18573/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8
 龙华偶像剧,http://218.32.47.179:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
 龙华偶像剧,http://59.125.122.90:18573/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
@@ -475,7 +475,7 @@ AXN,mitv://ns2.hellotvvod.com:9906/a6930fcb83344e5bbc709dc0d5dd7f4d
 中视新闻,http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
 靖天卡通,P2p://ns2.hellotvvod.com:9906/a48e3d5ec84f409a8f59da6932118f2a
 台视财经,P2p://ns2.hellotvvod.com:9906/6e809a59861d4a648adbe1161aa09320
-尼克儿童频道,P2p://ns1.hellotvvod.com:9906/e1e9179db15f4e3fadab1522ef1d379e
+尼克儿童频道,http://210.201.54.102/live2/nick.sdp/playlist.m3u8
 
 ELEVEN体育二,P2p://ns1.hellotvvod.com:9906/9adaaf14e25e44f0b35741e3df606f24
 亚洲美食频道,P2p://ns2.hellotvvod.com:9906/686ff298f4fe493fb994ff5f1dd28606
@@ -536,14 +536,14 @@ JET綜合,http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct
 MOMO綜合台,mitv://fccs.word-tv.com:9906/62580818000c773d0e89bddcd1b0c221
 STAR Word,mitv://fccs.word-tv.com:9906/6258dcea0002765e11c90f9d2d7fac5d
 Star Movies,P2p://ns1.hellotvvod.com:9906/193db37396de436fac5c57fcb5314978
-Mezzo Live,P2p://ns2.hellotvvod.com:9906/5e7a1ec593824974804d18c536c7026a
+Mezzo Live,http://210.201.54.102/live2/mezzo.sdp/playlist.m3u8
 CLASSICA 古典乐,P2p://ns2.hellotvvod.com:9906/aeac7c084671404dbc6e043a0381f93a
 CMusic,P2p://ns2.hellotvvod.com:9906/c0715384eae843d18b73076f320bcb51
 
 時尚頻道,http://50.7.220.74:8278/fashiontv_twn/playlist.m3u8?tid=ma97f669e7343&ct=18335&tsum=732ba26aa334bf6c1fad8812deda83d1
 時尚瘋高清頻道,mitv://fccs.word-tv.com:9906/6258e626000f104a11ed2537d42ef8a8
 信吉,mitv://fccs.word-tv.com:9906/6258e362000ea49c11e2577b5ee3ce53
-好消息頻道,http://218.32.47.179:8508/http/192.168.1.9:8081/hls/74/816/ch53.m3u8
+好消息頻道,http://210.201.54.102/live2/goodtv-1.sdp/playlist.m3u8
 
 JET综合,http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec
 三立戏剧,http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
