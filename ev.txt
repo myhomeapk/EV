@@ -168,8 +168,9 @@ DW,P2p://ns2.hellotvvod.com:9906/18868a175de34d8fa525b81e87bdb849
 三立新闻,P2p://ns2.hellotvvod.com:9906/fceb797446e94ac18dd4791a5d12b440
 三立新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
 
-TVBS新闻,P2p://ns2.hellotvvod.com:9906/a46fb523d9c04254953ea68f0223b513
+
 TVBS新闻,http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363605ee081cb965cc0385c3f855a7e3
+TVBS新闻,http://210.201.54.102/live2/tvbsnhd/playlist.m3u8
 TVBS新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
 TVBS新闻,rtmp://59.124.75.150/sat/tv551
 TVBS新闻,rtmp://59.124.75.138:1935/sat/tv551
