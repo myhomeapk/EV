@@ -135,6 +135,7 @@ Bloomberg,P2p://ns2.hellotvvod.com:9906/7159f32158a948bd88826275eef9314b
 Bloomberg,http://218.32.47.179:8551/http/192.168.1.9:8078/hls/43/80/bloomber.m3u8
 
 DW,P2p://ns2.hellotvvod.com:9906/18868a175de34d8fa525b81e87bdb849
+靖天映画,http://210.201.54.102/live2/gd_image.sdp/playlist.m3u8
 靖天映画,P2p://ns2.hellotvvod.com:9906/c7a6d3a11d8b4796af147ff81d17fab7
 
 三立戏剧,P2p://ns2.hellotvvod.com:9906/113d38a80d2249c3b06efcec46281c18
@@ -417,16 +418,22 @@ TVN,P2p://ns2.hellotvvod.com:9906/7c5f4e08f3e343f2ba0997d251c18f30
 
 國家地理FHD,http://218.32.47.179:18509/http/192.168.1.9:8081/hls/61/803/ch01.m3u8
 DMAX探索動力,mitv://fccs.word-tv.com:9906/6258ec18000964b412045d13a4eb316e
+博斯高球,http://210.201.54.102/live2/b_golf/playlist.m3u8
 博斯高球,P2p://ns2.hellotvvod.com:9906/5e3b0d88a87c4c94bf68600579bb1cd7
+博斯高球二台,http://210.201.54.102/live2/b_golf2/playlist.m3u8
 博斯高球二台,P2p://ns2.hellotvvod.com:9906/b0de75dbd96b4ad0b7cbd2667fd9e1b7
+博斯网球,http://210.201.54.102/live2/b_tennis/playlist.m3u8
 博斯网球,P2p://ns2.hellotvvod.com:9906/78668530367e4149bc4c5d7698fade2a
 博斯网球,rtmp://59.124.75.138/sat/md051
 博斯网球,mitv://ns2.hellotvvod.com:9906/ba186c408fa5474eb0aad54aebac23cd
+博斯魅力,http://210.201.54.102/live2/b_charm/playlist.m3u8
 博斯魅力,P2p://ns2.hellotvvod.com:9906/ff4b056721b54a8785577eda31fcbb4b
 博斯魅力,rtmp://59.124.75.138/sat/md051
 博斯魅力,mitv://ns2.hellotvvod.com:9906/e213cdd17773437a89a68f35b1d8c148
+博斯无限,http://210.201.54.102/live2/b_infinity/playlist.m3u8
 博斯无限,P2p://ns2.hellotvvod.com:9906/63a4f6b20a99421eac4ae67489c169b3
 博斯无限二,P2p://ns2.hellotvvod.com:9906/ed0b79681eec449194e53757c39300e1
+博斯运动,http://210.201.54.102/live2/b_sports/playlist.m3u8
 博斯运动,P2p://ns2.hellotvvod.com:9906/ee130ba577b7455586651e52aa7e4568
 東風衛視,mitv://fccs.word-tv.com:9906/6258585d0007329c0fc34a0b3c4be606
 
