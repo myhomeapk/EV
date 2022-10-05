@@ -15,27 +15,26 @@
 中视菁采,P2p://ns1.hellotvvod.com:9906/5b3a623b59cc4ca485164447a50a50d6
 中视菁采,P2p://ns2.hellotvvod.com:9906/d6752e25d9f44020a971d0645942fb21
 
+CNN,http://210.201.54.102/live2/cnnnews_sp.sdp/playlist.m3u8
 CNN,http://78.83.191.18:8000/play/a07c
-CNN,P2p://ns1.hellotvvod.com:9906/a7171d39ac4f440b9dfb0168f32fd955
 CNN,http://red.ipfox.org:8080/osama2022/osama2023/48790
 CNN,http://red.ipfox.org:8080/osama2022/osama2023/49062
 CNN,P2p://ns2.hellotvvod.com:9906/fc613681ff784ae59a30ba7c9ed3efb0
 
-民视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
+民视,http://210.201.54.102/live2/ftvw_sp.sdp/playlist.m3u8
 民视,rtmp://59.124.75.150/sat/tv051
 民视,P2p://ns2.hellotvvod.com:9906/5121c7a5b7844be693683f5210c45cf4
 民视,http://220.134.196.147:9504/hls/73/815/ch49.m3u8
 民视,http://59.125.101.187:8714/http/192.168.77.24:8081/hls/73/815/ch49.m3u8?
 
-猪哥亮歌厅秀,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
+猪哥亮歌厅秀,http://210.201.54.102/live2/pig_sp.sdp/playlist.m3u8
 
 台视,rtmp://59.124.75.150/sat/tv071
 台视,P2p://ns2.hellotvvod.com:9906/5afa39dd453d4b46bd2f46beef034298
 台视,http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
 台视,http://123.51.229.65:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
 
-大爱,P2p://ns1.hellotvvod.com:9906/c5fb4cda3454476d93cb27e2e081250d
-大爱,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
+大爱,http://210.201.54.102/live2/Di_sp.sdp/playlist.m3u8
 大爱,http://50.7.220.74:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
 大爱,http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
 
@@ -51,9 +50,7 @@ CNN,P2p://ns2.hellotvvod.com:9906/fc613681ff784ae59a30ba7c9ed3efb0
 霹雳台湾,mitv://ns2.hellotvvod.com:9906/12afaa86712949ea8ae055494dcf65fd
 霹雳台湾,http://59.125.101.187:8768/http/192.168.77.24:8081/hls/75/817/ch59.m3u8?
 
-华视,rtmp://59.124.75.138:1935/sat/tv111
-华视,rtmp://59.124.75.138/sat/tv111
-华视,http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
+华视,http://210.201.54.102/live2/cts.sdp/playlist.m3u8
 华视,rtmp://59.124.75.150/sat/tv111
 华视,mitv://fccs.word-tv.com:9906/6257e98b000307180e1264aad3095adb
 华视,http://218.32.47.179:18503/http/192.168.1.9:8081/hls/72/814/ch48.m3u8
@@ -94,11 +91,9 @@ TLC旅游,mitv://fccs.word-tv.com:9906/62584cd60007230e0f9642af98aa2879
 ROCK Extreme,P2p://ns1.hellotvvod.com:9906/3c3ed9c2c2034900851d9012a05a1398
 ROCK Extreme,P2p://ns2.hellotvvod.com:9906/712698dff3b449b2bf6c0b357597e61d
 
-CN卡通,P2p://ns1.hellotvvod.com:9906/d5a63b929ab64d5bae625a725ec09a42
-CN卡通,P2p://ns2.hellotvvod.com:9906/53b1291e95a74375a095acd16f4abdac
+CN卡通,http://210.201.54.102/live2/cncartoon_sp.sdp/playlist.m3u8
 CN卡通,mitv://fccs.word-tv.com:9906/62584e2d00015cde0f9b7d0de69c85e4
-MOMO亲子,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
-MOMO亲子,P2p://ns1.hellotvvod.com:9906/f99539ee05024a3cb1e0531484d81e7e
+MOMO亲子,http://210.201.54.102/live2/tcch04/playlist.m3u8
 MOMO亲子,P2p://ns2.hellotvvod.com:9906/47857819b1ca4487b782925e9b241826
 MOMO亲子,mitv://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
 
@@ -114,7 +109,7 @@ MOMO亲子,mitv://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
 八大第一,P2p://ns2.hellotvvod.com:9906/6fb3644604d143beae1fa530791d5d87
 八大第一,mitv://fccs.word-tv.com:9906/6258517d000953940fa86f978caa56ae
 
-八大综合,P2p://ns1.hellotvvod.com:9906/0a94d77edc744413945ee76857f4f5c5
+八大综合,http://210.201.54.102/live2/gtv_sp.sdp/playlist.m3u8
 八大综合,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
 八大综合,P2p://ns2.hellotvvod.com:9906/1a4ba7fe00e447aa807a4af55bf360b7
 
@@ -142,9 +137,7 @@ MOMO亲子,mitv://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
 非凡商业,P2p://ns2.hellotvvod.com:9906/1c03339edfb04248ad2e1643d153e30c
 非凡商业,mitv://fccs.word-tv.com:9906/626911890006d792031b822fdf86a38a
 
-中天综合,http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?
-中天综合,P2p://ns1.hellotvvod.com:9906/39507c83c4c848118b2bc5e56b40f91b
-中天综合,P2p://ns2.hellotvvod.com:9906/fe0a54eee624418f8300555899261df5
+中天综合,http://210.201.54.102/live2/cti1_sp.sdp/playlist.m3u8
 中天综合,http://218.32.47.179:18526/http/192.168.1.9:8081/hls/67/809/ch25.m3u8
 中天综合,mitv://fccs.word-tv.com:9906/62585815000447950fc2300ce37be3da
 
@@ -213,7 +206,7 @@ DW,P2p://ns2.hellotvvod.com:9906/18868a175de34d8fa525b81e87bdb849
 民视新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
 民视新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
 
-三立新闻,P2p://ns2.hellotvvod.com:9906/fceb797446e94ac18dd4791a5d12b440
+三立新闻,http://210.201.54.102/live2/setnews/playlist.m3u8
 三立新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
 
 
@@ -376,7 +369,7 @@ ESPN,http://69.164.224.53:80/ESPN/mpegts
 公视2,mitv://ns2.hellotvvod.com:9906/880f30819a57477da523ea73d2cdc131
 
 佛卫慈悲台,P2p://ns2.hellotvvod.com:9906/8db0c52a0e47461d92e91add0f64b8df
-EVE,P2p://ns2.hellotvvod.com:9906/c32b6fa511cb459398328b5e82ac46e3
+EVE,http://210.201.54.102/live2/Dhome_sp.sdp/playlist.m3u8
 
 人间卫视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210
 人间卫视,http://218.32.47.179:8506/http/192.168.1.9:8081/hls/69/811/ch36.m3u8
@@ -394,7 +387,7 @@ Star Movies,P2p://ns1.hellotvvod.com:9906/193db37396de436fac5c57fcb5314978
 Star Movies,P2p://ns2.hellotvvod.com:9906/bb688b3cf95143d180e412e7c3f466a7
 CinemaWorld,P2p://ns1.hellotvvod.com:9906/46074777cbb340718ff12c32a0f63a00
 
-达文西频道,P2p://ns2.hellotvvod.com:9906/2d612a0555594012873d6d29f437df07
+达文西频道,http://210.201.54.102/live2/davinci.sdp/playlist.m3u8
 
 靖天日本台,P2p://ns1.hellotvvod.com:9906/aafd14ca753041a9a1dacd3114a1c3b0
 亚洲旅游,P2p://ns1.hellotvvod.com:9906/71717d13dcc743789fdbef6af23d5dbb
@@ -457,9 +450,9 @@ AXN,mitv://ns2.hellotvvod.com:9906/a6930fcb83344e5bbc709dc0d5dd7f4d
 爱尔达体育3,P2p://ns2.hellotvvod.com:9906/89efb8b1822d4708b6c1d1e8f5b9e1a3
 
 
-民视综艺,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
-民视影剧,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
-民视旅游,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
+民视综艺,http://210.201.54.102/live2/program_sp.sdp/playlist.m3u8
+民视影剧,http://210.201.54.102/live2/drama_sp.sdp/playlist.m3u8
+民视旅游,http://210.201.54.102/live2/ftvtravel_sp.sdp/playlist.m3u8
 
 华视新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
 华视新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hsxw
@@ -493,9 +486,9 @@ TVBS精采,mitv://fccs.word-tv.com:9906/6259b507000647d0151541dfdfa4429f
 Discovery Asia,P2p://ns1.hellotvvod.com:9906/0db3e039c95a4b20ab854ad011158202
 Discovery Asia,P2p://ns2.hellotvvod.com:9906/868e99e9de3649dfa17544c9fc37eb31
 Discovery Asia,mitv://fccs.word-tv.com:9906/6258ebd80002c54f12036161f9ac3eb0
-DMAX,P2p://ns1.hellotvvod.com:9906/f83cd21b6aa24f03be5364d3fe94082f
+DMAX,http://210.201.54.102/live2/Dturbo_sp.sdp/playlist.m3u8
 DMAX,P2p://ns2.hellotvvod.com:9906/9b2c80d3632b4c4cb6b56e88376a83b2
-博斯运动,P2p://ns2.hellotvvod.com:9906/ee130ba577b7455586651e52aa7e4568
+博斯运动,http://210.201.54.102/live2/b_sports/playlist.m3u8
 
 HISTORY 2,P2p://ns1.hellotvvod.com:9906/04b361440a4344648869f3613e2b1ba6
 HISTORY 2,P2p://ns2.hellotvvod.com:9906/5300fbcc0f0e4e67ab3f4b0318c0baae
@@ -520,17 +513,17 @@ TVN,P2p://ns2.hellotvvod.com:9906/7c5f4e08f3e343f2ba0997d251c18f30
 
 國家地理FHD,http://218.32.47.179:18509/http/192.168.1.9:8081/hls/61/803/ch01.m3u8
 DMAX探索動力,mitv://fccs.word-tv.com:9906/6258ec18000964b412045d13a4eb316e
-博斯高球,P2p://ns2.hellotvvod.com:9906/5e3b0d88a87c4c94bf68600579bb1cd7
-博斯高球二台,P2p://ns1.hellotvvod.com:9906/4f305af816b24109ba5a0d86bf3e712f
-博斯网球,P2p://ns1.hellotvvod.com:9906/722a5b86aa9d4b1cbc6e349bf38f952d
+博斯高球,http://210.201.54.102/live2/b_golf/playlist.m3u8
+博斯高球二台,http://210.201.54.102/live2/b_golf2/playlist.m3u8
+博斯网球,http://210.201.54.102/live2/b_tennis/playlist.m3u8
 博斯网球,rtmp://59.124.75.138/sat/md051
 博斯网球,mitv://ns2.hellotvvod.com:9906/ba186c408fa5474eb0aad54aebac23cd
-博斯魅力,P2p://ns1.hellotvvod.com:9906/5c0000c6ebd44d5cb5cc1346f7a4ea58
+博斯魅力,http://210.201.54.102/live2/b_charm/playlist.m3u8
 博斯魅力,rtmp://59.124.75.138/sat/md051
 博斯魅力,mitv://ns2.hellotvvod.com:9906/e213cdd17773437a89a68f35b1d8c148
-博斯无限,P2p://ns1.hellotvvod.com:9906/0a729f4ebe304ac5880bcdc3fd735409
+博斯无限,http://210.201.54.102/live2/b_infinity/playlist.m3u8
 博斯无限二,P2p://ns1.hellotvvod.com:9906/5a71c4b7a7e44a77a60173a2159d9e86
-博斯运动,P2p://ns1.hellotvvod.com:9906/a9a6b20dc3304856a69219e12c07e74a
+博斯运动,http://210.201.54.102/live2/b_sports/playlist.m3u8
 東風衛視,mitv://fccs.word-tv.com:9906/6258585d0007329c0fc34a0b3c4be606
 
 中天娛樂,mitv://fccs.word-tv.com:9906/62585ecd000adfc10fdc707c21a26424
@@ -594,7 +587,7 @@ LiveABC互动英语,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gt
 中天美食旅游,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
 LUXE TV,P2p://ns1.hellotvvod.com:9906/a2e0e3369be141cbb4a8aa47d5557535
 LUXE TV,P2p://ns2.hellotvvod.com:9906/130d41788bfc4f78b6444675f4b6c541
-Lifetime,P2p://ns1.hellotvvod.com:9906/667e0e802f1f4924ba0e25742ad5d1bc
+Lifetime,http://210.201.54.102/live2/livetime.sdp/playlist.m3u8
 Lifetime,P2p://ns2.hellotvvod.com:9906/7b24dc597c3c40c3b59f253826a083c5
 KLT-靖天国际台,P2p://ns1.hellotvvod.com:9906/926da0c0eca94439af50e1c9d7252b91
 KLT-靖天国际台,P2p://ns2.hellotvvod.com:9906/6dc496054577491f8abbfef561587ea5
