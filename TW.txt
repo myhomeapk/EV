@@ -296,10 +296,9 @@ imodeTV,https://juyunlive.juyun.tv/live/24950198.m3u8
 纬来育乐,http://218.32.47.179:18562/http/192.168.1.9:8081/hls/68/810/ch30.m3u8
 纬来育乐,P2p://ns2.hellotvvod.com:9906/6f4c7d47aa9d457792fb0f51c48fd966
 
-纬来体育,http://218.32.47.179:18563/.m3u8
-纬来体育,rtmp://59.124.75.138/sat/tv721
-纬来体育,rtmp://59.124.75.150/sat/tv721
+纬来体育,rtmp://59.124.75.150:1935/sat/tv721
 纬来体育,rtmp://59.124.75.138:1935/sat/tv721
+纬来体育,rtmp://59.124.75.150/sat/tv721
 纬来体育,http://60.251.33.252:18509/.m3u8
 纬来体育,P2p://ns2.hellotvvod.com:9906/075079fbad33416e963d959bcf29b28e
 纬来体育,http://218.32.47.179:18563/http/192.168.1.9:8081/hls/67/809/ch28.m3u8
@@ -309,9 +308,11 @@ imodeTV,https://juyunlive.juyun.tv/live/24950198.m3u8
 SBN全球财经,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
 ELEVEN_SPORTS1,http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
 ELEVEN_SPORTS1,P2p://ns2.hellotvvod.com:9906/56f78b012ab5497cbcf96efa56d599ab
-纬来日本,P2p://ns2.hellotvvod.com:9906/94fe25b5e4a9497482ce4ef5cee1ff54
-纬来日本,rtmp://59.124.75.150/sat/tv771
+
 纬来日本,rtmp://59.124.75.138:1935/sat/tv771
+纬来日本,rtmp://59.124.75.150:1935/sat/tv771
+纬来日本,rtmp://59.124.75.150/sat/tv771
+纬来日本,rtmp://59.124.75.150/sat//tv761
 纬来日本,rtmp://59.124.75.138/sat/tv771
 
 国兴卫视,P2p://ns2.hellotvvod.com:9906/0ba561f1683a4f6186f44529cadf31f7
