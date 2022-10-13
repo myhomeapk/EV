@@ -33,23 +33,23 @@ CNN,P2p://ns2.hellotvvod.com:9906/fc613681ff784ae59a30ba7c9ed3efb0
 台视,http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
 台视,http://123.51.229.65:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
 
-大爱,http://210.201.54.102/live2/Di_sp.sdp/playlist.m3u8
+大爱,mitv://ns1.hellotvvod.com:9906/0598d5b49b544ebc8050fa86b664337f
 大爱,http://50.7.220.74:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
 大爱,http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
 
-中视,rtmp://59.124.75.150/sat/tv091
+中视,mitv://ns1.hellotvvod.com:9906/e455c0776b004b7b8e23a843e6828c2d
 中视,rtmp://59.124.75.138:1935/sat/tv091
 中视,rtmp://59.124.75.138/sat/tv091
 中视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
 中视,http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
 
-霹雳台湾,P2p://ns1.hellotvvod.com:9906/ee07d44e6cdb4eb092248431e5582968
+霹雳台湾,mitv://ns1.hellotvvod.com:9906/6a099434f85f476fa2d0ee1c618f9497
 霹雳台湾,P2p://ns2.hellotvvod.com:9906/aeb2463b30e1424ebbe6dc3a74d85e01
 霹雳台湾,mitv://fccs.word-tv.com:9906/625835a900047b550f3bba39e271ea6f
 霹雳台湾,mitv://ns2.hellotvvod.com:9906/12afaa86712949ea8ae055494dcf65fd
 霹雳台湾,http://59.125.101.187:8768/http/192.168.77.24:8081/hls/75/817/ch59.m3u8?
 
-华视,http://210.201.54.102/live2/cts.sdp/playlist.m3u8
+华视,mitv://ns1.hellotvvod.com:9906/83a200e9f2bc4e7f8cb32167bc3285d8
 华视,rtmp://59.124.75.150/sat/tv111
 华视,mitv://fccs.word-tv.com:9906/6257e98b000307180e1264aad3095adb
 华视,http://218.32.47.179:18503/http/192.168.1.9:8081/hls/72/814/ch48.m3u8
@@ -64,25 +64,25 @@ ANIMAX,mitv://ns2.hellotvvod.com:9906/7fea5926cf4049e1b84a73834d0e88e0
 ANIMAX,https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
 金光木偶戏,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
 
-原住民电视,P2p://ns1.hellotvvod.com:9906/8c2bbdb7980e41799bb54fde5dda1a52
+原住民电视,mitv://ns1.hellotvvod.com:9906/f27cd382e0204bef97acb30b1897978b
 原住民电视,P2p://ns2.hellotvvod.com:9906/5c461d90b5364322bb637b1d5a01ae21
 原住民电视,mitv://fccs.word-tv.com:9906/6257e9ca0002ec200e135abbe97ac8ab
 
-客家电视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
+客家电视,mitv://ns1.hellotvvod.com:9906/c790265cbb614a0a88d91beac7b3bf95
 客家电视,P2p://ns1.hellotvvod.com:9906/be3ea9c28893494e9e4c2ad72fe06c3b
 客家电视,P2p://ns2.hellotvvod.com:9906/d3a0c1c54534420b84a11ead76b98643
 客家电视,mitv://fccs.word-tv.com:9906/6257e9d70000ce760e138cf889fb92c2
-國家地理國際頻道,P2p://ns1.hellotvvod.com:9906/a1e66402b91c4f79ad1bf733a7b9c73a
+國家地理國際頻道,mitv://ns1.hellotvvod.com:9906/8750510b3c724a23a7d2a2c219109f67
 國家地理國際頻道,mitv://fccs.word-tv.com:9906/62541d810002b7c00981a33911a2eb57
 
-探索频道,P2p://ns1.hellotvvod.com:9906/77d7615bfb1b4387afa4764c9ba1d243
+探索频道,mitv://ns1.hellotvvod.com:9906/8278d54c911144ddaca003a5a7ade1f0
 探索频道,P2p://ns2.hellotvvod.com:9906/887e2d57a7de4d238eac9c0b5cdfddb7
 
-TLC旅游,P2p://ns1.hellotvvod.com:9906/ee18f6daaf8a4ad8a0e6b996d0cd339a
+TLC旅游,mitv://ns1.hellotvvod.com:9906/42ab8f7668be42d282993b669425d2ca
 TLC旅游,P2p://ns2.hellotvvod.com:9906/be4be1a902d549c6b93af0cbba5826b9
 TLC旅游,mitv://fccs.word-tv.com:9906/62584cd60007230e0f9642af98aa2879
 
-动物星球,P2p://ns1.hellotvvod.com:9906/5963414225414a6e9eeb820a7aa7e941
+动物星球,mitv://ns1.hellotvvod.com:9906/dc309453b7c14ea5ac822eb1c6b57358
 动物星球,http://218.32.47.179:18512/http/192.168.1.9:8081/hls/70/812/ch37.m3u8
 动物星球,P2p://ns2.hellotvvod.com:9906/178c72a35f3547c3a4171ba78f1c8bf8
 动物星球,mitv://fccs.word-tv.com:9906/62541d9c0009282c09820e57f2a59d11
@@ -90,29 +90,29 @@ TLC旅游,mitv://fccs.word-tv.com:9906/62584cd60007230e0f9642af98aa2879
 ROCK Extreme,P2p://ns1.hellotvvod.com:9906/3c3ed9c2c2034900851d9012a05a1398
 ROCK Extreme,P2p://ns2.hellotvvod.com:9906/712698dff3b449b2bf6c0b357597e61d
 
-CN卡通,http://210.201.54.102/live2/cncartoon_sp.sdp/playlist.m3u8
+CN卡通,mitv://ns1.hellotvvod.com:9906/770c8ba137a04b3883406aec80df5316
 CN卡通,mitv://fccs.word-tv.com:9906/62584e2d00015cde0f9b7d0de69c85e4
-MOMO亲子,http://210.201.54.102/live2/tcch04/playlist.m3u8
+MOMO亲子,mitv://ns1.hellotvvod.com:9906/9e648fb320ba46be98dc26227341ac2f
 MOMO亲子,P2p://ns2.hellotvvod.com:9906/47857819b1ca4487b782925e9b241826
 MOMO亲子,mitv://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
 
-东森幼幼,http://210.201.54.102/live2/ettv_yoyo.sdp/playlist.m3u8
+东森幼幼,mitv://ns1.hellotvvod.com:9906/1da44ba51a234ce6bd26154cc931af68
 东森幼幼,P2p://ns2.hellotvvod.com:9906/c2b6515c32914110bfe2a9ac962855ff
 东森幼幼,mitv://fccs.word-tv.com:9906/62584f92000033490fa0ef49c819efa3
 东森幼幼,http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
 
-纬来综合,P2p://ns1.hellotvvod.com:9906/f77305fbbfbb497794f380b50501134b
+纬来综合,mitv://ns1.hellotvvod.com:9906/3f0c5d3d62ae477296c92e4361c7a972
 纬来综合,P2p://ns2.hellotvvod.com:9906/ed6e65e04b874768aa4b0325efc2e7fc
 
-八大第一,P2p://ns1.hellotvvod.com:9906/062cfd1d662c4c568ac777badc14c9b3
+八大第一,mitv://ns1.hellotvvod.com:9906/1622d8b1e76444c2888d5fc87fbf9c17
 八大第一,P2p://ns2.hellotvvod.com:9906/6fb3644604d143beae1fa530791d5d87
 八大第一,mitv://fccs.word-tv.com:9906/6258517d000953940fa86f978caa56ae
 
-八大综合,http://210.201.54.102/live2/gtv_sp.sdp/playlist.m3u8
+八大综合,mitv://ns1.hellotvvod.com:9906/d120b1b37d7346609d6b56074ab6bd97
 八大综合,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
 八大综合,P2p://ns2.hellotvvod.com:9906/1a4ba7fe00e447aa807a4af55bf360b7
 
-三立台湾,P2p://ns1.hellotvvod.com:9906/eee1ccef6c7640eb8425a79922f01130
+三立台湾,mitv://ns1.hellotvvod.com:9906/0c3718631244496ca4ff61801b4e4a9b
 三立台湾,P2p://ns2.hellotvvod.com:9906/8dd16c84358c462fa4ba3f24f29f7b41
 三立台湾,P2p://ns1.hellotvvod.com:9906/13f7086bad674a4d9d91f6b14471b719
 三立台湾,http://218.32.47.179:18521/http/192.168.1.9:8081/hls/65/807/ch20.m3u8
@@ -120,14 +120,14 @@ MOMO亲子,mitv://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
 三立台湾,http://59.125.101.187:8731/http/192.168.77.24:8081/hls/65/807/ch20.m3u8?
 三立台湾,http://59.125.101.187:8501/playlist.m3u8
 
-三立都会,P2p://ns2.hellotvvod.com:9906/75d92f9df62e4c268f4d28bed2aa9d2e
+三立都会,mitv://ns1.hellotvvod.com:9906/3960938758324df59a394ccc793c1652
 镜新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
 
-东森综合,P2p://ns2.hellotvvod.com:9906/a9abe20e2b854129b007851902abed58
+东森综合,mitv://ns1.hellotvvod.com:9906/c08748e8a69845a4be83e98f53bb7378
 东森综合,mitv://ns2.hellotvvod.com:9906/5a09ebab7ef941a9a533becbdca6a480
 东森综合,http://218.32.47.179:18524/http/192.168.1.9:8081/hls/63/805/ch12.m3u8
 
-东森超视,rtmp://59.124.75.138:1935/sat/tv331
+东森超视,mitv://ns1.hellotvvod.com:9906/212f8dab0a6c471386ed671b6500d6e0
 东森超视,mitv://ns2.hellotvvod.com:9906/3c5c7e708c3a41e18498402295965d67
 东森超视,mitv://fccs.word-tv.com:9906/625854810005f8350fb4365bf7cd8f4e
 东森超视,rtmp://59.124.75.138/sat/tv521
@@ -136,7 +136,7 @@ MOMO亲子,mitv://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
 非凡商业,P2p://ns2.hellotvvod.com:9906/1c03339edfb04248ad2e1643d153e30c
 非凡商业,mitv://fccs.word-tv.com:9906/626911890006d792031b822fdf86a38a
 
-中天综合,http://210.201.54.102/live2/cti1_sp.sdp/playlist.m3u8
+中天综合,mitv://ns1.hellotvvod.com:9906/ed52072db05f4270a22300fc4ebbd0ab
 中天综合,http://218.32.47.179:18526/http/192.168.1.9:8081/hls/67/809/ch25.m3u8
 中天综合,mitv://fccs.word-tv.com:9906/62585815000447950fc2300ce37be3da
 
@@ -147,16 +147,16 @@ MOMO亲子,mitv://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
 
 HGTV居家乐活频道,mitv://ns1.hellotvvod.com:9906/1d49d97b20df4655a5cb813f96b94dbd
 
-中天娱乐,P2p://ns2.hellotvvod.com:9906/8d36b7a80cb14f65956db83faf108572
+中天娱乐,mitv://ns1.hellotvvod.com:9906/790eb5c79f0b4813b29bbf879a46b258
 中天娱乐,http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
-东森戏剧,P2p://ns2.hellotvvod.com:9906/b9b2a3108cd748a48c69fde74cdac00e
+东森戏剧,mitv://ns1.hellotvvod.com:9906/0c34578e7b9141389a1a656cd66646ce
 东森戏剧,mitv://fccs.word-tv.com:9906/625420c30002ef15098e5d177b7f38b1
 
-八大戏剧,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=ME3E7432781774327817&ct=19193&tsum=504532547ffc646858157dd724bca18d
+八大戏剧,mitv://ns1.hellotvvod.com:9906/668eab360e1a4963a2d8eb199b52bc24
 八大戏剧,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
 八大戏剧,http://50.7.220.74:8278/badadrama/playlist.m3u8?
 八大戏剧,P2p://ns2.hellotvvod.com:9906/ee1c766f5309492382044f658b576899
-TVBS欢乐,P2p://ns2.hellotvvod.com:9906/e0e8c82a679c49c3a124f3a73b2965ab
+TVBS欢乐,mitv://ns1.hellotvvod.com:9906/3802b09128df4b76b7083eeaa99e997d
 TVBS欢乐,rtmp://59.124.75.150/sat/tv421
 TVBS欢乐,rtmp://59.124.75.138:1935/sat/tv421
 TVBS欢乐,rtmp://59.124.75.138:1935/sat/tv421
@@ -164,12 +164,12 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421
 TVBS欢乐,http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C2318787923187879&ct=19193&tsum=394d2b9af3df7846e2cdc60d69dd4219
 TVBS欢乐,mitv://fccs.word-tv.com:9906/62585f330007fbe70fddfe2f12feb8b6
 
-纬来戏剧,P2p://ns1.hellotvvod.com:9906/8981f0b5f0ba4961b045da328dcf1bb3
+纬来戏剧,mitv://ns1.hellotvvod.com:9906/f05bb6a079c649ad9078d3ef6dc9c496
 纬来戏剧,P2p://ns2.hellotvvod.com:9906/b810e88c6c5645339e5284435cbbf088
 纬来戏剧,mitv://fccs.word-tv.com:9906/62585f76000e7ba90fdf0591eb84257b
 纬来戏剧,http://218.32.47.179:18533/http/192.168.1.9:8081/hls/69/811/ch33.m3u8
 
-Bloomberg,P2p://ns1.hellotvvod.com:9906/551733cee91344138c994f9576ac5022
+Bloomberg,mitv://ns1.hellotvvod.com:9906/f27e8583e92a41c6baaab12f9013af26
 Bloomberg,P2p://ns2.hellotvvod.com:9906/7159f32158a948bd88826275eef9314b
 Bloomberg,http://218.32.47.179:8551/http/192.168.1.9:8078/hls/43/80/bloomber.m3u8
 
@@ -322,7 +322,7 @@ Z频道,P2p://ns2.hellotvvod.com:9906/3a3e760703fe4c6d9dd3d4e3cd0ae87b
 華視新聞資訊,http://218.32.47.179:8538/http/192.168.1.9:8081/hls/61/803/ch03.m3u8
 
 東風衛視,http://218.32.47.179:18528/http/192.168.1.9:8081/hls/68/810/ch31.m3u8
-ALJAZEERA,P2p://ns1.hellotvvod.com:9906/cc14d72d1d314132a334b4c69c400390
+ALJAZEERA,mitv://ns1.hellotvvod.com:9906/fca9c04a2271402b8e9e8dccd95064a8
 ALJAZEERA,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85
 ALJAZEERA,P2p://ns2.hellotvvod.com:9906/b212e4c6f9e24b78be1a1a24df4eeae9
 
@@ -423,6 +423,7 @@ Cbeebies,P2p://ns2.hellotvvod.com:9906/2d2fb160a3de4f05948706b7324e2e3f
 华纳电影,P2p://ns2.hellotvvod.com:9906/80c190fefe6241f1aace0a7b0a731ff3
 大爱2,P2p://ns1.hellotvvod.com:9906/486faaf41b7e4885a09844539f61d777
 大爱2,P2p://ns2.hellotvvod.com:9906/33799718b3df426d8cc3e363314e708a
+好消息,mitv://ns1.hellotvvod.com:9906/347f387129724a39baa5bb01bee39421
 好消息2,P2p://ns2.hellotvvod.com:9906/de0e2f35a9b44d6fa78db27aa9ff29c4
 好消息2,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv17&nid=8
 
