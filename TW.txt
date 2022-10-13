@@ -14,7 +14,7 @@
 中视菁采,P2p://ns1.hellotvvod.com:9906/5b3a623b59cc4ca485164447a50a50d6
 中视菁采,P2p://ns2.hellotvvod.com:9906/d6752e25d9f44020a971d0645942fb21
 
-CNN,http://210.201.54.102/live2/cnnnews_sp.sdp/playlist.m3u8
+CNN,mitv://ns1.hellotvvod.com:9906/5ad95cb617514fa4847d8c4a7d3df58f
 CNN,http://78.83.191.18:8000/play/a07c
 CNN,http://red.ipfox.org:8080/osama2022/osama2023/48790
 CNN,http://red.ipfox.org:8080/osama2022/osama2023/49062
@@ -173,7 +173,7 @@ Bloomberg,P2p://ns1.hellotvvod.com:9906/551733cee91344138c994f9576ac5022
 Bloomberg,P2p://ns2.hellotvvod.com:9906/7159f32158a948bd88826275eef9314b
 Bloomberg,http://218.32.47.179:8551/http/192.168.1.9:8078/hls/43/80/bloomber.m3u8
 
-DW,P2p://ns1.hellotvvod.com:9906/883cce16471a44efa1302132b0c59e9c
+DW,mitv://ns1.hellotvvod.com:9906/ecc5fb058fdd4f9792dc99cc7d7189f7
 DW,P2p://ns2.hellotvvod.com:9906/18868a175de34d8fa525b81e87bdb849
 靖天映画,P2p://ns1.hellotvvod.com:9906/a34a42ed14174770b0c9e38248b74fe7
 靖天映画,P2p://ns2.hellotvvod.com:9906/c7a6d3a11d8b4796af147ff81d17fab7
@@ -333,7 +333,7 @@ KBS World,mitv://ns2.hellotvvod.com:9906/2e826e680aac405ea82972fc78773778
 AMC最爱电影,P2p://ns1.hellotvvod.com:9906/e09586d5be6844b1844aad833297dd40
 八大娱乐,P2p://ns1.hellotvvod.com:9906/ebc41118c53845e8a2dae499581582d6
 
-MTV_Live,P2p://ns1.hellotvvod.com:9906/79e9d8fcc029433eb88c76ec79ea6b79
+MTV_Live,mitv://ns1.hellotvvod.com:9906/278e780cd044414a9c4a4cbb425c8a58
 MTV_Live,P2p://ns2.hellotvvod.com:9906/cdb5d79fed82406fae476fa897f94a8c
 MTV_Live,P2p://ns1.hellotvvod.com:9906/4a0e496288184ca49d069f89a67e9826
 三立財經,mitv://fccs.word-tv.com:9906/62614b9c0008ec3518c675877b79b6ea
