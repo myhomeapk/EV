@@ -149,9 +149,6 @@ TVBS欢乐,http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C23187879
 TVBS欢乐,mitv://fccs.word-tv.com:9906/62585f330007fbe70fddfe2f12feb8b6
 
 纬来戏剧,mitv://ns1.hellotvvod.com:9906/f05bb6a079c649ad9078d3ef6dc9c496
-纬来戏剧,P2p://ns2.hellotvvod.com:9906/b810e88c6c5645339e5284435cbbf088
-纬来戏剧,mitv://fccs.word-tv.com:9906/62585f76000e7ba90fdf0591eb84257b
-纬来戏剧,http://218.32.47.179:18533/http/192.168.1.9:8081/hls/69/811/ch33.m3u8
 
 Bloomberg,mitv://ns1.hellotvvod.com:9906/f27e8583e92a41c6baaab12f9013af26
 
@@ -162,7 +159,6 @@ DW,mitv://ns1.hellotvvod.com:9906/ecc5fb058fdd4f9792dc99cc7d7189f7
 三立戏剧,mitv://ns1.hellotvvod.com:9906/4593e8ff5a534ca79df84957019bafc4
 
 三立综合,mitv://ns1.hellotvvod.com:9906/d7efc50eb0094e3eb39b3bd2103d3c26
-三立综合,P2p://ns2.hellotvvod.com:9906/8d3cfdce6fcc4534b31f754d24212dcf
 
 壹电视新闻,mitv://ns1.hellotvvod.com:9906/b72eb7736799437998a1d897f7884c17
 
@@ -176,12 +172,9 @@ DW,mitv://ns1.hellotvvod.com:9906/ecc5fb058fdd4f9792dc99cc7d7189f7
 
 三立新闻,mitv://ns1.hellotvvod.com:9906/c3ed2ce5f1754e5d9c106555d03d0a45
 
-
-
 TVBS新闻,mitv://ns1.hellotvvod.com:9906/85edca8cca3a4669866401756e6b0fc9
 
 TVBS,mitv://ns1.hellotvvod.com:9906/6f1ede1d1a864d25af99ee89f3ec6c01
-
 
 东森财经新闻,mitv://ns1.hellotvvod.com:9906/9eb1fdffe05a4263babfc5407981c9c5
 
@@ -196,44 +189,24 @@ EYE TV旅游,mitv://ns1.hellotvvod.com:9906/b7f96bc6b54f4d9b88b2bad12bd8ce36
 卫视电影,mitv://ns1.hellotvvod.com:9906/af0a170704a0485890dc58eb98235800
 
 东森电影,mitv://ns1.hellotvvod.com:9906/af0a170704a0485890dc58eb98235800
-东森电影,mitv://fccs.word-tv.com:9906/62541ccb0008d232097eddd9e4082c99
 
 纬来电影,mitv://ns1.hellotvvod.com:9906/d52f97bdd0d04c8298c9018bdb3f023a
-纬来电影,http://59.125.101.187:8710/http/192.168.77.24:8081/hls/69/811/ch35.m3u8?
 
 龙祥电影,mitv://ns1.hellotvvod.com:9906/cb05b0c0c22b4c04a93c7abbd9f25d84
-
 
 HBO,mitv://ns1.hellotvvod.com:9906/77b2dd9449b2467f8154131f11dbc0cd
 HBO,mitv://fccs.word-tv.com:9906/6268100d000c1b5d19322ef22ed23efc
 
-
 东森洋片,mitv://ns1.hellotvvod.com:9906/ca80658c995e4736b2a1b603a6bcf843
 东森洋片,http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
-东森洋片,http://113.64.147.7:808/hls/59/index.m3u8
 东森洋片,http://120.84.96.69:808/hls/33/index.m3u8
 
-
 AXN,mitv://ns1.hellotvvod.com:9906/ead2ab5a3ebf4782acf83192185af6f2
-AXN,http://59.125.101.187:8759/http/192.168.77.24:8081/hls/71/813/ch43.m3u8?
-AXN,http://218.32.47.179:18558/.m3u8
-
 
 好莱坞电影,mitv://ns1.hellotvvod.com:9906/d950994f436942e68011a90531c815d3
-好莱坞电影,P2p://ns2.hellotvvod.com:9906/db5f81637e2a4420a2a59dfc7bacc634
-
-
-全大,mitv://fccs.word-tv.com:9906/62614c730008668f18c9bd3d40261639
-信大,mitv://fccs.word-tv.com:9906/62614ca00005778f18ca6c44cdea2031
 
 纬来育乐,mitv://ns1.hellotvvod.com:9906/d7b398276e5543729b1cd2c742a42131
-纬来育乐,rtmp://59.124.75.150/sat/tv701
-纬来育乐,rtmp://59.124.75.138:1935/sat/tv701
-纬来育乐,http://60.251.33.252:18541/.m3u8
-纬来育乐,http://123.51.229.65:18541/.m3u8
-纬来育乐,rtmp://59.124.75.138/sat/tv701
-纬来育乐,http://218.32.47.179:18562/http/192.168.1.9:8081/hls/68/810/ch30.m3u8
-纬来育乐,P2p://ns2.hellotvvod.com:9906/6f4c7d47aa9d457792fb0f51c48fd966
+
 
 纬来体育,mitv://ns1.hellotvvod.com:9906/52f3855128f841b8bf50b3c50b860d03
 纬来体育,rtmp://59.124.75.138:1935/sat/tv721
