@@ -20,7 +20,7 @@ CNN,http://red.ipfox.org:8080/osama2022/osama2023/48790
 CNN,http://red.ipfox.org:8080/osama2022/osama2023/49062
 CNN,P2p://ns2.hellotvvod.com:9906/fc613681ff784ae59a30ba7c9ed3efb0
 
-民视,http://210.201.54.102/live2/ftvw_sp.sdp/playlist.m3u8
+民视,mitv://ns1.hellotvvod.com:9906/9bb000477e4f4c16a2e03359c41da127
 民视,rtmp://59.124.75.150/sat/tv051
 民视,P2p://ns2.hellotvvod.com:9906/5121c7a5b7844be693683f5210c45cf4
 民视,http://220.134.196.147:9504/hls/73/815/ch49.m3u8
@@ -28,7 +28,7 @@ CNN,P2p://ns2.hellotvvod.com:9906/fc613681ff784ae59a30ba7c9ed3efb0
 
 猪哥亮歌厅秀,http://210.201.54.102/live2/pig_sp.sdp/playlist.m3u8
 
-台视,rtmp://59.124.75.150/sat/tv071
+台视,mitv://ns1.hellotvvod.com:9906/ffb7d550882c4127a773793376143666
 台视,P2p://ns2.hellotvvod.com:9906/5afa39dd453d4b46bd2f46beef034298
 台视,http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
 台视,http://123.51.229.65:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
@@ -145,7 +145,7 @@ MOMO亲子,mitv://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
 三立inews新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
 三立inews新聞,P2p://ns2.hellotvvod.com:9906/8044cd6adaa14a969ee691d58c8eabb9
 
-HGTV居家乐活频道,P2p://ns2.hellotvvod.com:9906/97998ba196964eab9686d9d5b82ed634
+HGTV居家乐活频道,mitv://ns1.hellotvvod.com:9906/1d49d97b20df4655a5cb813f96b94dbd
 
 中天娱乐,P2p://ns2.hellotvvod.com:9906/8d36b7a80cb14f65956db83faf108572
 中天娱乐,http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
@@ -371,7 +371,7 @@ ESPN,http://69.164.224.53:80/ESPN/mpegts
 佛卫慈悲台,P2p://ns2.hellotvvod.com:9906/8db0c52a0e47461d92e91add0f64b8df
 EVE,http://210.201.54.102/live2/Dhome_sp.sdp/playlist.m3u8
 
-人间卫视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210
+人间卫视,mitv://ns1.hellotvvod.com:9906/c7103ee68ca04b519038b7e1acc94dc6
 人间卫视,http://218.32.47.179:8506/http/192.168.1.9:8081/hls/69/811/ch36.m3u8
 采昌影剧台,P2p://ns2.hellotvvod.com:9906/3417b99db54f40d09a101b8237856256
 Boomerang,mitv://fccs.word-tv.com:9906/62584d670009313f0f98799e2354015b
