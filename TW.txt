@@ -232,9 +232,11 @@ TVBS,P2p://ns2.hellotvvod.com:9906/dfa682f7f08c4b388bf5329a6d352e9e
 非凡新闻,mitv://ns1.hellotvvod.com:9906/0c64a30ef8da4652a484e0a0a560055b
 非凡新闻,http://59.125.101.187:8706/http/192.168.77.24:8081/hls/75/817/ch57.m3u8?
 
-天映經典,P2p://ns1.hellotvvod.com:9906/470cd03d80584abaa000dc201604ca27
+天映經典,mitv://ns1.hellotvvod.com:9906/0978c2b40db64e99abe994f972af7275
 天映經典,http://50.7.220.74:8278/Celestial2/playlist.m3u8?tid=m6ef86c74cc921039065&ct=17916&tsum=d3a0eedfcfc050a71e7c99ea52c0da04
 天映經典,http://120.84.96.221:808/hls/85/index.m3u8
+
+天映频道,mitv://ns1.hellotvvod.com:9906/3ce19e516d78487c8f18826ac4df3da2
 
 EYE TV旅游,mitv://ns1.hellotvvod.com:9906/b7f96bc6b54f4d9b88b2bad12bd8ce36
 EYE TV旅游,P2p://ns2.hellotvvod.com:9906/892a16579495463e835576d4aba45cab
@@ -377,13 +379,10 @@ EVE,http://210.201.54.102/live2/Dhome_sp.sdp/playlist.m3u8
 人间卫视,http://218.32.47.179:8506/http/192.168.1.9:8081/hls/69/811/ch36.m3u8
 采昌影剧台,mitv://ns1.hellotvvod.com:9906/af5ee25f700441968d97b38da259eb71
 Boomerang,mitv://fccs.word-tv.com:9906/62584d670009313f0f98799e2354015b
-Thrill,P2p://ns1.hellotvvod.com:9906/3fb70424599d41419475b07d53512a97
+Thrill,mitv://ns1.hellotvvod.com:9906/e56f768d9804456480418d445894a4c1
 Thrill,mitv://ns2.hellotvvod.com:9906/93d85cb13ede4f24ab3a4c4269557cde
 
-爆谷台,P2p://ns1.hellotvvod.com:9906/e7d2b721a3ba40d4a6120bd1161d6ab8
-爆谷台,P2p://ns1.hellotvvod.com:9906/641d2867950f48cbacf16b0d9a7812c9
-爆谷台,mitv://ns2.hellotvvod.com:9906/a538c9511e6d4c20b4241ee3b3b7bfac
-爆谷台,http://hk.crtv.store:80/play/5iVToWZi9rVAYQQsYXHzewIopbcXzSps0zmpJli7rBM
+爆谷台,mitv://ns1.hellotvvod.com:9906/f5fba721894b49fe8fc85906deddec82
 
 Star Movies,P2p://ns1.hellotvvod.com:9906/193db37396de436fac5c57fcb5314978
 Star Movies,P2p://ns2.hellotvvod.com:9906/bb688b3cf95143d180e412e7c3f466a7
