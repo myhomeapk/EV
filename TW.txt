@@ -572,7 +572,7 @@ Baby TV,http://218.32.47.179:18514/http/192.168.1.9:8078/hls/35/80/babytv.m3u8
 美食星球,https://ytb.52sf.ga/jmsytb.m3u8?c=38
 八大综合,http://218.32.47.179:18520/.m3u8
 
-NHK世界FHD,http://218.32.47.179:8552/http/192.168.1.9:8081/hls/62/804/ch06.m3u8
+NHK综合,https://nhk1.mov3.co/hls/nhk.m3u8
 NHK华语视界,mitv://ns1.hellotvvod.com:9906/6a8f9c8e1575487297b47771f15e050d
 
 八大戲劇FHD,http://218.32.47.179:18531/http/192.168.1.9:8081/hls/66/808/ch23.m3u8
