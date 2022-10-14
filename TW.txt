@@ -75,8 +75,8 @@ ANIMAX,https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b500
 探索频道,P2p://ns2.hellotvvod.com:9906/887e2d57a7de4d238eac9c0b5cdfddb7
 
 TLC旅游,mitv://ns1.hellotvvod.com:9906/42ab8f7668be42d282993b669425d2ca
-TLC旅游,P2p://ns2.hellotvvod.com:9906/be4be1a902d549c6b93af0cbba5826b9
-TLC旅游,mitv://fccs.word-tv.com:9906/62584cd60007230e0f9642af98aa2879
+TLC旅游,mitv://ns1.hellotvvod.com:9906/42ab8f7668be42d282993b669425d2ca
+TLC旅游,mitv://ns1.hellotvvod.com:9906/42ab8f7668be42d282993b669425d2ca
 
 动物星球,mitv://ns1.hellotvvod.com:9906/dc309453b7c14ea5ac822eb1c6b57358
 
