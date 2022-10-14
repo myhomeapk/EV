@@ -376,14 +376,14 @@ AXN,mitv://ns2.hellotvvod.com:9906/a6930fcb83344e5bbc709dc0d5dd7f4d
 民视台湾,mitv://ns1.hellotvvod.com:9906/c2370e69686d4c7bba0a1c02709eec47
 
 靖天戏剧台,mitv://ns1.hellotvvod.com:9906/173b337771b24286ba991800ee6373d5
-中视新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
+中视新闻,mitv://ns1.hellotvvod.com:9906/2762512408c44ca6a6a8fce85dcf9f1a
 中视新闻,http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
 靖天卡通,mitv://ns1.hellotvvod.com:9906/31d65bc8b7d64f6dbf612ecf979bfa33
 台视财经,P2p://ns2.hellotvvod.com:9906/6e809a59861d4a648adbe1161aa09320
 尼克儿童频道,mitv://ns1.hellotvvod.com:9906/7ae29e31a0f74360ab0790eea986860e
 
-ELEVEN体育二,P2p://ns1.hellotvvod.com:9906/9adaaf14e25e44f0b35741e3df606f24
-亚洲美食频道,P2p://ns2.hellotvvod.com:9906/686ff298f4fe493fb994ff5f1dd28606
+ELEVEN体育二,mitv://ns1.hellotvvod.com:9906/6256bba3e00b46b6a5c092dfa076133e
+亚洲美食频道,mitv://ns1.hellotvvod.com:9906/cc0554d0926f43748414640044e38d1f
 TVBS精采,mitv://ns1.hellotvvod.com:9906/48ff10043b1f47aa95af3fda73fc9eed
 TVBS精采,mitv://fccs.word-tv.com:9906/6259b507000647d0151541dfdfa4429f
 博斯运动一台,mitv://ns2.hellotvvod.com:9906/47c9e046ce954e389b4e9c302072111c
@@ -486,7 +486,7 @@ LiveABC互动英语,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gt
 华语戏剧,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
 华语综艺,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
 中天全民最大党,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live076&nid=248
-滚动力,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live012&nid=249
+滚动力,mitv://ns1.hellotvvod.com:9906/7c2f2f58882f40398d250b3dd3c2c65c
 
 中天美食旅游,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
 LUXE TV,mitv://ns1.hellotvvod.com:9906/765459e6ea6648d3b4ec6dd6b3aee119
