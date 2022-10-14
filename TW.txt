@@ -49,7 +49,7 @@ CNN,P2p://ns2.hellotvvod.com:9906/fc613681ff784ae59a30ba7c9ed3efb0
 霹雳台湾,mitv://ns2.hellotvvod.com:9906/12afaa86712949ea8ae055494dcf65fd
 霹雳台湾,http://59.125.101.187:8768/http/192.168.77.24:8081/hls/75/817/ch59.m3u8?
 
-华视,mitv://ns1.hellotvvod.com:9906/83a200e9f2bc4e7f8cb32167bc3285d8
+华视,mitv://ns1.hellotvvod.com:9906/1fbf1372795d4e52a2a2504c8096e212
 华视,rtmp://59.124.75.150/sat/tv111
 华视,mitv://fccs.word-tv.com:9906/6257e98b000307180e1264aad3095adb
 华视,http://218.32.47.179:18503/http/192.168.1.9:8081/hls/72/814/ch48.m3u8
