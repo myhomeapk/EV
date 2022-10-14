@@ -269,7 +269,7 @@ i-Fun动漫台,mitv://ns1.hellotvvod.com:9906/1375c7e58a2e42828bd4caeddba2062f
 龙华电影,http://59.125.122.90:18574/http/192.168.1.9:8078/hls/24/80/ch04.m3u8
 龙华电影,http://218.32.47.179:18556/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
 
-ETtoday综合台,P2p://ns2.hellotvvod.com:9906/fdaa40feb8e74d73bfe9151a861a7037
+ETtoday综合台,mitv://ns1.hellotvvod.com:9906/c2b651d0dc55487981db45d3f20789ed
 智林体育台,P2p://ns2.hellotvvod.com:9906/1245f2d45ae34a6bb9b900b1e3082e01
 
 ESPN,Http://51.79.82.208:16417
@@ -370,12 +370,12 @@ AXN,mitv://ns2.hellotvvod.com:9906/a6930fcb83344e5bbc709dc0d5dd7f4d
 寰宇新闻,https://git.io/JgkpO
 寰宇新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
 民视第一,mitv://ns1.hellotvvod.com:9906/f4c08ab0f9c748a0b67ecc05f7c785eb
-民视第一,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
+民视第一,mitv://ns1.hellotvvod.com:9906/06881aff3e20473481375a3042737ad5
 民视第一,http://seb.sason.top/ptv/ftv.php?id=dy
-民视台湾,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
-民视台湾,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
-民视台湾,http://seb.sason.top/ptv/ftv.php?id=tw
-靖天戏剧台,P2p://ns2.hellotvvod.com:9906/efad5c2210d44f2585b5bf41eeb63f7e
+
+民视台湾,mitv://ns1.hellotvvod.com:9906/c2370e69686d4c7bba0a1c02709eec47
+
+靖天戏剧台,mitv://ns1.hellotvvod.com:9906/173b337771b24286ba991800ee6373d5
 中视新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
 中视新闻,http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
 靖天卡通,mitv://ns1.hellotvvod.com:9906/31d65bc8b7d64f6dbf612ecf979bfa33
@@ -384,7 +384,7 @@ AXN,mitv://ns2.hellotvvod.com:9906/a6930fcb83344e5bbc709dc0d5dd7f4d
 
 ELEVEN体育二,P2p://ns1.hellotvvod.com:9906/9adaaf14e25e44f0b35741e3df606f24
 亚洲美食频道,P2p://ns2.hellotvvod.com:9906/686ff298f4fe493fb994ff5f1dd28606
-TVBS精采,P2p://ns2.hellotvvod.com:9906/4cd00f68055f471b860a0edc3d3a8390
+TVBS精采,mitv://ns1.hellotvvod.com:9906/48ff10043b1f47aa95af3fda73fc9eed
 TVBS精采,mitv://fccs.word-tv.com:9906/6259b507000647d0151541dfdfa4429f
 博斯运动一台,mitv://ns2.hellotvvod.com:9906/47c9e046ce954e389b4e9c302072111c
 
