@@ -506,3 +506,22 @@ GOODTV旅行HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/li
 GOODTV经典音乐河HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
 
 ##
+民视,#genre#
+民视,mitv://ns1.hellotvvod.com:9906/9bb000477e4f4c16a2e03359c41da127
+民视新闻,mitv://ns1.hellotvvod.com:9906/52d0dcadba8e451fabbb9d29f4a6a4a7
+
+民视第一,mitv://ns1.hellotvvod.com:9906/f4c08ab0f9c748a0b67ecc05f7c785eb
+民视台湾,mitv://ns1.hellotvvod.com:9906/c2370e69686d4c7bba0a1c02709eec47
+
+
+三立,#genre#
+三立台湾,mitv://ns1.hellotvvod.com:9906/0c3718631244496ca4ff61801b4e4a9b
+三立台湾,mitv://ns1.hellotvvod.com:9906/00d945853ca4471091038312564bc445
+
+三立都会,mitv://ns1.hellotvvod.com:9906/3960938758324df59a394ccc793c1652
+三立新闻,mitv://ns1.hellotvvod.com:9906/c3ed2ce5f1754e5d9c106555d03d0a45
+三立inews新聞,mitv://ns1.hellotvvod.com:9906/0b2b37a9aa8448eda3e8b5af740b4ea3
+三立財經,mitv://fccs.word-tv.com:9906/62614b9c0008ec3518c675877b79b6ea
+三立戏剧,mitv://ns1.hellotvvod.com:9906/4593e8ff5a534ca79df84957019bafc4
+
+三立综合,mitv://ns1.hellotvvod.com:9906/d7efc50eb0094e3eb39b3bd2103d3c26
