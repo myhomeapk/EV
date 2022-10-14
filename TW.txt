@@ -11,8 +11,8 @@
 中视经典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
 中视经典,P2p://ns2.hellotvvod.com:9906/6424cd1787da4af09add30805b7b4c9c
 
-中视菁采,P2p://ns1.hellotvvod.com:9906/5b3a623b59cc4ca485164447a50a50d6
-中视菁采,P2p://ns2.hellotvvod.com:9906/d6752e25d9f44020a971d0645942fb21
+中视菁采,mitv://ns1.hellotvvod.com:9906/1c26e0864be441ee9287da441a6f443f
+
 
 CNN,mitv://ns1.hellotvvod.com:9906/5ad95cb617514fa4847d8c4a7d3df58f
 CNN,http://78.83.191.18:8000/play/a07c
