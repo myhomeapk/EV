@@ -282,7 +282,7 @@ ESPN,http://69.164.224.53:80/ESPN/mpegts
 公视2,mitv://ns2.hellotvvod.com:9906/880f30819a57477da523ea73d2cdc131
 
 佛卫慈悲台,mitv://ns1.hellotvvod.com:9906/b612a0defbd0455fa45574d3c2998af8
-EVE,http://210.201.54.102/live2/Dhome_sp.sdp/playlist.m3u8
+EVE,mitv://ns1.hellotvvod.com:9906/0cc303d9645546d6af5dc3fd9b6992e0
 
 人间卫视,mitv://ns1.hellotvvod.com:9906/c7103ee68ca04b519038b7e1acc94dc6
 人间卫视,http://218.32.47.179:8506/http/192.168.1.9:8081/hls/69/811/ch36.m3u8
