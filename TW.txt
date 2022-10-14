@@ -214,7 +214,7 @@ AXN,mitv://ns1.hellotvvod.com:9906/ead2ab5a3ebf4782acf83192185af6f2
 纬来体育,http://60.251.33.252:18509/.m3u8
 纬来体育,P2p://ns2.hellotvvod.com:9906/075079fbad33416e963d959bcf29b28e
 纬来体育,http://218.32.47.179:18563/http/192.168.1.9:8081/hls/67/809/ch28.m3u8
-
+ESPN,mitv://ns1.hellotvvod.com:9906/6402c9d79a434c91a461708fd9b40d74
 
 新唐人亚太,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
 SBN全球财经,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
@@ -231,8 +231,6 @@ ELEVEN_SPORTS2,ELEVEN_SPORTS1,P2p://ns2.hellotvvod.com:9906/56f78b012ab5497cbcf9
 国兴卫视,mitv://ns1.hellotvvod.com:9906/09e8b4274b0b401291993df97fd8a6e8
 国兴卫视,mitv://fccs.word-tv.com:9906/6258dc9e0003580511c7e6f78e3b1759
 Z频道,mitv://ns1.hellotvvod.com:9906/aa071bf4964442028c10e37ce1e3b803
-海豚综合,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
-華視新聞資訊,http://218.32.47.179:8538/http/192.168.1.9:8081/hls/61/803/ch03.m3u8
 
 東風衛視,http://218.32.47.179:18528/http/192.168.1.9:8081/hls/68/810/ch31.m3u8
 ALJAZEERA,mitv://ns1.hellotvvod.com:9906/fca9c04a2271402b8e9e8dccd95064a8
@@ -512,6 +510,9 @@ GOODTV经典音乐河HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_de
 
 民视第一,mitv://ns1.hellotvvod.com:9906/f4c08ab0f9c748a0b67ecc05f7c785eb
 民视台湾,mitv://ns1.hellotvvod.com:9906/c2370e69686d4c7bba0a1c02709eec47
+民视综艺,http://210.201.54.102/live2/program_sp.sdp/playlist.m3u8
+民视影剧,http://210.201.54.102/live2/drama_sp.sdp/playlist.m3u8
+民视旅游,http://210.201.54.102/live2/ftvtravel_sp.sdp/playlist.m3u8
 
 
 三立,#genre#
@@ -525,3 +526,14 @@ GOODTV经典音乐河HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_de
 三立戏剧,mitv://ns1.hellotvvod.com:9906/4593e8ff5a534ca79df84957019bafc4
 
 三立综合,mitv://ns1.hellotvvod.com:9906/d7efc50eb0094e3eb39b3bd2103d3c26
+
+美食,#genre#
+美食星球,mitv://ns1.hellotvvod.com:9906/5d281d42a1d14c778d8336e783dfcd76
+亚洲美食频道,mitv://ns1.hellotvvod.com:9906/cc0554d0926f43748414640044e38d1f
+亚洲美食频道,mitv://ns1.hellotvvod.com:9906/cc0554d0926f43748414640044e38d1f
+
+旅游,#genre#
+EYE TV旅游,mitv://ns1.hellotvvod.com:9906/b7f96bc6b54f4d9b88b2bad12bd8ce36
+亚洲旅游,mitv://ns1.hellotvvod.com:9906/4a9c5931e2624b6095ccd882b04fa9ba
+Food Network,mitv://ns1.hellotvvod.com:9906/d55b4da2e44f428e931607cce4018bf7
+TLC旅游,mitv://ns1.hellotvvod.com:9906/42ab8f7668be42d282993b669425d2ca
