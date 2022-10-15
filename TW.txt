@@ -137,8 +137,7 @@ HGTV居家乐活频道,mitv://ns1.hellotvvod.com:9906/1d49d97b20df4655a5cb813f96
 
 八大戏剧,mitv://ns1.hellotvvod.com:9906/668eab360e1a4963a2d8eb199b52bc24
 八大戏剧,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
-八大戏剧,http://50.7.220.74:8278/badadrama/playlist.m3u8?
-八大戏剧,P2p://ns2.hellotvvod.com:9906/ee1c766f5309492382044f658b576899
+
 
 TVBS欢乐,mitv://ns1.hellotvvod.com:9906/3802b09128df4b76b7083eeaa99e997d
 TVBS欢乐,http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C2318787923187879&ct=19193&tsum=394d2b9af3df7846e2cdc60d69dd4219
@@ -465,7 +464,7 @@ Baby TV,http://218.32.47.179:18514/http/192.168.1.9:8078/hls/35/80/babytv.m3u8
 NHK综合,https://nhk1.mov3.co/hls/nhk.m3u8
 NHK华语视界,mitv://ns1.hellotvvod.com:9906/6a8f9c8e1575487297b47771f15e050d
 
-八大戲劇FHD,http://218.32.47.179:18531/http/192.168.1.9:8081/hls/66/808/ch23.m3u8
+
 MUCH TV,http://218.32.47.179:18529/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
 
 LiveABC互动英语,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
