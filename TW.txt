@@ -522,9 +522,10 @@ GOODTV经典音乐河HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_de
 美食星球,mitv://ns1.hellotvvod.com:9906/5d281d42a1d14c778d8336e783dfcd76
 亚洲美食频道,mitv://ns1.hellotvvod.com:9906/cc0554d0926f43748414640044e38d1f
 亚洲美食频道,mitv://ns1.hellotvvod.com:9906/cc0554d0926f43748414640044e38d1f
+Food Network,mitv://ns1.hellotvvod.com:9906/d55b4da2e44f428e931607cce4018bf7
 
 旅游,#genre#
 EYE TV旅游,mitv://ns1.hellotvvod.com:9906/b7f96bc6b54f4d9b88b2bad12bd8ce36
 亚洲旅游,mitv://ns1.hellotvvod.com:9906/4a9c5931e2624b6095ccd882b04fa9ba
-Food Network,mitv://ns1.hellotvvod.com:9906/d55b4da2e44f428e931607cce4018bf7
+
 TLC旅游,mitv://ns1.hellotvvod.com:9906/42ab8f7668be42d282993b669425d2ca
