@@ -166,7 +166,7 @@ TVBS,mitv://ns1.hellotvvod.com:9906/6f1ede1d1a864d25af99ee89f3ec6c01
 
 非凡新闻,mitv://ns1.hellotvvod.com:9906/0c64a30ef8da4652a484e0a0a560055b
 
-天映經典,mitv://ns1.hellotvvod.com:9906/0978c2b40db64e99abe994f972af7275
+天映經典,http://akm-tct.douyucdn.cn/live/4246519rBDNfgQ00_2000.m3u8
 
 天映频道,mitv://ns1.hellotvvod.com:9906/3ce19e516d78487c8f18826ac4df3da2
 
