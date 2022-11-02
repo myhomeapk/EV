@@ -20,11 +20,7 @@ CNN,http://red.ipfox.org:8080/osama2022/osama2023/48790
 CNN,http://red.ip.org:8080/osama2022/osama2023/49062
 CNN,P2p://ns2.hellotvvod.com:9906/fc613681ff784ae59a30ba7c9ed3efb0
 
-民视,mitv://ns1.hellotvvod.com:9906/9bb000477e4f4c16a2e03359c41da127
-民视,rtmp://59.124.75.150/sat/tv051
-民视,P2p://ns2.hellotvvod.com:9906/5121c7a5b7844be693683f5210c45cf4
-民视,http://220.134.196.147:9504/hls/73/815/ch49.m3u8
-民视,http://59.125.101.187:8714/http/192.168.77.24:8081/hls/73/815/ch49.m3u8?
+民视,https://t.me/dianshizhibofenxiang001/22805
 
 猪哥亮歌厅秀,http://210.201.54.102/live2/pig_sp.sdp/playlist.m3u8
 
@@ -100,8 +96,8 @@ MOMO亲子,mitv://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
 八大综合,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
 八大综合,P2p://ns2.hellotvvod.com:9906/1a4ba7fe00e447aa807a4af55bf360b7
 
-三立台湾,mitv://ns1.hellotvvod.com:9906/0c3718631244496ca4ff61801b4e4a9b
-三立台湾,mitv://ns1.hellotvvod.com:9906/00d945853ca4471091038312564bc445
+三立台湾,https://t.me/dianshizhibofenxiang001/22806
+
 
 三立都会,mitv://ns1.hellotvvod.com:9906/3960938758324df59a394ccc793c1652
 镜新闻,mitv://ns1.hellotvvod.com:9906/1c04ab83c99a4c8d8a9a7e3fed47a3d4
@@ -139,9 +135,8 @@ HGTV居家乐活频道,mitv://ns1.hellotvvod.com:9906/1d49d97b20df4655a5cb813f96
 八大戏剧,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
 
 
-TVBS欢乐,mitv://ns1.hellotvvod.com:9906/3802b09128df4b76b7083eeaa99e997d
-TVBS欢乐,http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C2318787923187879&ct=19193&tsum=394d2b9af3df7846e2cdc60d69dd4219
-TVBS欢乐,mitv://fccs.word-tv.com:9906/62585f330007fbe70fddfe2f12feb8b6
+TVBS欢乐,https://t.me/dianshizhibofenxiang001/22806
+
 
 纬来戏剧,mitv://ns1.hellotvvod.com:9906/f05bb6a079c649ad9078d3ef6dc9c496
 
@@ -161,7 +156,7 @@ DW,mitv://ns1.hellotvvod.com:9906/ecc5fb058fdd4f9792dc99cc7d7189f7
 
 东森新闻,mitv://ns1.hellotvvod.com:9906/cf0d53d6f3294f71a7c18e40d5337778
 
-中天新闻,mitv://ns1.hellotvvod.com:9906/dacf24afe13141e5a29fa8f401a04905
+中天新闻,https://t.me/dianshizhibofenxiang001/22832
 
 民视新闻,mitv://ns1.hellotvvod.com:9906/52d0dcadba8e451fabbb9d29f4a6a4a7
 
