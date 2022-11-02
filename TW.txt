@@ -16,7 +16,7 @@
 
 CNN,https://t.me/dianshizhibofenxiang001/22805
 
-民视,https://t.me/dianshizhibofenxiang001/22805
+民视,http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
 
 猪哥亮歌厅秀,http://210.201.54.102/live2/pig_sp.sdp/playlist.m3u8
 
@@ -486,7 +486,7 @@ GOODTV经典音乐河HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_de
 
 ##
 民视,#genre#
-民视,https://t.me/dianshizhibofenxiang001/22805
+民视,http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
 民视新闻,https://t.me/dianshizhibofenxiang001/22805
 
 民视第一,mitv://ns1.hellotvvod.com:9906/f4c08ab0f9c748a0b67ecc05f7c785eb
