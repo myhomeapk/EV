@@ -14,11 +14,7 @@
 中视菁采,mitv://ns1.hellotvvod.com:9906/1c26e0864be441ee9287da441a6f443f
 
 
-CNN,mitv://ns1.hellotvvod.com:9906/5ad95cb617514fa4847d8c4a7d3df58f
-CNN,http://78.83.191.18:8000/play/a07c
-CNN,http://red.ipfox.org:8080/osama2022/osama2023/48790
-CNN,http://red.ip.org:8080/osama2022/osama2023/49062
-CNN,P2p://ns2.hellotvvod.com:9906/fc613681ff784ae59a30ba7c9ed3efb0
+CNN,https://t.me/dianshizhibofenxiang001/22805
 
 民视,https://t.me/dianshizhibofenxiang001/22805
 
