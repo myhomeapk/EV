@@ -486,8 +486,8 @@ GOODTV经典音乐河HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_de
 
 ##
 民视,#genre#
-民视,mitv://ns1.hellotvvod.com:9906/9bb000477e4f4c16a2e03359c41da127
-民视新闻,mitv://ns1.hellotvvod.com:9906/52d0dcadba8e451fabbb9d29f4a6a4a7
+民视,https://t.me/dianshizhibofenxiang001/22805
+民视新闻,https://t.me/dianshizhibofenxiang001/22805
 
 民视第一,mitv://ns1.hellotvvod.com:9906/f4c08ab0f9c748a0b67ecc05f7c785eb
 民视台湾,mitv://ns1.hellotvvod.com:9906/c2370e69686d4c7bba0a1c02709eec47
