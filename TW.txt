@@ -25,7 +25,7 @@ CNN,https://t.me/dianshizhibofenxiang001/22805
 台视,http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
 台视,http://123.51.229.65:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
 
-大爱,mitv://ns1.hellotvvod.com:9906/0598d5b49b544ebc8050fa86b664337f
+大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱,http://50.7.220.74:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
 大爱,http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
 
@@ -305,10 +305,10 @@ Cbeebies,P2p://ns2.hellotvvod.com:9906/2d2fb160a3de4f05948706b7324e2e3f
 
 华纳电影,mitv://ns1.hellotvvod.com:9906/39ee381a171c4ac4895de9e52f186974
 
-大爱2,mitv://ns1.hellotvvod.com:9906/aab2637e02934f63a01b52785883a6c2
+大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大爱2,P2p://ns2.hellotvvod.com:9906/33799718b3df426d8cc3e363314e708a
 
-好消息2,mitv://ns1.hellotvvod.com:9906/0d7795d0f2984a8fa49079b677a85d52
+好消息2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 
 
 BBC Earth,mitv://ns1.hellotvvod.com:9906/a0a3eeb02ba3418e8dcc9c491d498e75
