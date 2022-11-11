@@ -93,7 +93,7 @@ MOMO亲子,mitv://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
 
 
 三立都会,mitv://ns1.hellotvvod.com:9906/3960938758324df59a394ccc793c1652
-镜新闻,mitv://ns1.hellotvvod.com:9906/1c04ab83c99a4c8d8a9a7e3fed47a3d4
+镜新闻,http://tv.redrainl.site:9500/live.m3u8?c=28
 
 东森综合,mitv://ns1.hellotvvod.com:9906/c08748e8a69845a4be83e98f53bb7378
 东森综合,mitv://ns2.hellotvvod.com:9906/5a09ebab7ef941a9a533becbdca6a480
@@ -171,7 +171,7 @@ EYE TV旅游,http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c
 
 卫视电影,mitv://ns1.hellotvvod.com:9906/af0a170704a0485890dc58eb98235800
 
-东森电影,mitv://ns1.hellotvvod.com:9906/af0a170704a0485890dc58eb98235800
+东森电影,http://120.84.96.66:808/hls/32/index.m3u8?blog.ntnas.top
 
 纬来电影,mitv://ns1.hellotvvod.com:9906/d52f97bdd0d04c8298c9018bdb3f023a
 
