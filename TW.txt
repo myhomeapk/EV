@@ -76,10 +76,7 @@ MOMO亲子,mitv://ns1.hellotvvod.com:9906/9e648fb320ba46be98dc26227341ac2f
 MOMO亲子,P2p://ns2.hellotvvod.com:9906/47857819b1ca4487b782925e9b241826
 MOMO亲子,mitv://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
 
-东森幼幼,mitv://ns1.hellotvvod.com:9906/1da44ba51a234ce6bd26154cc931af68
-东森幼幼,P2p://ns2.hellotvvod.com:9906/c2b6515c32914110bfe2a9ac962855ff
-东森幼幼,mitv://fccs.word-tv.com:9906/62584f92000033490fa0ef49c819efa3
-东森幼幼,http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
+东森幼幼,http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=19225&tsum=e95304aa3743de8d4f23a23642d4d8a5
 
 纬来综合,mitv://ns1.hellotvvod.com:9906/3f0c5d3d62ae477296c92e4361c7a972
 纬来综合,P2p://ns2.hellotvvod.com:9906/ed6e65e04b874768aa4b0325efc2e7fc
@@ -131,7 +128,7 @@ HGTV居家乐活频道,mitv://ns1.hellotvvod.com:9906/1d49d97b20df4655a5cb813f96
 八大戏剧,http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
 
 
-TVBS欢乐,https://t.me/dianshizhibofenxiang001/22806
+TVBS欢乐,http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
 
 
 纬来戏剧,mitv://ns1.hellotvvod.com:9906/f05bb6a079c649ad9078d3ef6dc9c496
@@ -158,9 +155,9 @@ DW,mitv://ns1.hellotvvod.com:9906/ecc5fb058fdd4f9792dc99cc7d7189f7
 
 三立新闻,mitv://ns1.hellotvvod.com:9906/c3ed2ce5f1754e5d9c106555d03d0a45
 
-TVBS新闻,mitv://ns1.hellotvvod.com:9906/85edca8cca3a4669866401756e6b0fc9
+TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 
-TVBS,mitv://ns1.hellotvvod.com:9906/6f1ede1d1a864d25af99ee89f3ec6c01
+TVBS,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 
 东森财经新闻,mitv://ns1.hellotvvod.com:9906/9eb1fdffe05a4263babfc5407981c9c5
 
@@ -168,7 +165,7 @@ TVBS,mitv://ns1.hellotvvod.com:9906/6f1ede1d1a864d25af99ee89f3ec6c01
 
 天映經典,http://akm-tct.douyucdn.cn/live/4246519rBDNfgQ00_2000.m3u8
 
-天映频道,mitv://ns1.hellotvvod.com:9906/3ce19e516d78487c8f18826ac4df3da2
+天映频道,http://51.79.82.208:16024
 
 EYE TV旅游,http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
 
@@ -487,8 +484,7 @@ GOODTV经典音乐河HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_de
 ##
 民视,#genre#
 民视,http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
-民视新闻,http://50.7.220.74:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
-
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民视第一,mitv://ns1.hellotvvod.com:9906/f4c08ab0f9c748a0b67ecc05f7c785eb
 民视台湾,mitv://ns1.hellotvvod.com:9906/c2370e69686d4c7bba0a1c02709eec47
 民视综艺,http://210.201.54.102/live2/program_sp.sdp/playlist.m3u8
