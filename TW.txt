@@ -20,7 +20,7 @@ CNN,https://t.me/dianshizhibofenxiang001/22805
 
 猪哥亮歌厅秀,http://210.201.54.102/live2/pig_sp.sdp/playlist.m3u8
 
-台视,mitv://ns1.hellotvvod.com:9906/ffb7d550882c4127a773793376143666
+台视,http://198.16.64.10:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
 台视,P2p://ns2.hellotvvod.com:9906/5afa39dd453d4b46bd2f46beef034298
 台视,http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970
 台视,http://123.51.229.65:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
