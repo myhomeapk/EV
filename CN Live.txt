@@ -82,22 +82,22 @@ TVBSHD,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 澳视葡文,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 
 SPORT,#genre#
-Eurosport 1,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159559
-Eurosport 2,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159560
-Sky Sport 24,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159565
-Sky Sport F1,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159567
-Sky Sport Football,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159568
-Sky Sport Golf,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159569
-Sky Sport MotoGP,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159570
-Sky Sport NBA,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/161954
-Sky Sport Arena,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/161955
-Sky Sport Uno,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159572
-Sportitalia,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159573
-Super Tennis,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159574
-Tennis Channel,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159575
-Eleven Sports 1 HD,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159576
-Eleven Sports 2 HD,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159577
-Eleven Sports 3 HD,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159578
-Eleven Sports 4 HD,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159579
-Eleven Sports 5 HD,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159580
-Eleven Sports 6 HD,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159581
+
+Sport Extra 3,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/94869
+EuroSport 1 HD,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/94908
+EuroSport 2,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/94909
+Free Sports,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/94918
+Sky Sport Action HD,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/94996
+Sky Sport Arena HD,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/94997
+Sky Sport Cricket HD,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/94999
+Sky Sport F1 HD,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/95001
+Sky Sport Racing,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/94827
+Sky Sport Football HD,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/95002
+Sky Sport Golf HD,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/95004
+Sky Sport Main Events HD,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/95006
+Sky Sport News,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/95007
+Sky Sport Premier League HD,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/95009
+Sky Sports MIX,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/95010
+Bt Sport 1 HD,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/95052
+BT Sport 3 HD,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/95055
+BT Sport 2 HD,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/95053
