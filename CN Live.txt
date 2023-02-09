@@ -1,8 +1,6 @@
 CHINA,#genre#
 民視,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
-民視,http://198.16.64.10:8278/ftvhd_taiwan/playlist.m3u8?
-民視,http://198.16.64.10:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
-民視,http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
+
 三立台灣,http://50.7.168.234:8278/sanlitaiwan/playlist.m3u8?tid=MD3D6272113862721138&ct=19344&tsum=67db4abe16d57b8ac1ca573eab42c5e4
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225762/index.m3u8
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
