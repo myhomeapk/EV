@@ -1,7 +1,7 @@
 CHINA,#genre#
 民視,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
 Baby TV,http://198.16.64.10:8278/Babytv/playlist.m3u8
-
+EYETV旅遊,http://198.16.64.10:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
 博斯無限,http://www.336699.live:1935/blockfour/litv-longturn10.stream/playlist.m3u8
 博斯網球,http://www.336699.live:1935/blockfour/litv-longturn09.stream/playlist.m3u8
 
