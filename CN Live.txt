@@ -1,6 +1,9 @@
 CHINA,#genre#
 民視,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
 
+博斯無限,http://www.336699.live:1935/blockfour/litv-longturn10.stream/playlist.m3u8
+博斯網球,http://www.336699.live:1935/blockfour/litv-longturn09.stream/playlist.m3u8
+
 三立台灣,http://50.7.168.234:8278/sanlitaiwan/playlist.m3u8?
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225762/index.m3u8
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
