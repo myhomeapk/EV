@@ -279,7 +279,7 @@ Bt Sport 1 HD,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/95052
 BT Sport 3 HD,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/95055
 BT Sport 2 HD,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/95053
 
-USA SPORTS
+USA SPORTS,#genre#
 CBS Sports Network,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159523
 ELEVEN SPORTS,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159524
 ESPN HD,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159525
