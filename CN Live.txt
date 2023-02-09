@@ -81,8 +81,7 @@ TVBSHD,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 澳视葡文,http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
 澳视葡文,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 
-SPORT,#genre#
-
+UK SPORTS,#genre#
 Sport Extra 3,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/94869
 EuroSport 1 HD,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/94908
 EuroSport 2,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/94909
@@ -101,3 +100,29 @@ Sky Sports MIX,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/95010
 Bt Sport 1 HD,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/95052
 BT Sport 3 HD,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/95055
 BT Sport 2 HD,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/95053
+
+USA SPORTS
+CBS Sports Network,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159523
+ELEVEN SPORTS,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159524
+ESPN HD,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159525
+ESPN News,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159526
+ESPNU,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159527
+Fox College Sports Pacific,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159528
+Fox Deportes HD,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159529
+Fox Sports Midwest,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159530
+Fox Sports Oklahoma,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159531
+Fox Sports Racing,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159532
+FS1 Football HD,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159533
+FTF Free Sports,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159534
+Golf Channel,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159535
+MavTV Motorsports Network,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159536
+NBC Sports Bay Area,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159537
+NBC Sports Boston,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159538
+NBC Sports Chicago Plus,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159540
+NBC Sports Washington,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159541
+Olympic Channel,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159542
+PAC 12 Bay Area,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159543
+PAC 12 Los Angeles,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159544
+PAC 12 Mountain,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159545
+SportsGrid,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159547
+Tennis Channel,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159549
