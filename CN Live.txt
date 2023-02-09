@@ -84,3 +84,14 @@ TVBSHD,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 SPORT,#genre#
 Eurosport 1,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159559
 Eurosport 2,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159560
+Sky Sport 24,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159565
+Sky Sport F1,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159567
+Sky Sport Football,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159568
+Sky Sport Golf,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159569
+Sky Sport MotoGP,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159570
+Sky Sport NBA,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/161954
+Sky Sport Arena,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/161955
+Sky Sport Uno,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159572
+Sportitalia,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159573
+Super Tennis,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159574
+Tennis Channel,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159575
