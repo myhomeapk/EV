@@ -243,8 +243,7 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 民视台湾,http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
 东風37,http://123.51.230.108:18560/.m3u8
 东森超视34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-东森购物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
-东森购物3,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+
 华视CH12 HD,http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
 华视综合娱乐,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 华视综合娱乐,https://ytm2.yuanhsing.cf/ctsprog.m3u8
