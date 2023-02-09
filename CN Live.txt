@@ -81,3 +81,6 @@ TVBSHD,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 澳视葡文,http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
 澳视葡文,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 
+SPORT,#genre#
+Eurosport 1,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159559
+Eurosport 2,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159560
