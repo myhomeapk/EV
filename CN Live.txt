@@ -135,33 +135,10 @@ NewTV金牌综艺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212257
 HONG KONG,#genre#
 天映頻道,http://210.210.155.37/dr9445/h/h14/index.m3u8
 天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
-翡翠台,http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8 
-翡翠台,http://2022.stream-link.org/playlist/tvb_jade
-翡翠台,http://23.237.10.66:16106
-翡翠台,http://2023.stream-link.org/playlist/tvb_jade
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://jydx.jdshipin.com:8081/hls/67/index.m3u8
+
 翡翠台,http://23.237.10.66:16106
 翡翠台,http://23.237.10.66:16106
-华丽台,http://23.237.10.66:16410
-华丽台,http://2022.stream-link.org/playlist/astro_jade
-华丽台,http://23.237.10.66:16410
-华丽台,http://23.237.10.66:16410
-TV8,http://137.175.36.206:8188/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
-TV8,http://2022.stream-link.org/playlist/8tv
-TVB星河,http://jydx.jdshipin.com:8081/hls/135/index.m3u8
-TVB星河,http://119.140.58.216:9901/hls/12/index.m3u8
-TVB星河,http://27.47.71.135:8811/hls/35/index.m3u8
-TVB星河,http://27.47.71.136:8811/hls/35/index.m3u8
-TVB星河,http://27.47.71.153:8811/hls/35/index.m3u8
-TVB星河,http://27.47.71.171:8811/hls/35/index.m3u8
-TVB星河,http://27.47.71.177:8811/hls/35/index.m3u8
-TVB星河,http://27.47.71.174:8811/hls/35/index.m3u8
-民视,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
 民视,http://23.237.10.66:16334
-民视,http://107.151.203.111:2209/135/us50.php?id=msk
-民视,http://137.175.36.206:8188/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
-民视,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
 
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
