@@ -397,6 +397,7 @@ Liberty Мульт 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/18051/inde
 
 世界,#genre#
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+CNA新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
 CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8?zshijd
 CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8?zshijd
@@ -416,6 +417,5 @@ CGTN(Opt_1),http://live.cgtn.com/500/prog_index.m3u8?zshijd
 韩国TBS,http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8?zshijd
 韩国职业广播,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8?zshijd
 日本NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8?zshijd
-CNA新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 
-天映频道,http://w.nasvpn.xyz:8080/live/saya/saya/16568.ts?blog.ntnas.m3u8
+
