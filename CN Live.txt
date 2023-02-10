@@ -136,6 +136,13 @@ HONG KONG,#genre#
 WWE,http://137.175.36.206:8188/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
 天映頻道,http://210.210.155.37/dr9445/h/h14/index.m3u8
 天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
+动物星球,http://pull-l3-cny.douyincdn.com/third/stream-eac374df3c06e8985d587224a056f483.m3u8
+动物星球,http://www.yshmzmc.top/gtjm.php?id=live1004
+DMAX,http://pull-l3-cny.douyincdn.com/third/stream-ea6907626f7d64aa61e5ebf88180e43d.m3u8
+DMAX,http://137.175.36.206:8188/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
+DMAX,http://137.175.36.206:8188/discoveryturbo_twn/playlist.m3u8?tid=MD5D5964869459648694&ct=19225&tsum=a21251b62069dff5c52601a3e4bc4a6d
+探索科学,http://pull-l3-cny.douyincdn.com/third/stream-2ce10c5078ec753f8f50f4c3897e8f76.m3u8
+探索科学,http://137.175.36.206:8188/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
 
 翡翠台,http://23.237.10.66:16106
 翡翠台,http://23.237.10.66:16106
@@ -146,25 +153,8 @@ WWE,http://137.175.36.206:8188/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct
 民视,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
 
 
-TVBS HD,http://2023.stream-link.org/playlist/tvbs
-TVBS HD,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
-TVBS HD,http://137.175.36.206:8188/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
-TVBS HD,http://137.175.36.206:8188/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
-TVBS歡樂台HD,http://137.175.36.206:8188/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
-TVBS歡樂台HD,http://137.175.36.206:8188/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
-TVBS歡樂台HD,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
-TVBS新闻,http://2023.stream-link.org/playlist/tvbs_news
-TVBS新闻,http://137.175.36.206:8188/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
-TVBS新闻,http://www.336699.live:1935/blocksix/4gtv-live072.stream/chunklist.m3u8
-TVBS新闻,http://line.premiumpowers.net:80/Manuel/1234567/941622
-TVBS新闻,http://2023.stream-link.org/playlist/tvbs_news
-TVBS新闻,http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
-TVBS新闻,http://line.premiumpowers.net:80/Manuel/1234567/941622
-TVBS亚洲台,http://line.premiumpowers.net:80/Manuel/1234567/941621
-TVBS亚洲台,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
-影迷数位电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
-影迷数位电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/.m3u8
+
+
 
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
