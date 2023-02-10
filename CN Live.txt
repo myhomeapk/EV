@@ -418,4 +418,85 @@ CGTN(Opt_1),http://live.cgtn.com/500/prog_index.m3u8?zshijd
 韩国职业广播,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8?zshijd
 日本NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8?zshijd
 
-
+测试1,#genre#
+HBO,http://line.premiumpowers.net:80/Manuel/1234567/941648
+HBO家庭,http://line.premiumpowers.net:80/Manuel/1234567/941646
+HBO原创,http://line.premiumpowers.net:80/Manuel/1234567/941645
+HBO强档,http://line.premiumpowers.net:80/Manuel/1234567/941647
+AXN,http://line.premiumpowers.net:80/Manuel/1234567/941660
+CINEMAX,http://line.premiumpowers.net:80/Manuel/1234567/941659
+HITS MOVIES,http://line.premiumpowers.net:80/Manuel/1234567/941606
+ANIMAX,http://line.premiumpowers.net:80/Manuel/1234567/941676
+ROCK,http://line.premiumpowers.net:80/Manuel/1234567/941643
+CCM经典,http://line.premiumpowers.net:80/Manuel/1234567/941639
+天映,http://line.premiumpowers.net:80/Manuel/1234567/941618
+卫视电影台,http://line.premiumpowers.net:80/Manuel/1234567/941625
+NOW紫金国际台,http://line.premiumpowers.net:80/Manuel/1234567/941630
+NOW MAKE,http://line.premiumpowers.net:80/Manuel/1234567/941655
+NET WORK,http://line.premiumpowers.net:80/Manuel/1234567/941654
+TVB 1,http://line.premiumpowers.net:80/Manuel/1234567/153396
+TVB E,http://line.premiumpowers.net:80/Manuel/1234567/153398
+无线新闻,http://line.premiumpowers.net:80/Manuel/1234567/153399
+TVB 戏剧,http://line.premiumpowers.net:80/Manuel/1234567/153400
+TVB 翡翠,http://line.premiumpowers.net:80/Manuel/1234567/153401
+F新时代1,http://line.premiumpowers.net:80/Manuel/1234567/90351
+F新时代2,http://line.premiumpowers.net:80/Manuel/1234567/90352
+TVB星河,http://line.premiumpowers.net:80/Manuel/1234567/941620
+翡翠 海外版,http://line.premiumpowers.net:80/Manuel/1234567/941619
+TVBS新闻,http://line.premiumpowers.net:80/Manuel/1234567/941622
+UHB都会,http://line.premiumpowers.net:80/Manuel/1234567/941649
+UHB都会,http://line.premiumpowers.net:80/Manuel/1234567/941650
+UHB都会,http://line.premiumpowers.net:80/Manuel/1234567/941633
+UHB都会,http://line.premiumpowers.net:80/Manuel/1234567/941632
+UHB娱家,http://line.premiumpowers.net:80/Manuel/1234567/941651
+UHB娱家,http://line.premiumpowers.net:80/Manuel/1234567/941634
+HISTORY,http://line.premiumpowers.net:80/Manuel/1234567/941661
+爱自然,http://line.premiumpowers.net:80/Manuel/1234567/941663
+WB TV,http://line.premiumpowers.net:80/Manuel/1234567/941652
+国家地理1,http://line.premiumpowers.net:80/Manuel/1234567/941664
+国家地理2,http://line.premiumpowers.net:80/Manuel/1234567/941665
+CRIME+,http://line.premiumpowers.net:80/Manuel/1234567/941666
+BBC earth,http://line.premiumpowers.net:80/Manuel/1234567/941667
+BBC lifesyle,thttp://line.premiumpowers.net:80/Manuel/1234567/941668
+NICK JR,http://line.premiumpowers.net:80/Manuel/1234567/941670
+NICK CLODEON,http://line.premiumpowers.net:80/Manuel/1234567/941671
+BBC CBEEBIES,http://line.premiumpowers.net:80/Manuel/1234567/941672
+CART NITO,http://line.premiumpowers.net:80/Manuel/1234567/941673
+BABY FIRST,http://line.premiumpowers.net:80/Manuel/1234567/941675
+FTV,http://line.premiumpowers.net:80/Manuel/1234567/941677
+HUB SPORTS4,http://line.premiumpowers.net:80/Manuel/1234567/941681
+ABC AUSTRALIA,http://line.premiumpowers.net:80/Manuel/1234567/941682
+FOX NEWS, http://line.premiumpowers.net:80/Manuel/1234567/941685
+DW NEWS,http://line.premiumpowers.net:80/Manuel/1234567/941687
+CNBC NEWS,http://line.premiumpowers.net:80/Manuel/1234567/941689
+CNN LIVE,http://line.premiumpowers.net:80/Manuel/1234567/941690
+BBC WORLD NEWS,http://line.premiumpowers.net:80/Manuel/1234567/941693
+亚洲旅游,http://line.premiumpowers.net:80/Manuel/1234567/941640
+迪士尼卡通,http://line.premiumpowers.net:80/Manuel/1234567/941656
+YTV,http://line.premiumpowers.net:80/Manuel/1234567/941657
+CINEMA WORLD,http://line.premiumpowers.net:80/Manuel/1234567/941658
+KBS WORLD,http://line.premiumpowers.net:80/Manuel/1234567/941631
+KBS WORLD,http://line.premiumpowers.net:80/Manuel/1234567/941604
+UHB剧场首选,http://line.premiumpowers.net:80/Manuel/1234567/941638
+GEM,http://line.premiumpowers.net:80/Manuel/1234567/941635
+GEM,http://line.premiumpowers.net:80/Manuel/1234567/941608
+2ND,http://line.premiumpowers.net:80/Manuel/1234567/941636
+TVBS亚洲台,http://line.premiumpowers.net:80/Manuel/1234567/941621
+TVN,http://line.premiumpowers.net:80/Manuel/1234567/941623
+卫视中文台,http://line.premiumpowers.net:80/Manuel/1234567/941624
+ONE,http://line.premiumpowers.net:80/Manuel/1234567/941628
+ONE,http://line.premiumpowers.net:80/Manuel/1234567/941601
+ONE,http://line.premiumpowers.net:80/Manuel/1234567/941602
+NHK,http://line.premiumpowers.net:80/Manuel/1234567/941610
+SONGS,http://line.premiumpowers.net:80/Manuel/1234567/941611
+8TV,http://line.premiumpowers.net:80/Manuel/1234567/941616
+MEDIACORP,http://line.premiumpowers.net:80/Manuel/1234567/941617
+CITSA,http://line.premiumpowers.net:80/Manuel/1234567/941612
+KARISMA,http://line.premiumpowers.net:80/Manuel/1234567/941605
+ASTRO WARNA,http://line.premiumpowers.net:80/Manuel/1234567/941609
+SUN MUSIC,http://line.premiumpowers.net:80/Manuel/1234567/941590
+SUN TV,http://line.premiumpowers.net:80/Manuel/1234567/941591
+SONY MAX,http://line.premiumpowers.net:80/Manuel/1234567/941592
+SONY TV,http://line.premiumpowers.net:80/Manuel/1234567/941593
+NDTV,http://line.premiumpowers.net:80/Manuel/1234567/941594
+KTV,http://line.premiumpowers.net:80/Manuel/1234567/941595
