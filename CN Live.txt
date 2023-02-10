@@ -133,6 +133,8 @@ NewTV金牌综艺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212257
 
 
 HONG KONG,#genre#
+翡翠台,http://pull-l3-cny.douyincdn.com/third/stream-1f41fa6570c0c2fe39fef0752f76de81.m3u8
+八度空间,http://51.79.82.208:16005
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8
