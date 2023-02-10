@@ -247,14 +247,20 @@ HONG KONG,#genre#
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8  
 
+澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
+澳门Macau,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
+澳门Macau,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
+澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8 
+澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+澳视葡文,http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
+澳视葡文,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+
 TAIWAN,#genre#
 
 天映頻道,http://210.210.155.37/dr9445/h/h14/index.m3u8
 天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
 民视,http://23.237.10.66:16334
 民视,http://107.151.203.111:2209/135/us50.php?id=msk
-
-
 民视新闻 HD,http://tv.redrainl.site:9500/live.m3u8?c=1
 台视新闻 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台视新闻 HD,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -399,15 +405,10 @@ EF运通,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
 台湾番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 台湾番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 采昌影劇台,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
+ELTA体育2台,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
 
 
-澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
-澳门Macau,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
-澳门Macau,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
-澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8 
-澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
-澳视葡文,http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
-澳视葡文,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+
 
 UK SPORTS,#genre#
 Sport Extra 3,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/94869
@@ -430,11 +431,6 @@ Olympic Channel,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159542
 PAC 12 Bay Area,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159543
 SportsGrid,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159547
 Tennis Channel,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159549
-
-🍺体育,#genre#
-ELTA体育2台,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
-ELEVEN體育2台,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
-
 
 4K Rojak,#genre#
 CCTV5-高清,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
