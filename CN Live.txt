@@ -419,8 +419,5 @@ CGTN(Opt_1),http://live.cgtn.com/500/prog_index.m3u8?zshijd
 日本NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8?zshijd
 
 测试1,#genre#
-華麗(翡翠)台,http://2022.stream-link.org/playlist/astro_jade
-八度空間,http://2022.stream-link.org/playlist/8tv
-TVBS新聞,http://2022.stream-link.org/playlist/tvbs_news
-TVBS,http://2022.stream-link.org/playlist/tvbs
+
 民视,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
