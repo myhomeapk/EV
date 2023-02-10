@@ -395,15 +395,22 @@ Liberty MARVEL 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/15090/index.m3
 Liberty Кино Микс 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/15110/index.m3u8
 Liberty Мульт 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/18051/index.m3u8
 
-爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-北京IPTV-4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
-BesTV-4K,http://74.119.193.113:8280/live/bestv4k/hls.m3u8
-河南4K,http://74.119.193.113:8280/live/hn4k/hls.m3u8
-4K超高清电影,http://159.75.85.63:5681/sxg.php
-
-Now Sports UHD HK,http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042156.ts
-Now Sports UHD HK-1,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/117957
-Now Sports UHD HK-2,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032489
-Now Sports UHD HK-3,http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/332715
-V Sports UHD,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:bf:85:ce&stream=35891&extension=ts&play_token=Z1hXUmbsiM
-V Sports UHD备,http://ultratv.one:2095/xMsGHAzQ/kYuckAK/31644
+🐼重庆有线,#genre#
+CCTV1,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
+CCTV2,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
+CCTV3,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
+CCTV4,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f//index.m3u8
+CCTV5,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
+CCTV5+,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
+CCTV6,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f//index.m3u8
+CCTV7,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f//index.m3u8
+CCTV8,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f//index.m3u8
+CCTV9,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f//index.m3u8
+CCTV10,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f//index.m3u8
+CCTV11,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f//index.m3u8
+CCTV12,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f//index.m3u8
+CCTV13,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
+CCTV14,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f//index.m3u8
+CCTV15,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f//index.m3u8
+CCTV16,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//index.m3u8
+CCTV17,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f//index.m3u8
