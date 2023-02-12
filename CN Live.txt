@@ -513,8 +513,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 爱尔达体育1,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
 爱尔达体育2,http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8
 爱尔达体育3,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
-博斯运动1,http://220.134.196.147:9564/http/116.50.42.18:8066/hls/210/10018/cstv18.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
-博斯运动1,http://220.134.196.147:9564/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
 
 纬来体育,http://220.134.196.147:9563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 纬来育乐,http://220.134.196.147:9569/playlist.m3u8
