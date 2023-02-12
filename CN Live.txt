@@ -487,6 +487,15 @@ CGTN(Opt_1),http://live.cgtn.com/500/prog_index.m3u8?zshijd
 日本NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8?zshijd
 
 测试1,#genre#
+HBO,http://line.premiumpowers.net:80/Manuel/1234567/941648
+HBO家庭,http://line.premiumpowers.net:80/Manuel/1234567/941646
+HBO原创,http://line.premiumpowers.net:80/Manuel/1234567/941645
+HBO强档,http://line.premiumpowers.net:80/Manuel/1234567/941647
+AXN,http://line.premiumpowers.net:80/Manuel/1234567/941660
+CINEMAX,http://line.premiumpowers.net:80/Manuel/1234567/941659
+HITS MOVIES,http://line.premiumpowers.net:80/Manuel/1234567/941606
+ANIMAX,http://line.premiumpowers.net:80/Manuel/1234567/941676
+ROCK,http://line.premiumpowers.net:80/Manuel/1234567/941643
 民视,http://23.237.10.66:16334
 民视,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
 
