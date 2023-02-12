@@ -487,6 +487,7 @@ CGTN(Opt_1),http://live.cgtn.com/500/prog_index.m3u8?zshijd
 日本NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8?zshijd
 
 测试1,#genre#
+东森電影http://110.72.60.136:808/hls/112/index.m3u8
 HBO,http://line.premiumpowers.net:80/Manuel/1234567/941648
 HBO家庭,http://line.premiumpowers.net:80/Manuel/1234567/941646
 HBO原创,http://line.premiumpowers.net:80/Manuel/1234567/941645
