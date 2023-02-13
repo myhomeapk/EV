@@ -433,11 +433,8 @@ Tennis Channel,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159549
 
 4K Rojak,#genre#
 CCTV5-高清,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 Fashion4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 欢笑剧场4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
-连续剧4K,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
-李子柒4K,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 Ziggo Sport 4K,http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/20560
 DAZN F1 UHD 4K,http://tribaliptv.com:8080/Gustavo/123456/4930
 Sport5 4k,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
@@ -459,18 +456,17 @@ Liberty MARVEL 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/15090/index.m3
 Liberty Кино Микс 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/15110/index.m3u8
 Liberty Мульт 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/18051/index.m3u8
 
-世界,#genre#
+News,#genre#
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 CNA新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
-CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8?zshijd
-CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8?zshijd
-CGTN西语,https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8?zshijd
-NHK·华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8?zshijd
-NHK·国际,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
+CNC(CN),http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
+CNC(EN),http://source07.v.news.cn/live/CNC_EN/playlist.m3u8?zshijd
+CGTN(DOC),https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8?zshijd
+NHK·(CN),https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8?zshijd
+NHK·(INT),https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
 CGTN Documentary,https://livedoc.cgtn.com/500d/prog_index.m3u8?zshijd
-CGTN美国,http://live.cgtn.com/1000/prog_index.m3u8?zshijd
-CGTN(Opt_1),http://live.cgtn.com/500/prog_index.m3u8?zshijd
+CGTN(EN),http://live.cgtn.com/1000/prog_index.m3u8?zshijd
+CGTN(EN),http://live.cgtn.com/500/prog_index.m3u8?zshijd
 
 美国CGTN,http://live.cgtn.com/500/prog_index.m3u8?zshijd
 韩国EBS第一频道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
@@ -482,21 +478,7 @@ CGTN(Opt_1),http://live.cgtn.com/500/prog_index.m3u8?zshijd
 日本NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8?zshijd
 
 测试1,#genre#
-Baby TV,http://198.16.64.10:8278/babytv_twn/playlist.m3u8?tid=MC9C6892759268927592&ct=19225&tsum=c523d815f0353c10a5d528226ebb5779
-Baby TV,http://198.16.64.10:8278/Babytv/playlist.m3u8?tid=MEEE1890535318905353&ct=19225&tsum=416f2cc4b72f4963317f557858cdbd02
-CN卡通频道,http://198.16.64.10:8278/momo1_twn/playlist.m3u8?tid=MA0A4898983648989836&ct=19225&tsum=bd109117d126916f203880b1f2063d5e
-CN卡通频道,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
-NewTV超级电影,http://39.135.138.59:18890/PLTV/88888910/224/3221225766/index.m3u8
-东森電影http://110.72.60.136:808/hls/112/index.m3u8
-HBO,http://line.premiumpowers.net:80/Manuel/1234567/941648
-HBO家庭,http://line.premiumpowers.net:80/Manuel/1234567/941646
-HBO原创,http://line.premiumpowers.net:80/Manuel/1234567/941645
-HBO强档,http://line.premiumpowers.net:80/Manuel/1234567/941647
-AXN,http://line.premiumpowers.net:80/Manuel/1234567/941660
-CINEMAX,http://line.premiumpowers.net:80/Manuel/1234567/941659
-HITS MOVIES,http://line.premiumpowers.net:80/Manuel/1234567/941606
-ANIMAX,http://line.premiumpowers.net:80/Manuel/1234567/941676
-ROCK,http://line.premiumpowers.net:80/Manuel/1234567/941643
+
 民视,http://23.237.10.66:16334
 民视,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
 
@@ -523,59 +505,21 @@ ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1c
 ArirangTV,http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 ArirangTV,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 ArirangTV,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
 KBC 광주방송 (SBS 光州),http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 MTN,http://183.110.27.87/mtnlive/720/playlist.m3u8
 NBS Korea Agricultural Broadcasting,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-TJB 대전방송 (SBS 大田),http://1.245.74.5:1935/live/tv/.m3u8
-한국선거방송,http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 KCTV 광주,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
 MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 KBS World,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 KBS World,https://livecdn.fptplay.net:443/sdb/kbs_hls.smil/playlist.m3u8
-CTS기독교TV,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+
 JIBS SBS,http://123.140.197.22/stream/1/play.m3u8
 MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 NBS Korea Agricultural Broadcasting,https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
-TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-CBS,http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
-KBS-1,http://ye23.vip/z7z8/2021/kbs2020.php?id=1
-KBS-2,http://ye23.vip/z7z8/2021/kbs2020.php?id=2
 KBS-WORLD,http://ye23.vip/z7z8/2021/kbs2020.php?id=3
-TJB SBS,http://ye23.win/iptv/korea2021.php?id=TJB
-CJB SBS,http://ye23.win/iptv/korea2021.php?id=CJB
-KBC SBS,http://ye23.win/iptv/korea2021.php?id=KBC
-SBS,http://ye23.win/iptv/sbs5.1.php?id=S01
-SBS-Sports,http://ye23.win/iptv/sbs5.1.php?id=S02
-SBS-Plus,http://ye23.win/iptv/sbs5.1.php?id=S03
-SBS-Fun,http://ye23.win/iptv/sbs5.1.php?id=S04
-SBS-Golf,http://ye23.win/iptv/sbs5.1.php?id=S05
-SBS-Biz,http://ye23.win/iptv/sbs5.1.php?id=S06
-SBS-MTV,http://ye23.win/iptv/sbs5.1.php?id=S09
-SBS-GorealraM,http://ye23.win/iptv/sbs5.1.php?id=S19
-SBS-POWER,http://ye23.win/iptv/sbs5.1.php?id=S07
-SBS-LOVE,http://ye23.win/iptv/sbs5.1.php?id=S08
-Good TV,http://ye23.win/iptv/korea2021.php?id=Good
-cpbc,http://ye23.win/iptv/korea2021.php?id=cpbc
-bbstv,http://ye23.win/iptv/korea2021.php?id=bbstv
-myStream,http://ye23.win/iptv/korea2021.php?id=myStream
-MTN,http://ye23.win/iptv/korea2021.php?id=MTN
-FTV,http://ye23.win/iptv/korea2021.php?id=FTV
-Channel A,http://ye23.win/iptv/korea2021.php?id=Channela
-korea TV,http://ye23.win/iptv/korea2021.php?id=korea
-YTN,http://ye23.win/iptv/korea2021.php?id=ytn
 Channel A,http://ye23.win/iptv/korea2021.php?id=Channel
-TBS,http://ye23.win/iptv/korea2021.php?id=TBS-a
-KCTV,http://ye23.win/iptv/korea2021.php?id=KCTV
 EBS 1,http://ye23.win/iptv/korea2021.php?id=EBS1
-EBS 2,http://ye23.win/iptv/korea2021.php?id=EBS2
-EBS i,http://ye23.win/iptv/korea2021.php?id=EBSi
-EBS+2,http://ye23.win/iptv/korea2021.php?id=EBS_2
-EBS E,http://ye23.win/iptv/korea2021.php?id=EBS_E
-EBS KIDS,http://ye23.win/iptv/korea2021.php?id=EBS_KIDS
-
-
 BBS 불교 방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8?zshijd
 EBS 1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
 EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
