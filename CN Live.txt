@@ -453,7 +453,6 @@ KCTV 광주,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
 MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 KBS World,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 KBS World,https://livecdn.fptplay.net:443/sdb/kbs_hls.smil/playlist.m3u8
-
 JIBS SBS,http://123.140.197.22/stream/1/play.m3u8
 MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 NBS Korea Agricultural Broadcasting,https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
@@ -475,32 +474,18 @@ ELTA生活旅游,http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunkl
 Style,http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
 中天美食旅游,http://www.336699.live:1935/blocksix/4gtv-live123.stream/chunklist.m3u8
 MCE,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
+猪哥亮歌厅秀,http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/playlist.m3u8
+東森超視,http://50.7.220.74:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
+東森超視34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+東森綜合 HD,http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
+東森綜合 HD,http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?ct=17874&tid=m65c4e525f24617101171&tsum=663db593cfeefc92ce4b5d7461988f3f
+東森綜合 HD,http://198.16.64.10:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
+愛爾達影劇 HD,http://198.16.64.10:8278/eltayingju_twn/playlist.m3u8?tid=MFBF4492563944925639&ct=19225&tsum=d4fb09f164ea4850c14546a14d075d04
+愛爾達影劇 HD,http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
+愛爾達影劇 HD,http://198.16.64.10:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
+愛爾達娛樂 HD,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
+緯來日本 HD,http://50.7.168.234:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
 
-历史,http://www.336699.live:1935/blocksix/4gtv-live026.stream/chunklist.m3u8
-MTV,http://www.336699.live:1935/blocksix/4gtv-live025.stream/chunklist.m3u8
-CI罪案现场,http://www.336699.live:1935/blocksix/4gtv-live027.stream/chunklist.m3u8
-Lifetime,http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
-LIVE互动英语,http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
-尼克儿童,http://www.336699.live:1935/blocksix/4gtv-live032.stream/chunklist.m3u8
-中天综合,http://www.336699.live:1935/blocksix/4gtv-live033.stream/chunklist.m3u8
-东森购物,http://www.336699.live:1935/blocksix/4gtv-live046.stream/chunklist.m3u8
-东森购物2,http://www.336699.live:1935/blocksix/4gtv-live047.stream/chunklist.m3u8
-新唐人亚太,http://www.336699.live:1935/blocksix/4gtv-live050.stream/chunklist.m3u8
-全球财经,http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunklist.m3u8
-Cinema worid,http://www.336699.live:1935/blocksix/4gtv-live069.stream/chunklist.m3u8
-DW,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklist.m3u8
-TVBS HD,http://www.336699.live:1935/blocksix/4gtv-live072.stream/chunklist.m3u8
-全民最大党,http://www.336699.live:1935/blocksix/4gtv-live076.stream/chunklist.m3u8
-TVBS精采台,http://www.336699.live:1935/blocksix/4gtv-live086.stream/chunklist.m3u8
-三立新闻,http://www.336699.live:1935/blocksix/4gtv-live089.stream/chunklist.m3u8
-尼克儿童2,http://www.336699.live:1935/blocksix/4gtv-live105.stream/chunklist.m3u8
-大爱2,http://www.336699.live:1935/blocksix/4gtv-live106.stream/chunklist.m3u8
-momo亲子,http://www.336699.live:1935/blocksix/4gtv-live107.stream/chunklist.m3u8
-科教,http://www.336699.live:1935/blocksix/4gtv-live109.stream/chunklist.m3u8
-宠物台,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
-东森新闻,http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
-Gobal,http://www.336699.live:1935/blocksix/4gtv-live112.stream/chunklist.m3u8
-LUXE,http://www.336699.live:1935/blocksix/4gtv-live121.stream/chunklist.m3u8
 
 明星,#genre#
 周星驰,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
@@ -525,3 +510,21 @@ LUXE,http://www.336699.live:1935/blocksix/4gtv-live121.stream/chunklist.m3u8
 王晶导演,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
 历年贺岁大片,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
 金庸武侠系列,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
+
+
+🔞頻道,#genre#
+K2,http://nerdsvpn.nl:8080/9513739718/5914837179/364298
+K3,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6225/index.m3u8
+彩虹e台,mitv://generationnexxxt.com:18806/15320e3bb32c41d391a42714bbf5a045
+彩虹电影台,mitv://generationnexxxt.com:18806/115d17e43d50427eb43e3ff6acde8a2e
+LOOK TV,mitv://generationnexxxt.com:18806/b58f5519b3734a3da72d2a0c5d88c2d8
+潘朵啦玩美台,mitv://generationnexxxt.com:18806/4b6f680d6a9a440e9e778a1482ec8402
+惊艳成人电影台,mitv://generationnexxxt.com:18806/9b1f1e5146c2426f8ea6c509e1c3b925
+松视1台,mitv://generationnexxxt.com:18806/0e62fa03e12946b2856b0530c11fdbb0
+松视2台,mitv://generationnexxxt.com:18806/3b59c2adca134540b2512f6a72108a8c
+PLAYBOY,mitv://generationnexxxt.com:18806/1ea235b4262a4d528bedec4d7f2814f9
+香蕉台,mitv://generationnexxxt.com:18806/a4aff22693ef4c80aabf4ae598fe1301
+松视3台,mitv://generationnexxxt.com:18806/f26c61bde69444caa3b464ce0fea6dfd
+JStar极限台,mitv://generationnexxxt.com:18806/6529f599e56244ecbbaf528c3353db1a
+HAPPY,mitv://generationnexxxt.com:18806/16e547483a044b22b749ec3184d1ad52
+K,mitv://generationnexxxt.com:18806/23c8720eb31c4658be71378b19859a1c
