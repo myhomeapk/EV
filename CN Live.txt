@@ -473,6 +473,15 @@ Test2,#genre#
 明珠台,http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
 J2,http://137.175.36.206:8188/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
 TV8,http://137.175.36.206:8188/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
+J2,http://120.84.96.161:808/hls/86/index.m3u8 
+J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+J2,http://120.132.122.244:59845/hls/81/index.m3u8
+无线财经•资讯台,http://120.84.96.74:808/hls/86/index.m3u8 
+无线财经•资讯台,http://120.132.122.244:59845/hls/82/index.m3u8
+耀才财经新闻,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
+香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+儒释道经,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
+有线18,rtmp://59.124.75.138:1935/sat/hk041
 
 
 
