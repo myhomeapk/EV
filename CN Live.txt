@@ -476,6 +476,7 @@ TV8,http://137.175.36.206:8188/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=192
 J2,http://120.84.96.161:808/hls/86/index.m3u8 
 J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 J2,http://120.132.122.244:59845/hls/81/index.m3u8
+J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
 无线财经•资讯台,http://120.84.96.74:808/hls/86/index.m3u8 
 无线财经•资讯台,http://120.132.122.244:59845/hls/82/index.m3u8
 耀才财经新闻,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
