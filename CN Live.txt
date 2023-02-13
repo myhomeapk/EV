@@ -582,65 +582,6 @@ EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.inde
 EBS 키즈,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
 
 Test2,#genre#
-TV1,http://w.nasvpn.xyz:8080/live/saya/saya/16574.ts?blog.ntnas.top
-TV2,http://w.nasvpn.xyz:8080/live/saya/saya/16575.ts?blog.ntnas.top
-DIDIK TV,http://w.nasvpn.xyz:8080/live/saya/saya/16576.ts?blog.ntnas.top
-9,http://w.nasvpn.xyz:8080/live/saya/saya/16577.ts?blog.ntnas.top
-astro PRIMA,http://w.nasvpn.xyz:8080/live/saya/saya/16578.ts?blog.ntnas.top
-astro OASIS,http://w.nasvpn.xyz:8080/live/saya/saya/16579.ts?blog.ntnas.top
-Unknown_16040,http://w.nasvpn.xyz:8080/live/saya/saya/16583.ts?blog.ntnas.top
-HGTV,http://w.nasvpn.xyz:8080/live/saya/saya/16584.ts?blog.ntnas.top
-astro SUPERSPORT 3,http://w.nasvpn.xyz:8080/live/saya/saya/16585.ts?blog.ntnas.top
-beIN sports,http://w.nasvpn.xyz:8080/live/saya/saya/16586.ts?blog.ntnas.top
-ESPN,http://w.nasvpn.xyz:8080/live/saya/saya/16587.ts?blog.ntnas.top
-PREMIERE,http://w.nasvpn.xyz:8080/live/saya/saya/16588.ts?blog.ntnas.top
-PREMIERE,http://w.nasvpn.xyz:8080/live/saya/saya/16589.ts?blog.ntnas.top
-PREMIERE,http://w.nasvpn.xyz:8080/live/saya/saya/16590.ts?blog.ntnas.top
-CHINA_47,http://w.nasvpn.xyz:8080/live/saya/saya/16592.ts?blog.ntnas.top
-ARENA1_58,http://w.nasvpn.xyz:8080/live/saya/saya/16593.ts?blog.ntnas.top
-GOLF_59,http://w.nasvpn.xyz:8080/live/saya/saya/16594.ts?blog.ntnas.top
-BEINSPORT3_65,http://w.nasvpn.xyz:8080/live/saya/saya/16595.ts?blog.ntnas.top
-TV3 HD,http://w.nasvpn.xyz:8080/live/saya/saya/5149.ts?blog.ntnas.top
-TV3 B,http://w.nasvpn.xyz:8080/live/saya/saya/7836.ts?blog.ntnas.top
-TV8 HD,http://w.nasvpn.xyz:8080/live/saya/saya/6.ts?blog.ntnas.top
-BERNAMA,http://w.nasvpn.xyz:8080/live/saya/saya/4714.ts?blog.ntnas.top
-Astro Awani HD,http://w.nasvpn.xyz:8080/live/saya/saya/4715.ts?blog.ntnas.top
-TV IKIM,http://w.nasvpn.xyz:8080/live/saya/saya/869.ts?blog.ntnas.top
-Alhijrah,http://w.nasvpn.xyz:8080/live/saya/saya/186.ts?blog.ntnas.top
-Astro Ria HD,http://w.nasvpn.xyz:8080/live/saya/saya/11.ts?blog.ntnas.top
-Astro Ria B,http://w.nasvpn.xyz:8080/live/saya/saya/7868.ts?blog.ntnas.top
-PRIMA,http://w.nasvpn.xyz:8080/live/saya/saya/176.ts?blog.ntnas.top
-astro oasis,http://w.nasvpn.xyz:8080/live/saya/saya/175.ts?blog.ntnas.top
-CITRA,http://w.nasvpn.xyz:8080/live/saya/saya/172.ts?blog.ntnas.top
-CERIA HD,http://w.nasvpn.xyz:8080/live/saya/saya/5525.ts?blog.ntnas.top
-CERIA B,http://w.nasvpn.xyz:8080/live/saya/saya/177.ts?blog.ntnas.top
-BOO HD,http://w.nasvpn.xyz:8080/live/saya/saya/173.ts?blog.ntnas.top
-Astro AEC HD,http://w.nasvpn.xyz:8080/live/saya/saya/3292.ts?blog.ntnas.top
-START MOVIE,http://w.nasvpn.xyz:8080/live/saya/saya/4106.ts?blog.ntnas.top
-THRILL,http://w.nasvpn.xyz:8080/live/saya/saya/179.ts?blog.ntnas.top
-Colors Tamil HD,http://w.nasvpn.xyz:8080/live/saya/saya/4679.ts?blog.ntnas.top
-TVN HD,http://w.nasvpn.xyz:8080/live/saya/saya/1039.ts?blog.ntnas.top
-tvN Movies HD,http://w.nasvpn.xyz:8080/live/saya/saya/4684.ts?blog.ntnas.top
-ONE HD-eng,http://w.nasvpn.xyz:8080/live/saya/saya/3239.ts?blog.ntnas.top
-ONE HD-IDN,http://w.nasvpn.xyz:8080/live/saya/saya/4102.ts?blog.ntnas.top
-ANIPLUS HD,http://w.nasvpn.xyz:8080/live/saya/saya/3347.ts?blog.ntnas.top
-Sony Gem,http://w.nasvpn.xyz:8080/live/saya/saya/3349.ts?blog.ntnas.top
-K Plus,http://w.nasvpn.xyz:8080/live/saya/saya/3350.ts?blog.ntnas.top
-Blue Ant Extreme,http://w.nasvpn.xyz:8080/live/saya/saya/3348.ts?blog.ntnas.top
-Blue Ant Entertainment,http://w.nasvpn.xyz:8080/live/saya/saya/3351.ts?blog.ntnas.top
-Celestial Movies1,http://w.nasvpn.xyz:8080/live/saya/saya/3352.ts?blog.ntnas.top
-bloomberg tv,http://w.nasvpn.xyz:8080/live/saya/saya/3295.ts?blog.ntnas.top
-AXN HD MY,http://w.nasvpn.xyz:8080/live/saya/saya/5727.ts?blog.ntnas.top
-CCM,http://w.nasvpn.xyz:8080/live/saya/saya/5728.ts?blog.ntnas.top
-HGTV HD,http://w.nasvpn.xyz:8080/live/saya/saya/3294.ts?blog.ntnas.top
-DMAX HD,http://w.nasvpn.xyz:8080/live/saya/saya/3296.ts?blog.ntnas.top
-CGTN Documentary,http://w.nasvpn.xyz:8080/live/saya/saya/866.ts?blog.ntnas.top
-CGTN 1,http://w.nasvpn.xyz:8080/live/saya/saya/727.ts?blog.ntnas.top
-CGTN,http://w.nasvpn.xyz:8080/live/saya/saya/736.ts?blog.ntnas.top
-Love Nature 4K,http://w.nasvpn.xyz:8080/live/saya/saya/3214.ts?blog.ntnas.top
-WWE Network HD,http://w.nasvpn.xyz:8080/live/saya/saya/5337.ts?blog.ntnas.top
-National Geographi,http://w.nasvpn.xyz:8080/live/saya/saya/4661.ts?blog.ntnas.top
-NATIONAL GEOGRAFIG 4K,http://w.nasvpn.xyz:8080/live/saya/saya/5765.ts?blog.ntnas.top
-HITS,http://w.nasvpn.xyz:8080/live/saya/saya/7047.ts?blog.ntnas.top
-K+,http://w.nasvpn.xyz:8080/live/saya/saya/7048.ts?blog.ntnas.top
-KIX,http://w.nasvpn.xyz:8080/live/saya/saya/7049.ts?blog.ntnas.top
+
+
+
