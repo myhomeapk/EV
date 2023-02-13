@@ -77,6 +77,13 @@ CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 星空卫视台,http://159.75.85.63:8765/telegram@feiyangdigital-xingkong.m3u8
 
 澳门频道,#genre#
+澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
+澳门Macau,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
+澳门Macau,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
+澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8 
+澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+澳视葡文,http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
+澳视葡文,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 澳门莲花,http://nettvpro.live/hls/lotustv.php?zgangd
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳视资讯,http://61.244.22.5/ch5/info_ch5.live/index.m3u8
@@ -136,15 +143,12 @@ HONG KONG,#genre#
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8 
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8  
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
+RHK31,https://cdn.hklive.tv/xxxx/31/index.m3u8
+RHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
+RHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
 
-澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
-澳门Macau,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
-澳门Macau,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
-澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8 
-澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
-澳视葡文,http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
-澳视葡文,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+
 
 TAIWAN,#genre#
 天映頻道,http://210.210.155.37/dr9445/h/h14/index.m3u8
@@ -470,9 +474,6 @@ EBS 키즈,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chun
 
 Test2,#genre#
 
-RHK31,http://2022.stream-link.org/playlist/rthk_31
-RHK32,http://2022.stream-link.org/playlist/rthk_32
-RHK31,https://cdn.hklive.tv/xxxx/31/index.m3u8
-RHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
-RHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
-香港卫视,http://107.151.203.111:2209/135/hk.php?id=hkws
+
+
+
