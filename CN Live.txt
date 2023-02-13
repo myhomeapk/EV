@@ -350,6 +350,7 @@ Liberty Мульт 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/18051/inde
 
 News,#genre#
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+CNN,http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
 CNC(CN),http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
 CNC(EN),http://source07.v.news.cn/live/CNC_EN/playlist.m3u8?zshijd
 CGTN(EN),http://live.cgtn.com/1000/prog_index.m3u8?zshijd
@@ -476,19 +477,33 @@ CHC动作电影,http://live.cooltv.top/tv/aishang.php?id=chcdzdy
 ELTA生活旅游,http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
 Style,http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
 中天美食旅游,http://www.336699.live:1935/blocksix/4gtv-live123.stream/chunklist.m3u8
-CNN,http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
-ACTION,http://www.336699.live:1935/blocksix/4gtv-live138.stream/chunklist.m3u8
-金光布袋戏,http://www.336699.live:1935/blocksix/4gtv-live144.stream/chunklist.m3u8
-Catchplay,http://www.336699.live:1935/blocksix/4gtv-live155.stream/chunklist.m3u8
 MCE,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
-居家,http://www.336699.live:1935/blocksix/4gtv-live206.stream/chunklist.m3u8
-三立综合台,http://www.336699.live:1935/blocksix/4gtv-live207.stream/chunklist.m3u8
-LOVE Nature,http://www.336699.live:1935/blocksix/4gtv-live208.stream/chunklist.m3u8
-民视第一台,http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8
-民视综艺台,http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
-民视台湾台,http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
-民视,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
-猪哥亮歌厅秀,http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/playlist.m3u8
+
+历史,http://www.336699.live:1935/blocksix/4gtv-live026.stream/chunklist.m3u8
+MTV,http://www.336699.live:1935/blocksix/4gtv-live025.stream/chunklist.m3u8
+CI罪案现场,http://www.336699.live:1935/blocksix/4gtv-live027.stream/chunklist.m3u8
+Lifetime,http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
+LIVE互动英语,http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
+尼克儿童,http://www.336699.live:1935/blocksix/4gtv-live032.stream/chunklist.m3u8
+中天综合,http://www.336699.live:1935/blocksix/4gtv-live033.stream/chunklist.m3u8
+东森购物,http://www.336699.live:1935/blocksix/4gtv-live046.stream/chunklist.m3u8
+东森购物2,http://www.336699.live:1935/blocksix/4gtv-live047.stream/chunklist.m3u8
+新唐人亚太,http://www.336699.live:1935/blocksix/4gtv-live050.stream/chunklist.m3u8
+全球财经,http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunklist.m3u8
+Cinema worid,http://www.336699.live:1935/blocksix/4gtv-live069.stream/chunklist.m3u8
+DW,http://www.336699.live:1935/blocksix/4gtv-live071.stream/chunklist.m3u8
+TVBS HD,http://www.336699.live:1935/blocksix/4gtv-live072.stream/chunklist.m3u8
+全民最大党,http://www.336699.live:1935/blocksix/4gtv-live076.stream/chunklist.m3u8
+TVBS精采台,http://www.336699.live:1935/blocksix/4gtv-live086.stream/chunklist.m3u8
+三立新闻,http://www.336699.live:1935/blocksix/4gtv-live089.stream/chunklist.m3u8
+尼克儿童2,http://www.336699.live:1935/blocksix/4gtv-live105.stream/chunklist.m3u8
+大爱2,http://www.336699.live:1935/blocksix/4gtv-live106.stream/chunklist.m3u8
+momo亲子,http://www.336699.live:1935/blocksix/4gtv-live107.stream/chunklist.m3u8
+科教,http://www.336699.live:1935/blocksix/4gtv-live109.stream/chunklist.m3u8
+宠物台,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
+东森新闻,http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
+Gobal,http://www.336699.live:1935/blocksix/4gtv-live112.stream/chunklist.m3u8
+LUXE,http://www.336699.live:1935/blocksix/4gtv-live121.stream/chunklist.m3u8
 
 明星,#genre#
 周星驰,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
