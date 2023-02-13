@@ -470,7 +470,9 @@ EBS 키즈,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chun
 
 Test2,#genre#
 
-潮州综合,http://113.117.74.17:808/hls/23/index.m3u8
-汕头综合,http://113.117.74.17:808/hls/24/index.m3u8
-food中华美食,http://ct.whosayssowhat.top:4022/udp/239.77.1.200:5146
-CCTV-高尔夫·网球,http://ct.whosayssowhat.top:4022/udp/239.253.43.12:5146
+RHK31,http://2022.stream-link.org/playlist/rthk_31
+RHK32,http://2022.stream-link.org/playlist/rthk_32
+RHK31,https://cdn.hklive.tv/xxxx/31/index.m3u8
+RHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
+RHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
+香港卫视,http://107.151.203.111:2209/135/hk.php?id=hkws
