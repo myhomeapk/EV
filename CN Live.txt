@@ -483,6 +483,11 @@ J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 儒释道经,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
 有线18,rtmp://59.124.75.138:1935/sat/hk041
+西藏卫视,https://tv.vtibet.cn/live/EfgSmE4jCTBtvchannel3.m3u8
+影视文化,https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8
+经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
+CHC动作电影,http://live.cooltv.top/tv/aishang.php?id=chcdzdy
+CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?
 
 
 
