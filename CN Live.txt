@@ -144,6 +144,7 @@ HONG KONG,#genre#
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
+无线财经,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
 RHK31,https://cdn.hklive.tv/xxxx/31/index.m3u8
 RHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
 RHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
@@ -473,11 +474,18 @@ EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.inde
 EBS 키즈,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
 
 Test2,#genre#
-无线财经,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
-无线财经,http://radius.8866.org:800/hls/83/index.m3u8
-无线新闻台,http://radius.8866.org:800/hls/82/index.m3u8
-VIUTV,http://137.175.36.206:8188/viu_twn/playlist.m3u8?tid=MF2F6219999362199993&ct=19225&tsum=0315b071e42f6b8b6f49b6ca58b7393b
-VIUTV 6,http://137.175.36.206:8188/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
+有线新闻台,http://2022.stream-link.org/playlist/cable_news
+有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+有线新闻台,http://107.151.203.111:2209/135/hk.php?id=cable37h
+有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+有线新闻台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
+有線財經資訊台,http://2022.stream-link.org/playlist/cable_finance
+無綫新聞台,http://2022.stream-link.org/playlist/tvb_news
+無綫財經·體育·資訊台,http://2022.stream-link.org/playlist/tvb_finance
+
+
+
 
 
 
