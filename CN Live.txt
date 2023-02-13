@@ -74,7 +74,7 @@ CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 黑龙江卫视,https://live.v1.mk/api/ghyx.php?id=HeiLongJiangHD_6000
 吉林卫视,https://live.v1.mk/api/ghyx.php?id=JiLinWeiShiHD_6000
 海南卫视,https://live.v1.mk/api/ghyx.php?id=LvYouWeiShiHD_6000
-星空卫视台,http://159.75.85.63:8765/telegram@feiyangdigital-xingkong.m3u8
+西藏卫视,https://tv.vtibet.cn/live/EfgSmE4jCTBtvchannel3.m3u8
 
 澳门频道,#genre#
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
@@ -140,6 +140,8 @@ HONG KONG,#genre#
 RHK31,https://cdn.hklive.tv/xxxx/31/index.m3u8
 RHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
 RHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
+耀才财经新闻,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
+香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 
 
@@ -467,51 +469,36 @@ EBS 키즈,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chun
 
 Test2,#genre#
 华丽台,http://23.237.10.66:16410
-华丽台,http://2022.stream-link.org/playlist/astro_jade
-华丽台,http://23.237.10.66:16410
-华丽台,http://23.237.10.66:16410
-明珠台,http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
-J2,http://137.175.36.206:8188/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
-TV8,http://137.175.36.206:8188/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
-J2,http://120.84.96.161:808/hls/86/index.m3u8 
-J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
-J2,http://120.132.122.244:59845/hls/81/index.m3u8
 J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
-无线财经•资讯台,http://120.84.96.74:808/hls/86/index.m3u8 
-无线财经•资讯台,http://120.132.122.244:59845/hls/82/index.m3u8
-耀才财经新闻,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
-香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-儒释道经,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
-有线18,rtmp://59.124.75.138:1935/sat/hk041
-西藏卫视,https://tv.vtibet.cn/live/EfgSmE4jCTBtvchannel3.m3u8
-影视文化,https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8
-经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 CHC动作电影,http://live.cooltv.top/tv/aishang.php?id=chcdzdy
-CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?
+儒释道经,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
 
-👠｜VIP欧美直播,#genre#
-Brazzers HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6182/index.m3u8
-Brazzers TV Europe,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/910/index.m3u8
-Brazzers eXXtra,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6181/index.m3u8
-Hustler HD orig,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/9065/index.m3u8
-Hustler HD Europe,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/244/index.m3u8
-Blue Hustler,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/1064/index.m3u8
-Penthouse Passion HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/1073/index.m3u8
-Penthouse Gold HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5011/index.m3u8
-Penthouse Quickies HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5013/index.m3u8
-DDF Network,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6194/index.m3u8
-DDF Busty,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6193/index.m3u8
-Naughty America,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6237/index.m3u8
-Русская Ночь,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/147/index.m3u8
-Нюарт TV,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/2057/index.m3u8
-Шалун,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/922/index.m3u8
-Playboy,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/527/index.m3u8
-Sexto Senso,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/875/index.m3u8
-Penthouse Quickies 1300k,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5012/index.m3u8
-
-
-
-
-
-
-
+明星,#genre#
+周星驰-粤语,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
+周星驰,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
+吴孟达,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
+林正英,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
+沈腾,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
+甄子丹,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.xs
+成龙,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.xs
+李连杰,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
+周润发,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.xs
+刘德华,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.xs
+洪金宝,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.xs
+吴京,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.xs
+黄渤,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.xs
+刘家辉,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.xs
+咏春系列,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.xs
+黑帮系列,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1.xs
+古墓系列,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.xs
+赛车系列,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.xs
+警匪系列,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.xs
+中国功夫,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.xs
+喜剧系列,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.xs
+动作大片,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.xs
+玄幻系列,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.xs
+古装武侠,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs
+香港女神系列,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.xs
+王晶导演,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
+历年贺岁大片,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
+金庸武侠系列,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
