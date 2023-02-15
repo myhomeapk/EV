@@ -502,7 +502,16 @@ MCE,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
 
 Test3,#genre#
 
-民视HD,http://107.151.203.111:2209/135/us50.php?id=msk
-民视HD,http://23.237.10.66:16334
-民视HD,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
-民视HD,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+HBO,http://www.yshmzmc.top/gtjm.php?id=live1029
+HBO,http://208.115.225.174:14136
+HBO 2,http://208.115.225.174:14140
+HBO Mundi,http://208.115.225.174:14148
+HBO signature,http://208.115.225.174:14160
+HBO,http://208.115.225.174:14165
+TVB华丽台,http://23.237.10.66:16410
+TVB华丽台,http://r.jdshipin.com/thuYX
+珍珠台,https://live.astradamy.com/tvbpearl/index.m3u8
+明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8
+明珠台,http://107.151.203.111:2209/135/hk.php?id=tvbmzt
+明珠台,http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8 
+明珠台,http://r.jdshipin.com/ZQ4kN
