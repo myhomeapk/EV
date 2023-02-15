@@ -251,7 +251,13 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 靖天歡樂,http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
 靖洋卡通,http://www.336699.live:1935/blockfour/4gtv-4gtv057.stream/playlist.m3u8
 靖洋戲劇,http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
-纬來日本 HD,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8
+
+纬来综合HD,http://123.51.230.108:18540/.m3u8
+纬来育乐HD,http://123.51.230.108:18541/.m3u8
+纬來日本HD,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8
+纬来体育HD,http://123.51.230.108:18509/.m3u8
+
+
 采昌影劇,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
 华语综艺台,http://www.336699.live:1935/blocksix/4gtv-live006.stream/chunklist.m3u8
 华语戲劇台,http://www.336699.live:1935/blocksix/4gtv-live005.stream/chunklist.m3u8
@@ -509,25 +515,9 @@ MCE,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
 金庸武侠系列,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
 
 Test3,#genre#
-CHC高清电影,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f//index.m3u8
-CHC高清电影,http://111.20.33.93/PLTV/88888893/224/3221226463/index.m3u8
-CHC家庭影院,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
-CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
-CHC动作电影,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8
-CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
-卫视中文台,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941624
-卫视中文台,http://www.yshmzmc.top/gtjm.php?id=live1024
-卫视中文台,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941624
-星卫电影台,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941625
-星卫电影台,http://www.yshmzmc.top/gtjm.php?id=live1031
-星卫电影台,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941625
-纬来综合HD,http://123.51.230.108:18540/.m3u8
-纬来综合HD,http://www.yshmzmc.top/gtjm.php?id=live1044
-纬来育乐HD,http://123.51.230.108:18541/.m3u8
-纬來日本HD,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8
-纬来体育HD,http://www.yshmzmc.top/gtjm.php?id=live1011
-纬来体育HD,http://123.51.230.108:18509/.m3u8
 
+CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
+CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 
 
 
