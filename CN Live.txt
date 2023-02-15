@@ -515,3 +515,13 @@ TVB华丽台,http://r.jdshipin.com/thuYX
 明珠台,http://107.151.203.111:2209/135/hk.php?id=tvbmzt
 明珠台,http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8 
 明珠台,http://r.jdshipin.com/ZQ4kN
+天映经典,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941639
+天映经典,http://107.151.203.111:2209/135/hk.php?id=ccmt
+天映经典,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941639
+天映经典,http://116.11.140.3:8181/tsfile/live/1223_1.m3u8
+天映经典,http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
+天映经典,http://198.16.64.10:8278/Celestial/playlist.m3u8?tid=MCFC1164333411643334&ct=19225&tsum=3668a5dd07515bbf30cfeebe267936ff
+天映经典,http://210.210.155.37/qwr9ew/s/s31/index2.m3u8
+天映頻道,http://210.210.155.37/dr9445/h/h14/index.m3u8
+天映頻道,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941618
+天映頻道,http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941618
