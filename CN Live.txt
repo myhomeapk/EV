@@ -467,8 +467,7 @@ EBS 키즈,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chun
 Test2,#genre#
 华丽台,http://23.237.10.66:16410
 J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
-CHC动作电影,http://live.cooltv.top/tv/aishang.php?id=chcdzdy
-儒释道经,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
+
 
 ELTA生活旅游,http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
 Style,http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
