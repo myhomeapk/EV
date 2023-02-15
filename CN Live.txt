@@ -373,26 +373,24 @@ NHK·World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/i
 
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 
-民视新闻 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 民视新闻 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻 HD,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 民视新闻 HD,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民视新闻 HD,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民视新闻 HD,http://tv.redrainl.site:9500/live.m3u8?c=01
-民视新闻 HD,http://tv.redrainl.site:9500/live.m3u8?c=1
+
 台视新闻 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台视新闻 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-台视新闻 HD,http://tv.redrainl.site:9500/live.m3u8?c=11
+
 台视新闻 HD,https://git.io/JgkxY
 台视新闻 HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 台视新闻 HD,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
 台视新闻 HD,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台视新闻 HD,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视新闻 HD,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
-中视新闻 HD,http://tv.redrainl.site:9500/live.m3u8?c=02
-中视新闻 HD,http://tv.redrainl.site:9500/live.m3u8?c=2
+
 中视新闻 HD,https://git.io/Jgkxz
 中视新闻 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中视新闻 HD,https://ytm2.yuanhsing.cf/twctvnews.m3u8
@@ -445,15 +443,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 爱尔达体育1,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
 爱尔达体育2,http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8
 爱尔达体育3,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
-
-纬来体育,http://220.134.196.147:9563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
-纬来育乐,http://220.134.196.147:9569/playlist.m3u8
-纬来育乐,http://220.134.196.147:9569/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
-卫视合家欢,http://220.134.196.147:9561/http/116.50.42.19:8081/hls/61/803/ch02.m3u8?token=7375646fa0886d71294f378c722be3491efdaa4a
-卫视合家欢,http://220.134.196.147:9561/http/116.50.42.18:8081/hls/61/803/ch02.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
 亚美卫视,http://www.seasky.icu/ymws.php
-亚洲旅游台,http://220.134.196.147:9565/http/116.50.42.18:8088/hls/76/818/ch61.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
-亚洲旅游台,http://220.134.196.147:9568/http/116.50.42.18:8081/hls/76/818/ch61.m3u8
 
 KR测试2,#genre#
 ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -519,10 +509,7 @@ Test3,#genre#
 CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 
-HBO 2,http://208.115.225.174:14140
-HBO Mundi,http://208.115.225.174:14148
-HBO signature,http://208.115.225.174:14160
-HBO,http://208.115.225.174:14165
+
 
 
 
