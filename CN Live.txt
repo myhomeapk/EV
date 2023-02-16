@@ -461,24 +461,20 @@ Test3,#genre#
 CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 
-CCTV1,http://223.95.111.98:5555/newlive/live/hls/1/live.m3u8
-CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
-CCTV2,http://39.184.224.99:9080/newlive/live/hls/2/live.m3u8
-CCTV4,http://39.184.224.99:9080/newlive/live/hls/4/live.m3u8
-CCTV3,http://39.184.224.99:9080/newlive/live/hls/3/live.m3u8
-CCTV5,http://39.184.224.99:9080/newlive/live/hls/5/live.m3u8
-CCTV5,http://223.95.111.98:5555/newlive/live/hls/5/live.m3u8
-CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-CCTV6,http://39.184.224.99:9080/newlive/live/hls/6/live.m3u8
-CCTV7,http://39.184.224.99:9080/newlive/live/hls/7/live.m3u8
-CCTV8,http://39.184.224.99:9080/newlive/live/hls/8/live.m3u8
-CCTV9,http://39.184.224.99:9080/newlive/live/hls/9/live.m3u8
-CCTV10,http://39.184.224.99:9080/newlive/live/hls/10/live.m3u8
-CCTV11,http://39.184.224.99:9080/newlive/live/hls/11/live.m3u8
-CCTV12,http://39.184.224.99:9080/newlive/live/hls/12/live.m3u8
-CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
-CCTV13,http://223.95.111.98:5555/newlive/live/hls/13/live.m3u8
-CCTV14,http://39.184.224.99:9080/newlive/live/hls/14/live.m3u8
-CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
-CCTV16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8
-CCTV17,http://39.184.224.99:9080/newlive/live/hls/17/live.m3u8
+ Al Jazeera,http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/149114
+AMC,http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/191692
+American Heroes,http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32229
+Animal Planet,http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/149198
+Antenna TV,http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32231
+AWE,http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/149143
+AXS TV,http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/191720
+Baby TV,http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208670
+BBC America,http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32237
+Bet East,http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/15861
+Bet Her,http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32214
+Bet Jams,http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32216
+Bet Soul,http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32217
+Big Ten Network,http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32240
+Bloomberg,http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208671
+Boomerang,http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32158
+Bravo,http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208672
