@@ -457,6 +457,7 @@ MCE,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
 金庸武侠系列,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
 
 Test3,#genre#
-https://www.chaojidianshi.net/extension/260164987.xhtml
-https://www.chaojidianshi.net/extension/260165387.xhtml
+Channel 8,https://www.chaojidianshi.net/extension/260164987.xhtml
+CNA,https://www.chaojidianshi.net/extension/260165387.xhtml
+HBO,https://www.chaojidianshi.net/extension/260164976.xhtml
 
