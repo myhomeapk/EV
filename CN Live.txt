@@ -314,18 +314,6 @@ Golf Channel,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159535
 Olympic Channel,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159542
 PAC 12 Bay Area,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159543
 SportsGrid,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159547
-Tennis Channel,http://kralip.com:80/BayramTaskin/zmKVaPw2rnYx/159549
-
-4K Rojak,#genre#
-CCTV5-高清,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-Sport5 4k,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
-DIGI 4k,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&extension=ts&play_token=AB1RNoAhBm
-VTC13 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?$3840x2160
-Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-MUZZIK ZZ4000 4K,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
-loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-
 
 News,#genre#
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
