@@ -461,5 +461,5 @@ MCE,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
 金庸武侠系列,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
 
 Test3,#genre#
-EYE 旅游台,zlive://173.208.209.114:7719/36a5300753b27944741647298e6a6eac
-NHK World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
+i-Fun動漫台,http://www.336699.live:1935/blockfour/litv-ftv15.stream/playlist.m3u8
+
