@@ -460,3 +460,4 @@ MCE,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
 
 Test3,#genre#
 EYE 旅游台,zlive://173.208.209.114:7719/36a5300753b27944741647298e6a6eac
+NHK World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
