@@ -545,10 +545,4 @@ MCE,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
 金庸武侠系列,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
 
 Test3,#genre#
-天映电影,http://jylt.jdshipin.com:808/hls/85/index.m3u8
-央视动作电影,http://jylt.jdshipin.com:808/hls/31/index.m3u8
-央视家庭影院,http://jylt.jdshipin.com:808/hls/36/index.m3u8
-龙祥电影,http://jylt.jdshipin.com:808/hls/35/index.m3u8
-TVB1本港台,http://jylt.jdshipin.com:808/hls/86/index.m3u8
-TVB2翡翠,http://jylt.jdshipin.com:808/hls/25/index.m3u8
-TVB3明珠,http://jylt.jdshipin.com:808/hls/26/index.m3u8
+EYE 旅游台,zlive://173.208.209.114:7719/36a5300753b27944741647298e6a6eac
