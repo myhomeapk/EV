@@ -396,13 +396,10 @@ Style,http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
 MCE,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
 
 Test3,#genre#
-CNN(農),mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
-TV1(農),mitv://generationnexxxt.com:19806/cd44bc00062943c8b7a277ee4a9de89a
-TV2(農),mitv://generationnexxxt.com:19806/ed82c864dc0944eea558e8b30c9062a4
-TV3(農),mitv://generationnexxxt.com:19806/5f4647b9a7424efb84bfc15ea580c9b5
-NTV7(農),mitv://generationnexxxt.com:19806/a0c30ea620c3479186327e3834ce4ad7
-八度空间(農),mitv://generationnexxxt.com:19806/4f9b4b927a7d48efb9bf6bf74ded5bb9
-TV9(農),mitv://generationnexxxt.com:19806/baeb650a8f9e41979110976e67c9aaf2
+
+NTV7,mitv://generationnexxxt.com:19806/a0c30ea620c3479186327e3834ce4ad7
+
+TV9,mitv://generationnexxxt.com:19806/baeb650a8f9e41979110976e67c9aaf2
 Astro Oasis HD(農),mitv://generationnexxxt.com:19806/5e29ed4cfeda4303ac5bc3b9b5677b5e
 Astro Warna HD(農),mitv://generationnexxxt.com:19806/b71dd3b2816345f2b3a27357851f64b3
 Astro Citra HD(農),mitv://generationnexxxt.com:19806/23e85512bcb64c1a93d3af17bafe0853
