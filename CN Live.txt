@@ -61,13 +61,14 @@ CCTV15,http://218.29.55.44:808/hls/24/index.m3u8
 澳视资讯,http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 
 HONG KONG,#genre#
-TVB华丽台,http://r.jdshipin.com/thuYX
+
 珍珠台,https://live.astradamy.com/tvbpearl/index.m3u8
 明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8
 明珠台,http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8 
 
-翡翠台,http://23.237.10.66:16106
-翡翠台,http://23.237.10.66:16106
+翡翠台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941619&extension=ts&play_token=p2yEuU1aFS
+TVB星河粵語,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
+
 
 凤凰资讯,http://120.84.96.73:808/hls/28/index.m3u8
 凤凰资讯,http://120.84.96.89:808/hls/28/index.m3u8
@@ -91,17 +92,7 @@ TVB华丽台,http://r.jdshipin.com/thuYX
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8 
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8 
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8 
-凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8 
-凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8 
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8 
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8 
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8 
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
+
 无线财经,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻台,http://107.151.203.111:2209/135/hk.php?id=cable37h
