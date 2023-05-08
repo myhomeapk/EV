@@ -135,9 +135,6 @@ TAIWAN,#genre#
 台视新闻 HD,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视新闻 HD,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 
-中视新闻 HD,http://tv.redrainl.site:9500/live.m3u8?c=02
-中视新闻 HD,http://tv.redrainl.site:9500/live.m3u8?c=2
-中视新闻 HD,https://git.io/Jgkxz
 中视新闻 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中视新闻 HD,https://ytm2.yuanhsing.cf/twctvnews.m3u8
 中视新闻 HD,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
@@ -161,8 +158,8 @@ TAIWAN,#genre#
 镜新闻Mnews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 镜新闻Mnews,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai2.m3u8
 镜新闻Mnews,https://ytm2.yuanhsing.cf/mnews.m3u8
-中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=03
-中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=3
+中天新闻,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv009/4gtv-live-mid/4gtv-4gtv009-avc1_2000000=3-mp4a_134000=1.m3u8?token=miACj1sdOugwQlpE97Wmzw&expires=1683366572&token1=_IGmsSu2UflzHHF_mzGdqQ&expires1=1683366572
+中天新闻,mitv://generationnexxxt.com:19806/6448e5a6000f399c1e95e7f44ef6793c
 中天新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctitv.m3u8
 中天新闻,https://git.io/Jgkpy
 东森財经 HD,http://123.51.230.108:18515/.m3u8
