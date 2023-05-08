@@ -12,14 +12,12 @@ CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 CCTV10,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
 CCTV11,https://node1.olelive.com:6443/live/CCTV11HD/hls.m3u8
 CCTV11,http://125.210.152.19:9120/live/hzgq-cctv11gq-h264.m3u8
-CCTV11,https://live.v1.mk/api/ghyx.php?id=CCTV11HD_2000
+CCTV11,http://117.169.124.149:8080/live/cctv-11/index.m3u8
 CCTV12,https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8
 CCTV13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 CCTV14,https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
 CCTV15,https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8
-CCTV15,http://125.210.152.19:9120/live/hzgq-cctvmusicgq-h264.m3u8
-CCTV15,http://119.28.164.86/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
-CCTV15,https://live.v1.mk/api/ghyx.php?id=CCTV15HD_6000
+CCTV15,http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
 
 
 
