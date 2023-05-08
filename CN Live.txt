@@ -97,8 +97,6 @@ RHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
 耀才财经新闻,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
-
-
 TAIWAN,#genre#
 
 天映頻道,http://210.210.155.37/dr9445/h/h14/index.m3u8
@@ -143,63 +141,24 @@ TAIWAN,#genre#
 镜新闻Mnews,mitv://generationnexxxt.com:19806/e3e4efe5fc44494eac3a307a9ce46027
 镜新闻Mnews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 
-
-中天新闻,mitv://generationnexxxt.com:19806/6448e5a6000f399c1e95e7f44ef6793c
-东森財经 HD,http://123.51.230.108:18515/.m3u8
 东森財经 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 东森財经 HD,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
-SBN全球財经,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sbn.m3u8
-原住民族电视台,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
-原住民族电视台,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-原住民族电视台,http://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=http%3A%2F%2Ftitv.ipcf.org.tw%2F
-原住民族电视台,http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
-原住民族电视台,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F
-原住民族电视台,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-八大精彩,http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/.m3u8
-八大精彩,http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/playlist.m3u8
-三立综合,http://www.336699.live:1935/blocksix/4gtv-live207.stream/chunklist.m3u8
+
 中天综合 HD,http://107.151.203.111:2209/135/us50.php?id=ztz
 中天综合 HD,http://23.237.10.66:16372
-公视戲劇,http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8
-台视 HD,http://107.151.203.111:2209/135/us50.php?id=tsk
-台视 HD,http://23.237.10.66:16344
 中视 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
-中视菁采,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u
-中视菁采,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
 东風37,http://123.51.230.108:18560/.m3u8
 东森超视34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
-
 华视综合娱乐,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 华视综合娱乐,https://ytm2.yuanhsing.cf/ctsprog.m3u8
-爱尔达娱乐 HD,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
-靖天卡通,http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
-靖天育樂,http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
-靖天映畫,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
-靖天國際,http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
-靖天歡樂,http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
-靖洋戲劇,http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
 
-纬来综合HD,http://123.51.230.108:18540/.m3u8
-纬来育乐HD,http://123.51.230.108:18541/.m3u8
-纬來日本HD,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8
-纬来体育HD,http://123.51.230.108:18509/.m3u8
-
-
-采昌影劇,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
-Lifetime 娛樂頻道,http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
-LiveABC互動英语頻道,http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
-The K-POP,https://git.io/JgYAE
 The K-POP,https://ytm2.yuanhsing.cf/TheKPOP.m3u8
-THE K-POP,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/kpop.m3u8
 The K-POP2,https://ytm2.yuanhsing.cf/TheKPOP2.m3u8
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-K+ MUSIC,http://45.126.83.51/uq2663/h/h08/02.m3u8
-生活時尚,http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
-LUXE TV,http://www.336699.live:1935/blocksix/4gtv-live121.stream/chunklist.m3u8
+
 時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 時尚台FTV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 時尚台FTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
@@ -208,11 +167,10 @@ MOMO購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 MOMO購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 Viva 美好購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 Viva 美好購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
-东森購物1台,http://www.336699.live:1935/blocksix/4gtv-live047.stream/chunklist.m3u8
-东森購物2台,http://www.336699.live:1935/blocksix/4gtv-live046.stream/chunklist.m3u8
+
 EF运通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 EF运通,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
-人间卫视,http://www.336699.live:1935/blocksix/4gtv-live008.stream/chunklist.m3u8
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
@@ -228,16 +186,11 @@ EF运通,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
 大爱2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
 幸福空间居家台,https://git.io/JgYYF
 幸福空间居家台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
-幸福空间居家台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/gstv.m3u8
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-唯心電视,http://124.238.99.44:808/hls/363/index.m3u8
 唯心電视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 唯心電视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 台湾番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 台湾番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 台湾番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-采昌影劇台,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
-ELTA体育2台,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
 
 News,#genre#
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
@@ -310,6 +263,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 镜新闻Mnews,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai2.m3u8
 镜新闻Mnews,https://ytm2.yuanhsing.cf/mnews.m3u8
 
+中天新闻,mitv://generationnexxxt.com:19806/6448e5a6000f399c1e95e7f44ef6793c
 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=03
 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=3
 中天新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctitv.m3u8
@@ -332,6 +286,7 @@ CNA,mitv://generationnexxxt.com:19806/7d55ade47df54e3497f9e0fce031943b
 Mediacorp U,mitv://generationnexxxt.com:19806/c0adca0b6eff436090ff94baf3238705
 
 Sport,#genre#
+纬来体育HD,http://123.51.230.108:18509/.m3u8
 Astro SuperSport1,mitv://generationnexxxt.com:19806/f6fc53b0b0fe47ff9bf6d40eec7705f0
 Astro SuperSport2,mitv://generationnexxxt.com:19806/584adade1c8d4db0b2823cd15b3fd0e9
 Astro SuperSport3,mitv://generationnexxxt.com:19806/0ae4bbc8b3e34a75b728ebddd2bbad42
