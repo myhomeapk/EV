@@ -289,9 +289,16 @@ CNC(CN),http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
 CNC(EN),http://source07.v.news.cn/live/CNC_EN/playlist.m3u8?zshijd
 CGTN(EN),http://live.cgtn.com/1000/prog_index.m3u8?zshijd
 CGTN(EN),http://live.cgtn.com/500/prog_index.m3u8?zshijd
+CGTN,mitv://generationnexxxt.com:19806/b1f0e7e90e654f63a369f11b54428643
 CGTN Documentary,https://livedoc.cgtn.com/500d/prog_index.m3u8?zshijd
+
 NHK·World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
 NHK·World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+
+Al Jazeera,mitv://generationnexxxt.com:19806/03bc1638cc9f4efe9dde7bf6a456bb5b
+BBC World News,mitv://generationnexxxt.com:19806/4500941de27f434cae09553a1f0ed4d1
+CNBC,mitv://generationnexxxt.com:19806/8603e70bd41c4e4a9368407a8a4debdd
+Bloomberg TV,mitv://generationnexxxt.com:19806/fbf63c9e85084cf98b7e39d2cd178608
 
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 
