@@ -317,19 +317,11 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 
 
 测试1,#genre#
-民視,http://23.237.10.66:16334
-民视,http://23.237.10.66:16334
-民视,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
 
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-
-爱尔达体育1,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
-爱尔达体育2,http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8
-爱尔达体育3,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
-亚美卫视,http://www.seasky.icu/ymws.php
 
 KR测试2,#genre#
 ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -358,7 +350,10 @@ AOD 352,mitv://generationnexxxt.com:19806/44f1c9066e6c49578f1f23e8d6b157f0
 AOD 354,mitv://generationnexxxt.com:19806/8ccb8c35ce9f425ebcd93bc3839c8b0e
 华丽台,http://23.237.10.66:16410
 J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
-
+豬哥亮歌廳秀,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv006/4gtv-live-mid/4gtv-4gtv006-avc1_2000000=6-mp4a_135000=8.m3u8?token=FX_BIE7PlclbH7G5j11Vbw&expires=1683366639&token1=3c71zXWczTvcMmpugzWPlA&expires1=1683366639
+Astro歡喜台,mitv://generationnexxxt.com:19806/2988f7d8c6d547118cab3b3495d38ced
+緯來電影 HD,mitv://generationnexxxt.com:19806/ae654eeece794e40b003597793cf810a
+星衛電影 HD,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?
 
 ELTA生活旅游,http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
 Style,http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
