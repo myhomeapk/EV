@@ -294,7 +294,6 @@ CGTN Documentary,https://livedoc.cgtn.com/500d/prog_index.m3u8?zshijd
 
 NHK·World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
 NHK·World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-
 Al Jazeera,mitv://generationnexxxt.com:19806/03bc1638cc9f4efe9dde7bf6a456bb5b
 BBC World News,mitv://generationnexxxt.com:19806/4500941de27f434cae09553a1f0ed4d1
 CNBC,mitv://generationnexxxt.com:19806/8603e70bd41c4e4a9368407a8a4debdd
@@ -396,6 +395,9 @@ EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.inde
 EBS 키즈,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
 
 Test2,#genre#
+
+AOD 352,mitv://generationnexxxt.com:19806/44f1c9066e6c49578f1f23e8d6b157f0
+AOD 354,mitv://generationnexxxt.com:19806/8ccb8c35ce9f425ebcd93bc3839c8b0e
 华丽台,http://23.237.10.66:16410
 J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
 
@@ -406,12 +408,12 @@ Style,http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
 MCE,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
 
 Test3,#genre#
-NBA LIVE 1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836373&extension=ts
-NBA LIVE 2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836372&extension=ts
-NBA LIVE 3,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836371&extension=ts
-NBA LIVE 4,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836370&extension=ts
+TNT,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836373&extension=ts
+TNT,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836372&extension=ts
+NBA TV,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836371&extension=ts
+TNT,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836370&extension=ts
 NBA LIVE 8,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836366&extension=ts
-NBA LIVE 9,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836365&extension=ts
+ESPN,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836365&extension=ts
 
 Astro双星,mitv://generationnexxxt.com:19806/013a1d56a616457492220b460d7f3b06
 Astro AOD HD 311,mitv://generationnexxxt.com:19806/8efee211ca7247078c8ab2db528bb701
@@ -463,8 +465,7 @@ Astro SuperSport 5(農),mitv://generationnexxxt.com:19806/09638fd935964473a20e92
 Star Vijay(農),mitv://generationnexxxt.com:19806/6576b7f93a7d4ab4b40cdb1a6e8eedfd
 Zee Tamil(農),mitv://generationnexxxt.com:19806/04dc8d8f3b2c43c296c0063b0abff6a5
 TVBS亚洲(農),mitv://generationnexxxt.com:19806/7389e1ced8184a84aa22aeec29be6f85
-Astro AOD 352(農),mitv://generationnexxxt.com:19806/44f1c9066e6c49578f1f23e8d6b157f0
-Astro AOD 354(農),mitv://generationnexxxt.com:19806/8ccb8c35ce9f425ebcd93bc3839c8b0e
+
 Astro Tutor TV SK(農),mitv://generationnexxxt.com:19806/9e3a1cdae41e4336be38d2cf55b11e8d
 Astro Tutor TV SPM(農),mitv://generationnexxxt.com:19806/2e9fecb7adec4c9fa49b5c939087983c
 TA-DAA!(農),mitv://generationnexxxt.com:19806/3389d62b2e274f3386c6e0fafca66092
