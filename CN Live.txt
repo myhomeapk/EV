@@ -1,22 +1,20 @@
 央视直播,#genre#
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-CCTV1,http://218.29.55.44:808/hls/1/index.m3u8
 CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
-CCTV2,http://119.28.164.24/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
-CCTV3,mitv://generationnexxxt.com:19806/3f9746250d4d4a10a2c8e45e2d8c23da
-CCTV4,mitv://generationnexxxt.com:19806/d2a14b2b50104d21ae1e25fa12115617
-CCTV5,mitv://generationnexxxt.com:19806/a2de5612f3f04e0f94309ae722be6671
-CCTV5+,mitv://generationnexxxt.com:19806/1414c57883054522810cfc3905bd810d
-CCTV6,mitv://generationnexxxt.com:19806/97af4cc06ea647dc9d5c9dd0c18bb9e5
-CCTV7,mitv://generationnexxxt.com:19806/0062523e31ff412c89bc41596a86c269
-CCTV8,mitv://generationnexxxt.com:19806/94db19b26ddc48139cdf6b270d646204
-CCTV9,mitv://generationnexxxt.com:19806/6e8983ba8cf148e3bc9bc48e344ce20d
-CCTV10,mitv://generationnexxxt.com:19806/015ff0a3854f4e9f91e00eba3c8d4ed7
-CCTV11,mitv://generationnexxxt.com:19806/0bb33337787141b7819b10cc248ddd4d
-CCTV12,mitv://generationnexxxt.com:19806/268e0faee21048c6850d43985f5e68f3
-CCTV13,mitv://generationnexxxt.com:19806/8be28d1d5c214196a9af5386a8c181c2
-CCTV14,mitv://generationnexxxt.com:19806/1e4082a6c2b54c768bafe1dd2fb8ea21
-CCTV15,mitv://generationnexxxt.com:19806/fb346aae15dc49a2a07f00ce74c2f62c
+CCTV3,https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
+CCTV4,https://node1.olelive.com:6443/live/CCTV4HD/hls.m3u8
+CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+CCTV6,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
+CCTV7,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
+CCTV8,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+CCTV10,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+CCTV11,https://node1.olelive.com:6443/live/CCTV11HD/hls.m3u
+CCTV12,https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8
+CCTV13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+CCTV14,https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
+CCTV15,https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8
 
 
 
