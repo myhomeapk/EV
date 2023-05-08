@@ -290,10 +290,10 @@ Mediacorp U,mitv://generationnexxxt.com:19806/c0adca0b6eff436090ff94baf3238705
 
 Sport,#genre#
 纬来体育HD,http://123.51.230.108:18509/.m3u8
-Astro SuperSport1,mitv://generationnexxxt.com:19806/f6fc53b0b0fe47ff9bf6d40eec7705f0
-Astro SuperSport2,mitv://generationnexxxt.com:19806/584adade1c8d4db0b2823cd15b3fd0e9
-Astro SuperSport3,mitv://generationnexxxt.com:19806/0ae4bbc8b3e34a75b728ebddd2bbad42
-Astro SuperSport4,mitv://generationnexxxt.com:19806/80de42b5188745979efecd3007daeaa8
+Axtro SuperSport1,mitv://generationnexxxt.com:19806/f6fc53b0b0fe47ff9bf6d40eec7705f0
+Axtro SuperSport2,mitv://generationnexxxt.com:19806/584adade1c8d4db0b2823cd15b3fd0e9
+Axtro SuperSport3,mitv://generationnexxxt.com:19806/0ae4bbc8b3e34a75b728ebddd2bbad42
+Axtro SuperSport4,mitv://generationnexxxt.com:19806/80de42b5188745979efecd3007daeaa8
 Astro SuperSport5,mitv://generationnexxxt.com:19806/09638fd935964473a20e9260baf2a756
 beIN Sports,mitv://generationnexxxt.com:19806/46375137a35944a38e828ec083096cd9
 beIN Sports2,mitv://generationnexxxt.com:19806/1aa64e5459b04b32a0618b7226e0a3c0
@@ -346,14 +346,14 @@ TNT,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836372&extens
 
 TNT,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836370&extension=ts
 
-Astro双星,mitv://generationnexxxt.com:19806/013a1d56a616457492220b460d7f3b06
-Astro AOD HD 311,mitv://generationnexxxt.com:19806/8efee211ca7247078c8ab2db528bb701
+Axtro双星,mitv://generationnexxxt.com:19806/013a1d56a616457492220b460d7f3b06
+Axtro AOD HD 311,mitv://generationnexxxt.com:19806/8efee211ca7247078c8ab2db528bb701
 中天亚洲台,mitv://generationnexxxt.com:19806/362649bea34241588b42dd964bdfb100
 ONE,mitv://generationnexxxt.com:19806/952368f8f4cf42339c651edcb6267585
 
 
-Astro Awani,mitv://generationnexxxt.com:19806/975e906650de41bcbafead57cbf0d880
-Astro Ceria,mitv://generationnexxxt.com:19806/91018054446042e183ac5f3bdc296f7c
+Axtro Awani,mitv://generationnexxxt.com:19806/975e906650de41bcbafead57cbf0d880
+Axtro Ceria,mitv://generationnexxxt.com:19806/91018054446042e183ac5f3bdc296f7c
 Cartoon Network,mitv://generationnexxxt.com:19806/41375bcbd5094f538f132d3ebb9b2ea6
 Nickelodeon,mitv://generationnexxxt.com:19806/f2783df879aa424b9402999698bcd55f
 Nick Jr,mitv://generationnexxxt.com:19806/05c5813e22bf4475b416ec1b35280aa3
@@ -382,8 +382,8 @@ HITS,mitv://generationnexxxt.com:19806/be8e6fe7ffd343edb7bec5d01de30204
 beIN Sports 3,mitv://generationnexxxt.com:19806/ade2ee776a684bbca72d37b951bf0d61
 Nat Geo Wild,mitv://generationnexxxt.com:19806/789748eb75bb4c3b9522742df4eaee1b
 
-Astro Tutor TV SK,mitv://generationnexxxt.com:19806/9e3a1cdae41e4336be38d2cf55b11e8d
-Astro Tutor TV SPM,mitv://generationnexxxt.com:19806/2e9fecb7adec4c9fa49b5c939087983c
+Axtro Tutor TV SK,mitv://generationnexxxt.com:19806/9e3a1cdae41e4336be38d2cf55b11e8d
+Axtro Tutor TV SPM,mitv://generationnexxxt.com:19806/2e9fecb7adec4c9fa49b5c939087983c
 HITS Movies,mitv://generationnexxxt.com:19806/9e0e356e598d4116a9d0f3144516bdfa
 SHOWCASE MOVIES,mitv://generationnexxxt.com:19806/beabba149e874fc8a5af2b656d596816
 
