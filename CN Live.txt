@@ -256,6 +256,7 @@ BBC World News,mitv://generationnexxxt.com:19806/4500941de27f434cae09553a1f0ed4d
 CNBC,mitv://generationnexxxt.com:19806/8603e70bd41c4e4a9368407a8a4debdd
 Bloomberg TV,mitv://generationnexxxt.com:19806/fbf63c9e85084cf98b7e39d2cd178608
 Euronews,https://euronews.alteox.app/hls/en_stream.m3u8#https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+Astro AEC,mitv://generationnexxxt.com:19806/22641247176547d19a7d7cbb602de7f8
 
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 
@@ -408,10 +409,10 @@ France24(農),mitv://generationnexxxt.com:19806/36154fded93f445f863db448232fffa4
 SPOTV(農),mitv://generationnexxxt.com:19806/c028696060a84386bcd49c9e012904d7
 beIN Sports(農),mitv://generationnexxxt.com:19806/46375137a35944a38e828ec083096cd9
 TVB娱乐新闻台(農),mitv://generationnexxxt.com:19806/8378c6ce158144038e684ac97d498273
-Astro AEC(農),mitv://generationnexxxt.com:19806/22641247176547d19a7d7cbb602de7f8
+
 Awesome TV(農),mitv://generationnexxxt.com:19806/4850be330cac46cbb1d798196663012f
 Colors Tamil(農),mitv://generationnexxxt.com:19806/768423b6c4d341289fdf70e97d03f5e5
-BOO(農),mitv://generationnexxxt.com:19806/d01f4e4805c743ea82f6623c4859e3c9
+
 TVB经典台(農),mitv://generationnexxxt.com:19806/d63e2f53bfab45a5ab38e79430862268
 ABC Australia(農),mitv://generationnexxxt.com:19806/84b326c4dc92459abf1f6e0007c8680a
 Eurosport HD(農),mitv://generationnexxxt.com:19806/aa9706fa55c84772a56fd959f7abdd45
@@ -444,4 +445,5 @@ Golf Channel,mitv://generationnexxxt.com:19806/69981dfb0eb64aea9b1216f81dd80909
 TVB星河(粤),mitv://generationnexxxt.com:19806/18d7387cc825496db789bbfa731a5707
 KBS World,mitv://generationnexxxt.com:19806/26152f8d16224d09bca6368ae2db3e36
 ONE,mitv://generationnexxxt.com:19806/952368f8f4cf42339c651edcb6267585
+BOO,mitv://generationnexxxt.com:19806/d01f4e4805c743ea82f6623c4859e3c9
 
