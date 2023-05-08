@@ -340,21 +340,18 @@ J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
 TVB星河(粤),mitv://generationnexxxt.com:19806/18d7387cc825496db789bbfa731a5707
 緯來電影 HD,mitv://generationnexxxt.com:19806/ae654eeece794e40b003597793cf810a
 星衛電影 HD,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?
-ViuTV,mitv://fccs.word-tv.com:9906/62716383000252be099745b8d64c4cfa
-ViuTVsix,mitv://fccs.word-tv.com:9906/627160d00008ced7098cbc29e23c5e0c
+
 
 Test3,#genre#
-EYE旅游,P2p://ns2.hellotvvod.com:9906/178eec47f2c64a8d967e08c320defd0d
-TNT,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836373&extension=ts
-TNT,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836372&extension=ts
-
 TNT,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836370&extension=ts
+TNT,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836372&extension=ts
+TNT,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836373&extension=ts
+
 
 Axtro双星,mitv://generationnexxxt.com:19806/013a1d56a616457492220b460d7f3b06
 Axtro AOD HD 311,mitv://generationnexxxt.com:19806/8efee211ca7247078c8ab2db528bb701
 中天亚洲台,mitv://generationnexxxt.com:19806/362649bea34241588b42dd964bdfb100
 ONE,mitv://generationnexxxt.com:19806/952368f8f4cf42339c651edcb6267585
-
 
 Axtro Awani,mitv://generationnexxxt.com:19806/975e906650de41bcbafead57cbf0d880
 Axtro Ceria,mitv://generationnexxxt.com:19806/91018054446042e183ac5f3bdc296f7c
