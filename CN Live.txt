@@ -15,13 +15,10 @@ CCTV11,https://node1.olelive.com:6443/live/CCTV11HD/hls.m3u8
 CCTV12,https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8
 CCTV13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 CCTV14,https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
+CCTV15,http://live.cooltv.top/tv/aishang.php?id=cctv15hd
 CCTV15,https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8
 CCTV15,http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
-CCTV15,http://live.cooltv.top/tv/aishang.php?id=cctv15hd
-CCTV15,http://111.59.63.32:9901/tsfile/live/1022_1.m3u8
-CCTV15,http://218.204.51.252:9901/tsfile/live/1020_1.m3u8
-CCTV15,http://182.151.211.171:808/hls/15/index.m3u8
-CCTV15,http://218.29.55.44:808/hls/24/index.m3u8
+CCTV15,http://124.220.17.172:1100/aas.php?id=15
 
 
 卫视直播,#genre#
