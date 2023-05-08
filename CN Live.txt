@@ -1,6 +1,8 @@
 央视直播,#genre#
-CCTV1,mitv://generationnexxxt.com:19806/fefa49169743472ba6c1757f91ed00e1
-CCTV2,mitv://generationnexxxt.com:19806/b2bba5ad68384401a465683b3f02ae03
+CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+CCTV1,http://218.29.55.44:808/hls/1/index.m3u8
+CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+CCTV2,http://119.28.164.24/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
 CCTV3,mitv://generationnexxxt.com:19806/3f9746250d4d4a10a2c8e45e2d8c23da
 CCTV4,mitv://generationnexxxt.com:19806/d2a14b2b50104d21ae1e25fa12115617
 CCTV5,mitv://generationnexxxt.com:19806/a2de5612f3f04e0f94309ae722be6671
@@ -396,28 +398,17 @@ Style,http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
 MCE,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
 
 Test3,#genre#
+NBA LIVE 1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836373&extension=ts
+NBA LIVE 2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836372&extension=ts
+NBA LIVE 3,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836371&extension=ts
+NBA LIVE 4,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836370&extension=ts
+NBA LIVE 8,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836366&extension=ts
+NBA LIVE 9,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836365&extension=ts
 
-NTV7,mitv://generationnexxxt.com:19806/a0c30ea620c3479186327e3834ce4ad7
-
-TV9,mitv://generationnexxxt.com:19806/baeb650a8f9e41979110976e67c9aaf2
-Astro Oasis HD(農),mitv://generationnexxxt.com:19806/5e29ed4cfeda4303ac5bc3b9b5677b5e
-Astro Warna HD(農),mitv://generationnexxxt.com:19806/b71dd3b2816345f2b3a27357851f64b3
-Astro Citra HD(農),mitv://generationnexxxt.com:19806/23e85512bcb64c1a93d3af17bafe0853
-Al-Hijrah(農),mitv://generationnexxxt.com:19806/5274a05cbaf642c9a6fc6093126222f1
-SUN TV(農),mitv://generationnexxxt.com:19806/cb0c4ac979704b34b1002932e8158924
-爱奇艺(農),mitv://generationnexxxt.com:19806/206defdef43a42fb8ee50238e76ac32c
-Astro小太阳(農),mitv://generationnexxxt.com:19806/783861d0aade442c87f4e0dafaf6eb2a
-Astro AEC(备)(農),mitv://generationnexxxt.com:19806/c2d63292987547978c50a2bf2b2f9dc7
-Astro双星(農),mitv://generationnexxxt.com:19806/013a1d56a616457492220b460d7f3b06
-天映频道(農),mitv://generationnexxxt.com:19806/92386b47be6544dca5c536204bddc813
-翡翠台(华丽台)(農),mitv://generationnexxxt.com:19806/273abed884a24011a410ddb0ea81cb1a
-Astro AOD HD 311(農),mitv://generationnexxxt.com:19806/8efee211ca7247078c8ab2db528bb701
-中天亚洲台(農),mitv://generationnexxxt.com:19806/362649bea34241588b42dd964bdfb100
-TVB星河(粤)(農),mitv://generationnexxxt.com:19806/18d7387cc825496db789bbfa731a5707
-天映经典(農),mitv://generationnexxxt.com:19806/0229760baf0a441bba169ee12d860fb7
-Astro欢喜台(農),mitv://generationnexxxt.com:19806/2988f7d8c6d547118cab3b3495d38ced
-KBS World(農),mitv://generationnexxxt.com:19806/26152f8d16224d09bca6368ae2db3e36
-ONE(農),mitv://generationnexxxt.com:19806/952368f8f4cf42339c651edcb6267585
+Astro双星,mitv://generationnexxxt.com:19806/013a1d56a616457492220b460d7f3b06
+Astro AOD HD 311,mitv://generationnexxxt.com:19806/8efee211ca7247078c8ab2db528bb701
+中天亚洲台,mitv://generationnexxxt.com:19806/362649bea34241588b42dd964bdfb100
+ONE,mitv://generationnexxxt.com:19806/952368f8f4cf42339c651edcb6267585
 Colors Hindi(農),mitv://generationnexxxt.com:19806/a5b9ed615fc84d85bde20022d8565941
 TVS(農),mitv://generationnexxxt.com:19806/f1eb585cada34a7a82b614b6204ef095
 tvN Movies HD(農),mitv://generationnexxxt.com:19806/0c39816f6b864d57a8a7c9c956e31952
