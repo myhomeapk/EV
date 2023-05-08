@@ -154,14 +154,11 @@ TAIWAN,#genre#
 寰宇新闻,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
 寰宇新闻台灣台,https://git.io/JgkpO
 寰宇新闻台灣台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
-镜新闻Mnews,http://tv.redrainl.site:9500/live.m3u8?c=28
+镜新闻Mnews,mitv://generationnexxxt.com:19806/e3e4efe5fc44494eac3a307a9ce46027
 镜新闻Mnews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-镜新闻Mnews,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai2.m3u8
-镜新闻Mnews,https://ytm2.yuanhsing.cf/mnews.m3u8
-中天新闻,https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv009/4gtv-live-mid/4gtv-4gtv009-avc1_2000000=3-mp4a_134000=1.m3u8?token=miACj1sdOugwQlpE97Wmzw&expires=1683366572&token1=_IGmsSu2UflzHHF_mzGdqQ&expires1=1683366572
+
+
 中天新闻,mitv://generationnexxxt.com:19806/6448e5a6000f399c1e95e7f44ef6793c
-中天新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctitv.m3u8
-中天新闻,https://git.io/Jgkpy
 东森財经 HD,http://123.51.230.108:18515/.m3u8
 东森財经 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 东森財经 HD,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
