@@ -344,6 +344,7 @@ ViuTV,mitv://fccs.word-tv.com:9906/62716383000252be099745b8d64c4cfa
 ViuTVsix,mitv://fccs.word-tv.com:9906/627160d00008ced7098cbc29e23c5e0c
 
 Test3,#genre#
+EYE旅游,P2p://ns2.hellotvvod.com:9906/178eec47f2c64a8d967e08c320defd0d
 TNT,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836373&extension=ts
 TNT,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836372&extension=ts
 
