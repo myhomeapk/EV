@@ -257,6 +257,8 @@ CNBC,mitv://generationnexxxt.com:19806/8603e70bd41c4e4a9368407a8a4debdd
 Bloomberg TV,mitv://generationnexxxt.com:19806/fbf63c9e85084cf98b7e39d2cd178608
 Euronews,https://euronews.alteox.app/hls/en_stream.m3u8#https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 Astro AEC,mitv://generationnexxxt.com:19806/22641247176547d19a7d7cbb602de7f8
+Sky News,mitv://generationnexxxt.com:19806/ddc4e102601e4fcfa5432722538cf052
+ABC Australia,mitv://generationnexxxt.com:19806/84b326c4dc92459abf1f6e0007c8680a
 
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 
@@ -374,52 +376,42 @@ Astro双星,mitv://generationnexxxt.com:19806/013a1d56a616457492220b460d7f3b06
 Astro AOD HD 311,mitv://generationnexxxt.com:19806/8efee211ca7247078c8ab2db528bb701
 中天亚洲台,mitv://generationnexxxt.com:19806/362649bea34241588b42dd964bdfb100
 ONE,mitv://generationnexxxt.com:19806/952368f8f4cf42339c651edcb6267585
-Colors Hindi(農),mitv://generationnexxxt.com:19806/a5b9ed615fc84d85bde20022d8565941
-TVS(農),mitv://generationnexxxt.com:19806/f1eb585cada34a7a82b614b6204ef095
-tvN Movies HD(農),mitv://generationnexxxt.com:19806/0c39816f6b864d57a8a7c9c956e31952
-Astro Awani(農),mitv://generationnexxxt.com:19806/975e906650de41bcbafead57cbf0d880
-CGTN(農),mitv://generationnexxxt.com:19806/b1f0e7e90e654f63a369f11b54428643
-BBC World News(農),mitv://generationnexxxt.com:19806/4500941de27f434cae09553a1f0ed4d1
-Al Jazeera English(農),mitv://generationnexxxt.com:19806/03bc1638cc9f4efe9dde7bf6a456bb5b
-CNBC(農),mitv://generationnexxxt.com:19806/8603e70bd41c4e4a9368407a8a4debdd
-Bloomberg TV(農),mitv://generationnexxxt.com:19806/fbf63c9e85084cf98b7e39d2cd178608
-Astro Ceria(農),mitv://generationnexxxt.com:19806/91018054446042e183ac5f3bdc296f7c
-Cartoon Network(農),mitv://generationnexxxt.com:19806/41375bcbd5094f538f132d3ebb9b2ea6
-Nickelodeon(農),mitv://generationnexxxt.com:19806/f2783df879aa424b9402999698bcd55f
-Nick Jr.(農),mitv://generationnexxxt.com:19806/05c5813e22bf4475b416ec1b35280aa3
-Boomerang(農),mitv://generationnexxxt.com:19806/317cf636b2d448d0867cc1f976064d8a
-AXN亚洲(農),mitv://generationnexxxt.com:19806/8add116b0e7d408f89cdf74897f02aef
-KIX(農),mitv://generationnexxxt.com:19806/04533ea3664e43579573b50db8988450
-HITS(農),mitv://generationnexxxt.com:19806/be8e6fe7ffd343edb7bec5d01de30204
-Astro Arena(農),mitv://generationnexxxt.com:19806/8be35ecb77f54e479652bf42d737f3db
-Astro SuperSport(農),mitv://generationnexxxt.com:19806/f6fc53b0b0fe47ff9bf6d40eec7705f0
-Astro SuperSport 2(農),mitv://generationnexxxt.com:19806/584adade1c8d4db0b2823cd15b3fd0e9
-Astro SuperSport 3(農),mitv://generationnexxxt.com:19806/0ae4bbc8b3e34a75b728ebddd2bbad42
-Astro SuperSport 4(農),mitv://generationnexxxt.com:19806/80de42b5188745979efecd3007daeaa8
-beIN Sports 3(農),mitv://generationnexxxt.com:19806/ade2ee776a684bbca72d37b951bf0d61
-WWE(農),mitv://generationnexxxt.com:19806/157d295b0933470ab2c880d58a7f14ce
-Sky News(農),mitv://generationnexxxt.com:19806/ddc4e102601e4fcfa5432722538cf052
-八度空间(备)(農),mitv://generationnexxxt.com:19806/6fd86a03f1eb41419da63283c7701052
-Nat Geo Wild(農),mitv://generationnexxxt.com:19806/789748eb75bb4c3b9522742df4eaee1b
-tvN(農),mitv://generationnexxxt.com:19806/0a5ae3fce9314efba3240158ae4bc485
-Drama Sangat(農),mitv://generationnexxxt.com:19806/315f560808404c4a993ec15d83aa451f
-Berita RTM(農),mitv://generationnexxxt.com:19806/0425a3d913b04d29a63d5b21dd07ae65
-DW(農),mitv://generationnexxxt.com:19806/da713062bd9d419a913b6e9b1aef8fb6
-France24(農),mitv://generationnexxxt.com:19806/36154fded93f445f863db448232fffa4
-SPOTV(農),mitv://generationnexxxt.com:19806/c028696060a84386bcd49c9e012904d7
-beIN Sports(農),mitv://generationnexxxt.com:19806/46375137a35944a38e828ec083096cd9
-TVB娱乐新闻台(農),mitv://generationnexxxt.com:19806/8378c6ce158144038e684ac97d498273
 
-Awesome TV(農),mitv://generationnexxxt.com:19806/4850be330cac46cbb1d798196663012f
-Colors Tamil(農),mitv://generationnexxxt.com:19806/768423b6c4d341289fdf70e97d03f5e5
 
-TVB经典台(農),mitv://generationnexxxt.com:19806/d63e2f53bfab45a5ab38e79430862268
-ABC Australia(農),mitv://generationnexxxt.com:19806/84b326c4dc92459abf1f6e0007c8680a
-Eurosport HD(農),mitv://generationnexxxt.com:19806/aa9706fa55c84772a56fd959f7abdd45
-Astro SuperSport 5(農),mitv://generationnexxxt.com:19806/09638fd935964473a20e9260baf2a756
-Star Vijay(農),mitv://generationnexxxt.com:19806/6576b7f93a7d4ab4b40cdb1a6e8eedfd
-Zee Tamil(農),mitv://generationnexxxt.com:19806/04dc8d8f3b2c43c296c0063b0abff6a5
-TVBS亚洲(農),mitv://generationnexxxt.com:19806/7389e1ced8184a84aa22aeec29be6f85
+Astro Awani,mitv://generationnexxxt.com:19806/975e906650de41bcbafead57cbf0d880
+Astro Ceria,mitv://generationnexxxt.com:19806/91018054446042e183ac5f3bdc296f7c
+Cartoon Network,mitv://generationnexxxt.com:19806/41375bcbd5094f538f132d3ebb9b2ea6
+Nickelodeon,mitv://generationnexxxt.com:19806/f2783df879aa424b9402999698bcd55f
+Nick Jr,mitv://generationnexxxt.com:19806/05c5813e22bf4475b416ec1b35280aa3
+Boomerang,mitv://generationnexxxt.com:19806/317cf636b2d448d0867cc1f976064d8a
+AXN亚洲,mitv://generationnexxxt.com:19806/8add116b0e7d408f89cdf74897f02aef
+KIX,mitv://generationnexxxt.com:19806/04533ea3664e43579573b50db8988450
+HITS,mitv://generationnexxxt.com:19806/be8e6fe7ffd343edb7bec5d01de30204
+
+Astro SuperSport,mitv://generationnexxxt.com:19806/f6fc53b0b0fe47ff9bf6d40eec7705f0
+Astro SuperSport2,mitv://generationnexxxt.com:19806/584adade1c8d4db0b2823cd15b3fd0e9
+Astro SuperSport3,mitv://generationnexxxt.com:19806/0ae4bbc8b3e34a75b728ebddd2bbad42
+Astro SuperSport4,mitv://generationnexxxt.com:19806/80de42b5188745979efecd3007daeaa8
+Astro SuperSport5,mitv://generationnexxxt.com:19806/09638fd935964473a20e9260baf2a756
+beIN Sports 3,mitv://generationnexxxt.com:19806/ade2ee776a684bbca72d37b951bf0d61
+WWE,mitv://generationnexxxt.com:19806/157d295b0933470ab2c880d58a7f14ce
+
+
+Nat Geo Wild,mitv://generationnexxxt.com:19806/789748eb75bb4c3b9522742df4eaee1b
+
+DW,mitv://generationnexxxt.com:19806/da713062bd9d419a913b6e9b1aef8fb6
+France24,mitv://generationnexxxt.com:19806/36154fded93f445f863db448232fffa4
+SPOTV,mitv://generationnexxxt.com:19806/c028696060a84386bcd49c9e012904d7
+beIN Sports,mitv://generationnexxxt.com:19806/46375137a35944a38e828ec083096cd9
+TVB娱乐新闻台,mitv://generationnexxxt.com:19806/8378c6ce158144038e684ac97d498273
+
+TVB经典台,mitv://generationnexxxt.com:19806/d63e2f53bfab45a5ab38e79430862268
+
+Eurosport HD,mitv://generationnexxxt.com:19806/aa9706fa55c84772a56fd959f7abdd45
+
+
+Zee Tamil,mitv://generationnexxxt.com:19806/04dc8d8f3b2c43c296c0063b0abff6a5
+TVBS亚洲,mitv://generationnexxxt.com:19806/7389e1ced8184a84aa22aeec29be6f85
 Colors Hindi(農),mitv://generationnexxxt.com:19806/a5b9ed615fc84d85bde20022d8565941
 CGTN(農),mitv://generationnexxxt.com:19806/b1f0e7e90e654f63a369f11b54428643
 BBC World News(農),mitv://generationnexxxt.com:19806/4500941de27f434cae09553a1f0ed4d1
