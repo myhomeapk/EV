@@ -212,9 +212,13 @@ BBC World News,mitv://generationnexxxt.com:19806/4500941de27f434cae09553a1f0ed4d
 CNBC,mitv://generationnexxxt.com:19806/8603e70bd41c4e4a9368407a8a4debdd
 Bloomberg TV,mitv://generationnexxxt.com:19806/fbf63c9e85084cf98b7e39d2cd178608
 Euronews,https://euronews.alteox.app/hls/en_stream.m3u8#https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+DW,mitv://generationnexxxt.com:19806/da713062bd9d419a913b6e9b1aef8fb6
+France24,mitv://generationnexxxt.com:19806/36154fded93f445f863db448232fffa4
+
 Astro AEC,mitv://generationnexxxt.com:19806/22641247176547d19a7d7cbb602de7f8
 Sky News,mitv://generationnexxxt.com:19806/ddc4e102601e4fcfa5432722538cf052
 ABC Australia,mitv://generationnexxxt.com:19806/84b326c4dc92459abf1f6e0007c8680a
+TVB娱乐新闻台,mitv://generationnexxxt.com:19806/8378c6ce158144038e684ac97d498273
 
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
@@ -363,9 +367,8 @@ AXN亚洲,mitv://generationnexxxt.com:19806/8add116b0e7d408f89cdf74897f02aef
 KIX,mitv://generationnexxxt.com:19806/04533ea3664e43579573b50db8988450
 HITS,mitv://generationnexxxt.com:19806/be8e6fe7ffd343edb7bec5d01de30204
 Nat Geo Wild,mitv://generationnexxxt.com:19806/789748eb75bb4c3b9522742df4eaee1b
-DW,mitv://generationnexxxt.com:19806/da713062bd9d419a913b6e9b1aef8fb6
-France24,mitv://generationnexxxt.com:19806/36154fded93f445f863db448232fffa4
-TVB娱乐新闻台,mitv://generationnexxxt.com:19806/8378c6ce158144038e684ac97d498273
+
+
 TVB经典台,mitv://generationnexxxt.com:19806/d63e2f53bfab45a5ab38e79430862268
 Zee Tamil,mitv://generationnexxxt.com:19806/04dc8d8f3b2c43c296c0063b0abff6a5
 TVBS Asia,mitv://generationnexxxt.com:19806/7389e1ced8184a84aa22aeec29be6f85
