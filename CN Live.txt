@@ -339,6 +339,8 @@ J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
 TVB星河(粤),mitv://generationnexxxt.com:19806/18d7387cc825496db789bbfa731a5707
 緯來電影 HD,mitv://generationnexxxt.com:19806/ae654eeece794e40b003597793cf810a
 星衛電影 HD,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?
+ViuTV,mitv://fccs.word-tv.com:9906/62716383000252be099745b8d64c4cfa
+ViuTVsix,mitv://fccs.word-tv.com:9906/627160d00008ced7098cbc29e23c5e0c
 
 Test3,#genre#
 TNT,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836373&extension=ts
