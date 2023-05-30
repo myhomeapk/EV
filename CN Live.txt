@@ -81,6 +81,8 @@ ViuTV,P2p://135.148.104.228:19806/894e66f1d02e423f9d6726108942dcf1
 凤凰中文,http://110.72.58.54:808/hls/132/index.m3u8
 凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
 
+凤凰香港,P2p://135.148.104.228:19806/b70e94e7ac144bf585ad3bb140833c64
+
 
 无线财经,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
