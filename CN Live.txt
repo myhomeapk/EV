@@ -2,6 +2,7 @@
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 CCTV3,https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
+CCTV4,P2p://135.148.104.228:19806/53697021440d41b180890cab9ba1cd96
 CCTV4,https://node1.olelive.com:6443/live/CCTV4HD/hls.m3u8
 CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
