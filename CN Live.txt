@@ -294,7 +294,7 @@ Axtro SuperSport1,mitv://generationnexxxt.com:19806/f6fc53b0b0fe47ff9bf6d40eec77
 Axtro SuperSport2,mitv://generationnexxxt.com:19806/584adade1c8d4db0b2823cd15b3fd0e9
 Axtro SuperSport3,mitv://generationnexxxt.com:19806/0ae4bbc8b3e34a75b728ebddd2bbad42
 Axtro SuperSport4,mitv://generationnexxxt.com:19806/80de42b5188745979efecd3007daeaa8
-Astro SuperSport5,mitv://generationnexxxt.com:19806/09638fd935964473a20e9260baf2a756
+Axtro SuperSport5,mitv://generationnexxxt.com:19806/09638fd935964473a20e9260baf2a756
 beIN Sports,mitv://generationnexxxt.com:19806/46375137a35944a38e828ec083096cd9
 beIN Sports2,mitv://generationnexxxt.com:19806/1aa64e5459b04b32a0618b7226e0a3c0
 beIN Sports3,mitv://generationnexxxt.com:19806/ade2ee776a684bbca72d37b951bf0d61
@@ -317,6 +317,17 @@ ESPN,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836365&exten
 ELEVEN体育2台,P2p://generationnexxxt.com:19806/e3aeaea58e574957a3ce60d7e2d1081d
 智林体育台,P2p://generationnexxxt.com:19806/e32d399935b14711ad1b193cd5841274
 博斯运动二台,P2p://generationnexxxt.com:19806/5faa98e5bbc442e4bd72b544651dd1be
+
+Food,#genre#
+美食星球,P2p://135.148.104.228:19806/c8b8f19c8410441eb9e9039572c72137
+亚洲美食频道,P2p://135.148.104.228:19806/5ae5dc61eb68407cb5dac94ce8dfca2e
+Food Network,P2p://135.148.104.228:19806/4e5615643ab540cbbe0ec4a7b4e1ff95
+
+Travel,#genre#
+亚洲旅游台,P2p://135.148.104.228:19806/8e7af36f23874793854226c5b64097d3
+EYE TV旅游台,P2p://135.148.104.228:19806/1f972fea45904a9caa1119860d4d4b70
+Travel Channel,P2p://135.148.104.228:19806/644e9b240008c0cb34e2da7f6b043e97
+TLC旅游生活,P2p://135.148.104.228:19806/bc6c20458c4c422b9297dbfd25f12f67
 
 
 KR测试2,#genre#
@@ -354,14 +365,6 @@ SHOWCASE MOVIES,mitv://generationnexxxt.com:19806/beabba149e874fc8a5af2b656d5968
 KBS World,mitv://generationnexxxt.com:19806/26152f8d16224d09bca6368ae2db3e36
 ONE,mitv://generationnexxxt.com:19806/952368f8f4cf42339c651edcb6267585
 BOO,mitv://generationnexxxt.com:19806/d01f4e4805c743ea82f6623c4859e3c9
-
-美食星球,P2p://135.148.104.228:19806/c8b8f19c8410441eb9e9039572c72137
-亚洲美食频道,P2p://135.148.104.228:19806/5ae5dc61eb68407cb5dac94ce8dfca2e
-Food Network,P2p://135.148.104.228:19806/4e5615643ab540cbbe0ec4a7b4e1ff95
-
-亚洲旅游台,P2p://135.148.104.228:19806/8e7af36f23874793854226c5b64097d3
-EYE TV旅游台,P2p://135.148.104.228:19806/1f972fea45904a9caa1119860d4d4b70
-Travel Channel,P2p://135.148.104.228:19806/644e9b240008c0cb34e2da7f6b043e97
 
 Test3,#genre#
 欢喜台,P2p://135.148.104.228:19806/6451da7f0009db08419256457134482d
