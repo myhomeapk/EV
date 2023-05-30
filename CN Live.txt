@@ -315,6 +315,9 @@ ESPN,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836365&exten
 博斯无限台,P2p://generationnexxxt.com:19806/644e9b25000559f634e2dd8c46c81a89
 博斯无限二台,P2p://generationnexxxt.com:19806/4e3ed72f4150435d90bf020a74ea1bc5
 博斯运动,P2p://generationnexxxt.com:19806/644e9b24000f31b634e2dc24008c5e76
+爱尔达体育1台,P2p://135.148.104.228:19806/7ee39f66b9f448979335e4067812760f
+爱尔达体育2台,P2p://135.148.104.228:19806/64604ca4000ec4a27a0042e203a811eb
+ELEVEN体育1台,P2p://135.148.104.228:19806/61a3473768ec4860bf9c5cc9911f71d6
 ELEVEN体育2台,P2p://generationnexxxt.com:19806/e3aeaea58e574957a3ce60d7e2d1081d
 智林体育台,P2p://generationnexxxt.com:19806/e32d399935b14711ad1b193cd5841274
 博斯运动二台,P2p://generationnexxxt.com:19806/5faa98e5bbc442e4bd72b544651dd1be
