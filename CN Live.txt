@@ -365,12 +365,19 @@ EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.inde
 EBS 키즈,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
 
 Test2,#genre#
-J2,mitv://fccs.word-tv.com:9906/6258eae70008a93811ffb57b47682072
+J2,P2p://135.148.104.228:19806/1d7353774ff645bcbca9f9d5538c4ba7
 J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
 TVB星河(粤),mitv://generationnexxxt.com:19806/18d7387cc825496db789bbfa731a5707
+TVB星河(粤),P2p://135.148.104.228:19806/18d7387cc825496db789bbfa731a5707
+TVB经典台,P2p://135.148.104.228:19806/d63e2f53bfab45a5ab38e79430862268
 TVB经典台,mitv://generationnexxxt.com:19806/d63e2f53bfab45a5ab38e79430862268
 緯來電影 HD,mitv://generationnexxxt.com:19806/ae654eeece794e40b003597793cf810a
-星衛電影 HD,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?
+星衛電影 HD,P2p://135.148.104.228:19806/e241d240f66a45adb8be67c8c5cb7edc
+HKC电影台,P2p://135.148.104.228:19806/f64b49e3829e4fe2bf948a18b19c5a98
+凤凰电影台,P2p://135.148.104.228:19806/2df8c6787b0a4f08bee3dcccd49aef8b
+东森电影台,P2p://135.148.104.228:19806/c4890d819ae5497db49b4f13a019e128
+纬来电影台,P2p://135.148.104.228:19806/ae654eeece794e40b003597793cf810a
+龙祥电影,P2p://135.148.104.228:19806/644b663d0002f2fe285c32b00e0f46ef
 KIX,mitv://generationnexxxt.com:19806/04533ea3664e43579573b50db8988450
 HITS,mitv://generationnexxxt.com:19806/be8e6fe7ffd343edb7bec5d01de30204
 HITS Movies,mitv://generationnexxxt.com:19806/9e0e356e598d4116a9d0f3144516bdfa
