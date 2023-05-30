@@ -339,8 +339,7 @@ EBS 키즈,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chun
 
 Test2,#genre#
 
-AOD 352,mitv://generationnexxxt.com:19806/44f1c9066e6c49578f1f23e8d6b157f0
-AOD 354,mitv://generationnexxxt.com:19806/8ccb8c35ce9f425ebcd93bc3839c8b0e
+
 华丽台,http://23.237.10.66:16410
 J2,mitv://fccs.word-tv.com:9906/6258eae70008a93811ffb57b47682072
 J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
@@ -357,9 +356,10 @@ ONE,mitv://generationnexxxt.com:19806/952368f8f4cf42339c651edcb6267585
 BOO,mitv://generationnexxxt.com:19806/d01f4e4805c743ea82f6623c4859e3c9
 
 Test3,#genre#
-
+AOD 311,mitv://generationnexxxt.com:19806/8efee211ca7247078c8ab2db528bb701
+AOD 352,mitv://generationnexxxt.com:19806/44f1c9066e6c49578f1f23e8d6b157f0
+AOD 354,mitv://generationnexxxt.com:19806/8ccb8c35ce9f425ebcd93bc3839c8b0e
 Axtro双星,mitv://generationnexxxt.com:19806/013a1d56a616457492220b460d7f3b06
-Axtro AOD HD 311,mitv://generationnexxxt.com:19806/8efee211ca7247078c8ab2db528bb701
 Axtro Awani,mitv://generationnexxxt.com:19806/975e906650de41bcbafead57cbf0d880
 Axtro Ceria,mitv://generationnexxxt.com:19806/91018054446042e183ac5f3bdc296f7c
 Axtro Tutor TV SK,mitv://generationnexxxt.com:19806/9e3a1cdae41e4336be38d2cf55b11e8d
@@ -370,12 +370,11 @@ Nick Jr,mitv://generationnexxxt.com:19806/05c5813e22bf4475b416ec1b35280aa3
 Boomerang,mitv://generationnexxxt.com:19806/317cf636b2d448d0867cc1f976064d8a
 
 Nat Geo Wild,mitv://generationnexxxt.com:19806/789748eb75bb4c3b9522742df4eaee1b
-Colors Hindi,mitv://generationnexxxt.com:19806/a5b9ed615fc84d85bde20022d8565941
+
 Zee Tamil,mitv://generationnexxxt.com:19806/04dc8d8f3b2c43c296c0063b0abff6a5
 TVBS Asia,mitv://generationnexxxt.com:19806/7389e1ced8184a84aa22aeec29be6f85
 AXN Asia,mitv://generationnexxxt.com:19806/8add116b0e7d408f89cdf74897f02aef
 
-TNT,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836370&extension=ts
 TNT,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836372&extension=ts
 TNT,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836373&extension=ts
 
