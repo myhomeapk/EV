@@ -289,7 +289,8 @@ CNA,mitv://generationnexxxt.com:19806/7d55ade47df54e3497f9e0fce031943b
 Mediacorp U,mitv://generationnexxxt.com:19806/c0adca0b6eff436090ff94baf3238705
 
 Sport,#genre#
-纬来体育HD,http://123.51.230.108:18509/.m3u8
+纬来体育,P2p://135.148.104.228:19806/801a9a12c10d4d04953332771aee0dba
+纬来体育,http://123.51.230.108:18509/.m3u8
 Axtro SuperSport1,mitv://generationnexxxt.com:19806/f6fc53b0b0fe47ff9bf6d40eec7705f0
 Axtro SuperSport2,mitv://generationnexxxt.com:19806/584adade1c8d4db0b2823cd15b3fd0e9
 Axtro SuperSport3,mitv://generationnexxxt.com:19806/0ae4bbc8b3e34a75b728ebddd2bbad42
