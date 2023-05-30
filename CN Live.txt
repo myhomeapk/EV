@@ -137,6 +137,7 @@ TAIWAN,#genre#
 
 东森財经 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 东森財经 HD,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
+TVBS Asia,mitv://generationnexxxt.com:19806/7389e1ced8184a84aa22aeec29be6f85
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
@@ -371,7 +372,7 @@ Boomerang,mitv://generationnexxxt.com:19806/317cf636b2d448d0867cc1f976064d8a
 Nat Geo Wild,mitv://generationnexxxt.com:19806/789748eb75bb4c3b9522742df4eaee1b
 
 Zee Tamil,mitv://generationnexxxt.com:19806/04dc8d8f3b2c43c296c0063b0abff6a5
-TVBS Asia,mitv://generationnexxxt.com:19806/7389e1ced8184a84aa22aeec29be6f85
+
 AXN Asia,mitv://generationnexxxt.com:19806/8add116b0e7d408f89cdf74897f02aef
 
 TNT,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=836372&extension=ts
