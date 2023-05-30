@@ -66,6 +66,8 @@ HONG KONG,#genre#
 
 翡翠台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941619&extension=ts&play_token=p2yEuU1aFS
 TVB星河粵語,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
+ViuTVsix,P2p://135.148.104.228:19806/c4c1c3b894794541baf86612a8c8ce33
+ViuTV,P2p://135.148.104.228:19806/894e66f1d02e423f9d6726108942dcf1
 
 凤凰资讯,P2p://135.148.104.228:19806/0b7958cc2d1c4a6f9f9449e92ad92b9e
 凤凰资讯,http://110.72.57.125:808/hls/83/index.m3u8
