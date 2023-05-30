@@ -341,9 +341,6 @@ EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.inde
 EBS 키즈,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
 
 Test2,#genre#
-
-
-华丽台,http://23.237.10.66:16410
 J2,mitv://fccs.word-tv.com:9906/6258eae70008a93811ffb57b47682072
 J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
 TVB星河(粤),mitv://generationnexxxt.com:19806/18d7387cc825496db789bbfa731a5707
@@ -367,11 +364,12 @@ Test3,#genre#
 AOD 311,mitv://generationnexxxt.com:19806/8efee211ca7247078c8ab2db528bb701
 AOD 352,mitv://generationnexxxt.com:19806/44f1c9066e6c49578f1f23e8d6b157f0
 AOD 354,mitv://generationnexxxt.com:19806/8ccb8c35ce9f425ebcd93bc3839c8b0e
-Axtro双星,mitv://generationnexxxt.com:19806/013a1d56a616457492220b460d7f3b06
-Axtro Awani,mitv://generationnexxxt.com:19806/975e906650de41bcbafead57cbf0d880
-Axtro Ceria,mitv://generationnexxxt.com:19806/91018054446042e183ac5f3bdc296f7c
-Axtro Tutor TV SK,mitv://generationnexxxt.com:19806/9e3a1cdae41e4336be38d2cf55b11e8d
-Axtro Tutor TV SPM,mitv://generationnexxxt.com:19806/2e9fecb7adec4c9fa49b5c939087983c
+双星,mitv://generationnexxxt.com:19806/013a1d56a616457492220b460d7f3b06
+华丽台,http://23.237.10.66:16410
+Awani,mitv://generationnexxxt.com:19806/975e906650de41bcbafead57cbf0d880
+Ceria,mitv://generationnexxxt.com:19806/91018054446042e183ac5f3bdc296f7c
+Tutor TV SK,mitv://generationnexxxt.com:19806/9e3a1cdae41e4336be38d2cf55b11e8d
+Tutor TV SPM,mitv://generationnexxxt.com:19806/2e9fecb7adec4c9fa49b5c939087983c
 Cartoon Network,mitv://generationnexxxt.com:19806/41375bcbd5094f538f132d3ebb9b2ea6
 Nickelodeon,mitv://generationnexxxt.com:19806/f2783df879aa424b9402999698bcd55f
 Nick Jr,mitv://generationnexxxt.com:19806/05c5813e22bf4475b416ec1b35280aa3
