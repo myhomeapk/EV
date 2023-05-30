@@ -343,7 +343,7 @@ Travel Channel,P2p://135.148.104.228:19806/644e9b240008c0cb34e2da7f6b043e97
 TLC旅游生活,P2p://135.148.104.228:19806/bc6c20458c4c422b9297dbfd25f12f67
 
 
-KR测试2,#genre#
+Korea,#genre#
 ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 ArirangTV,http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 ArirangTV,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
