@@ -1,1 +1,29 @@
 World News,#genre#
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+CNN,http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
+CNC(CN),http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
+CNC(EN),http://source07.v.news.cn/live/CNC_EN/playlist.m3u8?zshijd
+CGTN(EN),http://live.cgtn.com/1000/prog_index.m3u8?zshijd
+CGTN(EN),http://live.cgtn.com/500/prog_index.m3u8?zshijd
+CGTN,mitv://generationnexxxt.com:19806/b1f0e7e90e654f63a369f11b54428643
+CGTN Documentary,https://livedoc.cgtn.com/500d/prog_index.m3u8?zshijd
+
+NHK·World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
+NHK·World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+Al Jazeera,mitv://generationnexxxt.com:19806/03bc1638cc9f4efe9dde7bf6a456bb5b
+BBC World News,mitv://generationnexxxt.com:19806/4500941de27f434cae09553a1f0ed4d1
+CNBC,mitv://generationnexxxt.com:19806/8603e70bd41c4e4a9368407a8a4debdd
+Bloomberg TV,mitv://generationnexxxt.com:19806/fbf63c9e85084cf98b7e39d2cd178608
+Euronews,https://euronews.alteox.app/hls/en_stream.m3u8#https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+DW,mitv://generationnexxxt.com:19806/da713062bd9d419a913b6e9b1aef8fb6
+France24,mitv://generationnexxxt.com:19806/36154fded93f445f863db448232fffa4
+
+AEC,P2p://135.148.104.228:19806/22641247176547d19a7d7cbb602de7f8
+AEC,mitv://generationnexxxt.com:19806/22641247176547d19a7d7cbb602de7f8
+八度空间,P2p://135.148.104.228:19806/645ca03c000900b16ba6cb2b3d9530d5
+八度空间,P2p://135.148.104.228:19806/779aca170dba40c5b133a039f4ba2d73
+CCTV4,P2p://135.148.104.228:19806/53697021440d41b180890cab9ba1cd96
+CCTV13,P2p://135.148.104.228:19806/65926086b49b4fc4b6f29aab1d497f35
+Sky News,mitv://generationnexxxt.com:19806/ddc4e102601e4fcfa5432722538cf052
+ABC Australia,mitv://generationnexxxt.com:19806/84b326c4dc92459abf1f6e0007c8680a
+TVB娱乐新闻台,mitv://generationnexxxt.com:19806/8378c6ce158144038e684ac97d498273
