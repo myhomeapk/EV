@@ -27,3 +27,5 @@ CCTV13,P2p://135.148.104.228:19806/65926086b49b4fc4b6f29aab1d497f35
 Sky News,mitv://generationnexxxt.com:19806/ddc4e102601e4fcfa5432722538cf052
 ABC Australia,mitv://generationnexxxt.com:19806/84b326c4dc92459abf1f6e0007c8680a
 TVB娱乐新闻台,mitv://generationnexxxt.com:19806/8378c6ce158144038e684ac97d498273
+中天新闻,http://lzoq.nndx.ml/liugongzi/ytb.php?id=cti
+中天新闻2,http://lzoq.nndx.ml/liugongzi/ytb.php?id=cti2
