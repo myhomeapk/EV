@@ -1,26 +1,5 @@
-央视直播,#genre#
-CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
-CCTV3,https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
-CCTV4,P2p://135.148.104.228:19806/53697021440d41b180890cab9ba1cd96
-CCTV4,https://node1.olelive.com:6443/live/CCTV4HD/hls.m3u8
-CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-CCTV6,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
-CCTV7,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
-CCTV8,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
-CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-CCTV10,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
-CCTV11,http://117.169.124.149:8080/live/cctv-11/index.m3u8
-CCTV11,https://node1.olelive.com:6443/live/CCTV11HD/hls.m3u8
-CCTV12,https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8
-CCTV13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
-CCTV14,https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
-CCTV15,http://live.cooltv.top/tv/aishang.php?id=cctv15hd
-CCTV15,https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8
-CCTV15,http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
-CCTV15,http://124.220.17.172:1100/aas.php?id=15
-
+Free App,#genre#
+Don't Complain,#genre#
 
 World News,#genre#
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
