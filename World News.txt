@@ -27,5 +27,25 @@ CCTV13,P2p://135.148.104.228:19806/65926086b49b4fc4b6f29aab1d497f35
 Sky News,mitv://generationnexxxt.com:19806/ddc4e102601e4fcfa5432722538cf052
 ABC Australia,mitv://generationnexxxt.com:19806/84b326c4dc92459abf1f6e0007c8680a
 TVB娱乐新闻台,mitv://generationnexxxt.com:19806/8378c6ce158144038e684ac97d498273
-中天新闻,http://lzoq.nndx.ml/liugongzi/ytb.php?id=cti
-中天新闻2,http://lzoq.nndx.ml/liugongzi/ytb.php?id=cti2
+中天新闻,https://epg.pw/stream/63e8b74e2b8d54eb1dddb5159fc153e3b3f8868f626b715e8fb94fdb11da763d.m3u8
+中天新闻 HD,http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
+
+Test,#genre#
+iNews,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
+非凡新闻,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
+民视新闻,http://198.16.100.90:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
+年代新闻,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
+中视新闻台,http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
+东森财经新闻[1280x720],http://198.16.100.90:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
+东森新闻,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
+凤凰卫视资讯,http://awei.beimua.com/iptv.php?id=2
+中天新闻台,http://awei.beimua.com/iptv.php?id=43
+东森新闻台,http://awei.beimua.com/iptv.php?id=44
+中视新闻台,http://awei.beimua.com/iptv.php?id=46
+台视新闻台,http://awei.beimua.com/iptv.php?id=47
+三立新闻台,http://awei.beimua.com/iptv.php?id=48
+民视新闻台,http://awei.beimua.com/iptv.php?id=50
+华视新闻台,http://awei.beimua.com/iptv.php?id=51
+镜电视新闻台,http://awei.beimua.com/iptv.php?id=52
+环宇新闻台,http://awei.beimua.com/iptv.php?id=53
+TVBS新闻台,http://awei.beimua.com/iptv.php?id=54
