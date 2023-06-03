@@ -2,6 +2,7 @@
 World News,#genre#
 Free App,http://
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNN,http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
 CNN,mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
@@ -20,30 +21,36 @@ NHK·World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/i
 Al Jazeera,mitv://generationnexxxt.com:19806/03bc1638cc9f4efe9dde7bf6a456bb5b
 BBC World News,mitv://generationnexxxt.com:19806/4500941de27f434cae09553a1f0ed4d1
 CNBC,mitv://generationnexxxt.com:19806/8603e70bd41c4e4a9368407a8a4debdd
+Fox News,mitv://generationnexxxt.com:19806/645a7af80001541a6345379702241ea6
 Bloomberg TV,mitv://generationnexxxt.com:19806/fbf63c9e85084cf98b7e39d2cd178608
+
 Euronews,https://euronews.alteox.app/hls/en_stream.m3u8#https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 DW,mitv://generationnexxxt.com:19806/da713062bd9d419a913b6e9b1aef8fb6
 France24,mitv://generationnexxxt.com:19806/36154fded93f445f863db448232fffa4
-
+八度空间,mitv://generationnexxxt.com:19806/779aca170dba40c5b133a039f4ba2d73
 八度空间,P2p://135.148.104.228:19806/645ca03c000900b16ba6cb2b3d9530d5
 八度空间,P2p://135.148.104.228:19806/779aca170dba40c5b133a039f4ba2d73
+Awani,http://198.16.100.90:8278/Awani/playlist.m3u8?tid=MADA3704315537043155&ct=19254&tsum=b13ed0c5ea09f584d34097329df9150b
 CCTV4,P2p://135.148.104.228:19806/53697021440d41b180890cab9ba1cd96
 CCTV13,P2p://135.148.104.228:19806/65926086b49b4fc4b6f29aab1d497f35
 Sky News,mitv://generationnexxxt.com:19806/ddc4e102601e4fcfa5432722538cf052
 ABC Australia,mitv://generationnexxxt.com:19806/84b326c4dc92459abf1f6e0007c8680a
 
 
-
-
 Test,#genre#
+AEC,mitv://generationnexxxt.com:19806/645e3c400002030a71f03906176b2ff1
+AEC,mitv://generationnexxxt.com:19806/6467409400039a5d95292194607a7910
 iNews,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
 民视新闻,http://198.16.100.90:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
 年代新闻,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 中视新闻,http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
-凤凰卫视资讯,http://awei.beimua.com/iptv.php?id=2
-
-凤凰卫视,http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
+凤凰资讯,http://awei.beimua.com/iptv.php?id=2
 凤凰资讯,http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
+凤凰卫视,http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
+凤凰中文,http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=300
+凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
+凤凰中文,http://jylt.jdshipin.com:808/hls/29/index.m3u8
+凤凰中文,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=2487
 中天新闻,http://awei.beimua.com/iptv.php?id=43
 中天新闻,https://epg.pw/stream/63e8b74e2b8d54eb1dddb5159fc153e3b3f8868f626b715e8fb94fdb11da763d.m3u8
 东森新闻,http://awei.beimua.com/iptv.php?id=44
@@ -55,14 +62,28 @@ iNews,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274
 镜电视新闻,http://awei.beimua.com/iptv.php?id=52
 环宇新闻,http://awei.beimua.com/iptv.php?id=53
 TVBS新闻,http://awei.beimua.com/iptv.php?id=54
+TVBS新闻,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
 TVB娱乐新闻台,mitv://generationnexxxt.com:19806/8378c6ce158144038e684ac97d498273
 HKC新闻,mitv://generationnexxxt.com:19806/a30ba03ec986438088e5748c21ac1f5b
 非凡商业,mitv://generationnexxxt.com:19806/5fd11cbd11bc4481b7e3b16808b70a5d
-Fox News,mitv://generationnexxxt.com:19806/645a7af80001541a6345379702241ea6
+非凡新闻,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
+非凡新闻,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
 
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?zzhed
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8?zzhed
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/360p.m3u8?zzhed
-Awani,http://198.16.100.90:8278/Awani/playlist.m3u8?tid=MADA3704315537043155&ct=19254&tsum=b13ed0c5ea09f584d34097329df9150b
+
 CBSNews,http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
 CBSNews,http://198.16.100.90:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
+
+娱乐新闻,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571188&extension=ts&play_token=p582OSpABb
+娱乐新闻,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153398&extension=ts&play_token=TPIp3m3TjC
+有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
+有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+
+财经体育新闻,http://120.84.96.82:808/hls/86/index.m3u8
+财经体育新闻,http://120.84.96.89:808/hls/86/index.m3u8
+无线新闻台,http://www.nettvpro.live/hls/tvb.php?id=1
+无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0
+无线财经台,http://www.nettvpro.live/hls/tvb.php?id=2
+无线财经台,http://live.cooltv.top/tv/tvb.php?id=2
