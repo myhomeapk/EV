@@ -89,13 +89,4 @@ CBSNews,http://198.16.100.90:8278/cbsn_glo/playlist.m3u8?tid=ME2E700351897003518
 有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 
-无线新闻台,http://www.nettvpro.live/hls/tvb.php?id=1
-无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0
-
-有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
-北京新闻,http://beifeng.site:4000/rtp/239.3.1.159:8000
-广州新闻ᴴᴰ,http://www.kitcc.cn:8888/udp/239.253.43.72:5146
-
-News98新聞台,http://n08.rcs.revma.com/55tyxsy4qtzuv?rj-ttl=5&rj-tok=AAABexIiGVkA-wjPtoygVgeNGQ
-News98新聞台,http://stream.rcs.revma.com/55tyxsy4qtzuv
 
