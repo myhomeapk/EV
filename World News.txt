@@ -100,3 +100,4 @@ CBSNews,http://198.16.100.90:8278/cbsn_glo/playlist.m3u8?tid=ME2E700351897003518
 无线新闻,http://14.221.164.12:9981/stream/channelid/1617562313?profile=pass
 无线新闻,http://14.221.164.12:9981/stream/channelid/631121084?profile=pass
 AEC,mitv://135.148.104.228:19806/645e3c400002030a71f03906176b2ff1
+AEC,mitv://135.148.104.228:19806/22641247176547d19a7d7cbb602de7f8
