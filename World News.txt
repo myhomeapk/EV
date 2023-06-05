@@ -95,22 +95,20 @@ CBSNews,http://198.16.100.90:8278/cbsn_glo/playlist.m3u8?tid=ME2E700351897003518
 无线新闻,http://pull-l3-cny.douyincdn.com/live/I8NmAJdtvb632.m3u8
 无线新闻,http://14.221.164.12:9981/stream/channelid/1617562313?profile=pass
 无线新闻,http://14.221.164.12:9981/stream/channelid/631121084?profile=pass
-AEC,mitv://135.148.104.228:19806/645e3c400002030a71f03906176b2ff1
-AEC,mitv://135.148.104.228:19806/22641247176547d19a7d7cbb602de7f8
+
+
 
 Test2,#genre#
+AEC,mitv://135.148.104.228:19806/645e3c400002030a71f03906176b2ff1
 凤凰香港,http://120.84.96.87:808/hls/81/index.m3u8
-BernamaTV,http://198.16.100.90:8278/Bernama/playlist.m3u8?tid=MC0C7405967074059670&ct=19225&tsum=5814e3a83adc97e751cba4715f5cad0a
-
-
 CBSNews,http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
 CBSNews,http://198.16.100.90:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
 ABCNews,http://50.7.238.114:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
 ABCNews,http://198.16.100.90:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
-CNN,http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
-CNN,http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
-
 TV3,http://198.16.100.90:8278/TV3/playlist.m3u8?tid=MBAB6337539663375396&ct=19249&tsum=d654aed09f7731acae9bc6b5fafeec6d
 TV3 backup,http://198.16.100.90:8278/TV3_backup/playlist.m3u8?tid=MA3A2227976222279762&ct=19249&tsum=f74de478f6a153a62550be93406fc29c
 TV2,http://198.16.100.90:8278/TV2/playlist.m3u8?tid=MBFB5221296352212963&ct=19249&tsum=c67dd739f98d016c5553f838aad85446
 TV1,http://198.16.100.90:8278/TV1/playlist.m3u8?tid=MC7C8155208481552084&ct=19249&tsum=298dc1db831fd77434f364d0fc12793f
+BernamaTV,http://198.16.100.90:8278/Bernama/playlist.m3u8?tid=MC0C7405967074059670&ct=19225&tsum=5814e3a83adc97e751cba4715f5cad0a
+TVN,http://198.16.100.90:8278/TVN/playlist.m3u8?tid=ME2E2714748027147480&ct=19225&tsum=48ef5f1d47a64fc90e5f5ad5b182fb5d
+
