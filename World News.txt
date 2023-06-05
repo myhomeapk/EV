@@ -37,6 +37,7 @@ Bloomberg TV,mitv://generationnexxxt.com:19806/fbf63c9e85084cf98b7e39d2cd178608
 Euronews,https://euronews.alteox.app/hls/en_stream.m3u8#https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 DW,mitv://generationnexxxt.com:19806/da713062bd9d419a913b6e9b1aef8fb6
 France24,mitv://generationnexxxt.com:19806/36154fded93f445f863db448232fffa4
+TV8,https://epg.pw/stream/4272d54f7d44805ec9a05d9adc8b4c5784396fe26f8ae1a710fd69940e410175.m3u8
 八度空间,mitv://135.148.104.228:19806/645ca03c000900b16ba6cb2b3d9530d5
 八度空间,mitv://generationnexxxt.com:19806/779aca170dba40c5b133a039f4ba2d73
 八度空间,P2p://135.148.104.228:19806/645ca03c000900b16ba6cb2b3d9530d5
