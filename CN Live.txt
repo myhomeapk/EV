@@ -197,9 +197,14 @@ EF运通,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
 
 News,#genre#
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
+CNN,http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+CNN,http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 CNN,http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
-CNC(CN),http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
-CNC(EN),http://source07.v.news.cn/live/CNC_EN/playlist.m3u8?zshijd
+CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
+CNN,mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
+CNN,mitv://135.148.104.228:19806/3745a94cbe904b9480d19a1b5dfc6275
 CGTN(EN),http://live.cgtn.com/1000/prog_index.m3u8?zshijd
 CGTN(EN),http://live.cgtn.com/500/prog_index.m3u8?zshijd
 CGTN,mitv://generationnexxxt.com:19806/b1f0e7e90e654f63a369f11b54428643
@@ -216,8 +221,8 @@ DW,mitv://generationnexxxt.com:19806/da713062bd9d419a913b6e9b1aef8fb6
 France24,mitv://generationnexxxt.com:19806/36154fded93f445f863db448232fffa4
 
 AEC,P2p://135.148.104.228:19806/22641247176547d19a7d7cbb602de7f8
-AEC,mitv://generationnexxxt.com:19806/22641247176547d19a7d7cbb602de7f8
-八度空间,P2p://135.148.104.228:19806/645ca03c000900b16ba6cb2b3d9530d5
+
+八度空间,http://198.16.100.90:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
 八度空间,P2p://135.148.104.228:19806/779aca170dba40c5b133a039f4ba2d73
 CCTV4,P2p://135.148.104.228:19806/53697021440d41b180890cab9ba1cd96
 CCTV13,P2p://135.148.104.228:19806/65926086b49b4fc4b6f29aab1d497f35
