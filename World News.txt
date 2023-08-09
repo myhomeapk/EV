@@ -29,7 +29,7 @@ Bloomberg TV,mitv://generationnexxxt.com:19806/fbf63c9e85084cf98b7e39d2cd178608
 Euronews,http://198.16.100.90:8278/euronews_antik/playlist.m3u8?tid=MF2F8095655880956558&ct=19225&tsum=30c549f4730e3d83725a443cf0c16bbe
 Euronews,https://euronews.alteox.app/hls/en_stream.m3u8#https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 DW,mitv://generationnexxxt.com:19806/da713062bd9d419a913b6e9b1aef8fb6
-France24,mitv://generationnexxxt.com:19806/36154fded93f445f863db448232fffa4
+France24,P2p://generationnexxxt.com:19806/72d5e1665d3e4b729ff9dbd4325e8694
 TV8,http://198.16.100.90:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
 TV8,https://epg.pw/stream/4272d54f7d44805ec9a05d9adc8b4c5784396fe26f8ae1a710fd69940e410175.m3u8
 八度空间,P2p://135.148.104.228:19806/daa79ab2d5c64092b7868388c9fe3d2d
@@ -41,6 +41,7 @@ CCTV4,P2p://135.148.104.228:19806/60ab606c55e54f168f9f156a500ce451
 CCTV13,P2p://135.148.104.228:19806/63f9c5b21d58458895cdf6edb6011f27
 Sky News,P2p://135.148.104.228:19806/004e34fc27b949339dc56c7dfc272f76
 ABC Australia,P2p://135.148.104.228:19806/94fa84e314d745669761bf70b2bac7e5
+BeritaRTM,P2p://generationnexxxt.com:19806/d32a93840f444bd28b48f63b86f1a863
 
 Test,#genre#
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?zzhed
