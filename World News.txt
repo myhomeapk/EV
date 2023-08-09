@@ -4,10 +4,10 @@ Free App,http://
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
+CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
 CNN,http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 CNN,http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 CNN,http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
-CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
 CNN,mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
 CNN,mitv://135.148.104.228:19806/3745a94cbe904b9480d19a1b5dfc6275
 
@@ -19,11 +19,12 @@ CGTN Documentary,https://livedoc.cgtn.com/500d/prog_index.m3u8?zshijd
 NHK·World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
 NHK·World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 Al Jazeera,mitv://generationnexxxt.com:19806/03bc1638cc9f4efe9dde7bf6a456bb5b
-BBC World News,mitv://generationnexxxt.com:19806/4500941de27f434cae09553a1f0ed4d1
+BBC World News,P2p://135.148.104.228:19806/c15f2b05ec7a4dadb3dcec0a2176c2c3
 CNBC,mitv://generationnexxxt.com:19806/8603e70bd41c4e4a9368407a8a4debdd
 FoxNews,http://50.7.238.114:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
 FoxNews,http://198.16.100.90:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
-FoxNews,mitv://generationnexxxt.com:19806/645a7af80001541a6345379702241ea6
+FoxNews,P2p://135.148.104.228:19806/e9305a82b75c42f5901c0594e063e999
+BloombergTV,P2p://135.148.104.228:19806/885bb543b9cb4bbeb5bcfe518fb90780
 Bloomberg TV,mitv://generationnexxxt.com:19806/fbf63c9e85084cf98b7e39d2cd178608
 Euronews,http://198.16.100.90:8278/euronews_antik/playlist.m3u8?tid=MF2F8095655880956558&ct=19225&tsum=30c549f4730e3d83725a443cf0c16bbe
 Euronews,https://euronews.alteox.app/hls/en_stream.m3u8#https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
@@ -31,13 +32,13 @@ DW,mitv://generationnexxxt.com:19806/da713062bd9d419a913b6e9b1aef8fb6
 France24,mitv://generationnexxxt.com:19806/36154fded93f445f863db448232fffa4
 TV8,http://198.16.100.90:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
 TV8,https://epg.pw/stream/4272d54f7d44805ec9a05d9adc8b4c5784396fe26f8ae1a710fd69940e410175.m3u8
-八度空间,mitv://135.148.104.228:19806/645ca03c000900b16ba6cb2b3d9530d5
-八度空间,mitv://generationnexxxt.com:19806/779aca170dba40c5b133a039f4ba2d73
+八度空间,P2p://135.148.104.228:19806/daa79ab2d5c64092b7868388c9fe3d2d
+八度空间,P2p://135.148.104.228:19806/2e2b2c26f8e54bbbb79581b30bb9816e
 八度空间,P2p://135.148.104.228:19806/645ca03c000900b16ba6cb2b3d9530d5
 八度空间,P2p://135.148.104.228:19806/779aca170dba40c5b133a039f4ba2d73
-Awani,http://198.16.100.90:8278/Awani/playlist.m3u8?tid=MADA3704315537043155&ct=19254&tsum=b13ed0c5ea09f584d34097329df9150b
-CCTV4,P2p://135.148.104.228:19806/53697021440d41b180890cab9ba1cd96
-CCTV13,P2p://135.148.104.228:19806/65926086b49b4fc4b6f29aab1d497f35
+Awani,P2p://135.148.104.228:19806/3a1a9a23587140a7bbc5734b00c03f52
+CCTV4,P2p://135.148.104.228:19806/60ab606c55e54f168f9f156a500ce451
+CCTV13,P2p://135.148.104.228:19806/63f9c5b21d58458895cdf6edb6011f27
 Sky News,mitv://generationnexxxt.com:19806/ddc4e102601e4fcfa5432722538cf052
 ABC Australia,mitv://generationnexxxt.com:19806/84b326c4dc92459abf1f6e0007c8680a
 
@@ -99,7 +100,7 @@ CBSNews,http://198.16.100.90:8278/cbsn_glo/playlist.m3u8?tid=ME2E700351897003518
 
 
 Test2,#genre#
-AEC,mitv://135.148.104.228:19806/645e3c400002030a71f03906176b2ff1
+AEC,P2p://135.148.104.228:19806/cd1cf3c664a44822898e14d8025f2fc1
 凤凰香港,http://120.84.96.87:808/hls/81/index.m3u8
 CBSNews,http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
 CBSNews,http://198.16.100.90:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
