@@ -40,8 +40,7 @@ Awani,P2p://135.148.104.228:19806/3a1a9a23587140a7bbc5734b00c03f52
 CCTV4,P2p://135.148.104.228:19806/60ab606c55e54f168f9f156a500ce451
 CCTV13,P2p://135.148.104.228:19806/63f9c5b21d58458895cdf6edb6011f27
 Sky News,mitv://generationnexxxt.com:19806/ddc4e102601e4fcfa5432722538cf052
-ABC Australia,mitv://generationnexxxt.com:19806/84b326c4dc92459abf1f6e0007c8680a
-
+ABC Australia,P2p://135.148.104.228:19806/94fa84e314d745669761bf70b2bac7e5
 
 Test,#genre#
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?zzhed
