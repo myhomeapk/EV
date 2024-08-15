@@ -1,6 +1,9 @@
 
 World News,#genre#
 Free App,http://
+
+BBC World News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
@@ -16,7 +19,7 @@ CGTN Documentary,https://livedoc.cgtn.com/500d/prog_index.m3u8?zshijd
 NHK·World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
 NHK·World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 Al Jazeera,mitv://generationnexxxt.com:19806/03bc1638cc9f4efe9dde7bf6a456bb5b
-BBC World News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
 CNBC,mitv://generationnexxxt.com:19806/8603e70bd41c4e4a9368407a8a4debdd
 FoxNews,http://50.7.238.114:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
 FoxNews,http://198.16.100.90:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
@@ -27,73 +30,6 @@ Euronews,http://198.16.100.90:8278/euronews_antik/playlist.m3u8?tid=MF2F80956558
 Euronews,https://euronews.alteox.app/hls/en_stream.m3u8#https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 DW,mitv://generationnexxxt.com:19806/da713062bd9d419a913b6e9b1aef8fb6
 France24,P2p://generationnexxxt.com:19806/72d5e1665d3e4b729ff9dbd4325e8694
-TV8,http://198.16.100.90:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
-TV8,https://epg.pw/stream/4272d54f7d44805ec9a05d9adc8b4c5784396fe26f8ae1a710fd69940e410175.m3u8
-八度空间,P2p://135.148.104.228:19806/daa79ab2d5c64092b7868388c9fe3d2d
-八度空间,P2p://135.148.104.228:19806/2e2b2c26f8e54bbbb79581b30bb9816e
-八度空间,P2p://135.148.104.228:19806/645ca03c000900b16ba6cb2b3d9530d5
-八度空间,P2p://135.148.104.228:19806/779aca170dba40c5b133a039f4ba2d73
-Awani,P2p://135.148.104.228:19806/3a1a9a23587140a7bbc5734b00c03f52
-CCTV4,P2p://135.148.104.228:19806/60ab606c55e54f168f9f156a500ce451
-CCTV13,P2p://135.148.104.228:19806/63f9c5b21d58458895cdf6edb6011f27
-Sky News,P2p://135.148.104.228:19806/004e34fc27b949339dc56c7dfc272f76
-ABC Australia,P2p://135.148.104.228:19806/94fa84e314d745669761bf70b2bac7e5
-BeritaRTM,P2p://generationnexxxt.com:19806/d32a93840f444bd28b48f63b86f1a863
-
-Test,#genre#
-浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?zzhed
-浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8?zzhed
-浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/360p.m3u8?zzhed
-
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰资讯,http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
-
-凤凰卫视,http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
-凤凰卫视,http://50.7.238.114:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
-
-凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
-凤凰中文,http://183.129.242.178:3333/tsfile/live/1001_1.m3u8
-凤凰中文,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=2487
-凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
-
-凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
-
-iNews,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
-民视新闻,http://198.16.100.90:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
-民视新闻,http://awei.beimua.com/iptv.php?id=50
-年代新闻,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
-中视新闻,http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
-中天新闻,http://awei.beimua.com/iptv.php?id=43
-中天新闻,https://epg.pw/stream/63e8b74e2b8d54eb1dddb5159fc153e3b3f8868f626b715e8fb94fdb11da763d.m3u8
-东森新闻,http://awei.beimua.com/iptv.php?id=44
-中视新闻,http://awei.beimua.com/iptv.php?id=46
-台视新闻,http://awei.beimua.com/iptv.php?id=47
-三立新闻,http://awei.beimua.com/iptv.php?id=48
-华视新闻,http://awei.beimua.com/iptv.php?id=51
-镜电视新闻,http://awei.beimua.com/iptv.php?id=52
-环宇新闻,http://awei.beimua.com/iptv.php?id=53
-TVBS新闻,http://awei.beimua.com/iptv.php?id=54
-TVBS新闻,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
-TVB娱乐新闻台,mitv://generationnexxxt.com:19806/8378c6ce158144038e684ac97d498273
-HKC新闻,mitv://generationnexxxt.com:19806/a30ba03ec986438088e5748c21ac1f5b
-非凡商业,mitv://generationnexxxt.com:19806/5fd11cbd11bc4481b7e3b16808b70a5d
-非凡新闻,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
-非凡新闻,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
-
-CBSNews,http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
-CBSNews,http://198.16.100.90:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
-
-娱乐新闻,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571188&extension=ts&play_token=p582OSpABb
-娱乐新闻,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153398&extension=ts&play_token=TPIp3m3TjC
-有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
-有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-
-有线新闻,http://pull-l3-cny.douyincdn.com/live/daddajjoj55108.m3u8
-
-无线新闻,http://pull-l3-cny.douyincdn.com/live/I8NmAJdtvb632.m3u8
-无线新闻,http://14.221.164.12:9981/stream/channelid/1617562313?profile=pass
-无线新闻,http://14.221.164.12:9981/stream/channelid/631121084?profile=pass
-
 
 
 Test2,#genre#
