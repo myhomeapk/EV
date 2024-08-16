@@ -17,6 +17,7 @@ CGTN(EN),http://live.cgtn.com/500/prog_index.m3u8?zshijd
 CGTN(EN),http://live.cgtn.com/500/prog_index.m3u8
 
 CGTN Documentary,https://livedoc.cgtn.com/500d/prog_index.m3u8?zshijd
+NHK WORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 Al Jazeera,https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 Al Jazeera,https://live-hls-web-aje.getaj.net/AJE/04.m3u8
