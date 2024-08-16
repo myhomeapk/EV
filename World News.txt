@@ -28,3 +28,4 @@ abc News,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/c
 abc News,https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
 Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 TVBS News,http://61.221.215.25:8800/hls/9/index.m3u8
+AEC,http://154.9.228.245:741/smt.php?id=AEC
