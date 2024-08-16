@@ -23,10 +23,12 @@ Al Jazeera,https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 Al Jazeera,https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 Al Jazeera,https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 
+Bloomberg TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/54ff7ba69222cb1c2624c584/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=90859fb4-eb20-4022-bd6d-3413a8bf59c2&serverSideAds=false&checkedby:iptvcat.com
+
 Axtro Awani,https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 DW News,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 abc News,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6508be683a0d700008c534e4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265962-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99b21a01-5948-4846-8087-2fee1b5f0a3d&serverSideAds=false&checkedby:iptvcat.com
 abc News,https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
 Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 TVBS News,http://61.221.215.25:8800/hls/9/index.m3u8
-AEC,http://154.9.228.245:741/smt.php?id=AEC
+
